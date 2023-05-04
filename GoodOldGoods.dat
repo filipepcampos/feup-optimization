@@ -1,0 +1,43 @@
+/*********************************************
+ * OPL 22.1.1.0 Data
+ * Author: filipe
+ * Creation Date: 2 May 2023 at 05:15:22
+ *********************************************/
+
+ExperienceWeigth = 3;
+PresentationSkillsWeigth = 1;
+LanguageSkillsWeigth = 1;
+AvailabilityWeigth = 0.3;
+LimitConsecutiveDays = 5;
+ 
+ SheetConnection sheet("GoodOldGoods_Data.xlsx");
+ 
+// Positions from SheetRead(sheet, "Table1[Position ]");
+// Requirements from SheetRead(sheet, "Table1[[Day 1]:[Day 9]]");
+
+Positions from SheetRead(sheet, "'Table 1'!B5:B38");
+PositionTypes from SheetRead(sheet, "Table3[[#Headers],[Catalogue Desk Assistant ]:[Spotter ]]");
+PositionMatch from SheetRead(sheet, "PositionMatch");
+Days from SheetRead(sheet, "Table1[[#Headers],[Day 1]:[Day 9]]");
+CandidateIds from SheetRead(sheet, "Table2[Candidate Id]");
+CandidateNames from SheetRead(sheet, "Table2[Candidate Name]");
+Requirements from SheetRead(sheet, "'Table 1'!D5:L38");
+Availability from SheetRead(sheet, "Table2[[Day 1]:[Day 9]]");
+Experience from SheetRead(sheet, "Table3[[Catalogue Desk Assistant ]:[Spotter ]]");
+PresentationSkillsMatch from SheetRead(sheet, "PresentationSkillsMatch");
+LanguageSkillsMatch from SheetRead(sheet, "LanguageSkillsMatch");
+//SkillsTypes from SheetRead(sheet, "Table3[[#Headers],[Presentation skills]:[Travel time&distance]]");
+SkillsTypes from SheetRead(sheet, "'Table 3'!T4:V4");
+Skills from SheetRead(sheet, "Table3[[Presentation skills]:[Travel time&distance]]");
+
+DayNameMatch = [
+	"Day 1",
+	" Day 2 ",
+	"Day 3 ",
+	"Day 4",
+	"Day 5",
+	"Day 6",
+	"Day 7",
+	"Day 8",
+	"Day 9"
+];
