@@ -14,10 +14,11 @@ int LimitConsecutiveDays = ...;
 {string} PositionTypes = ...;
 {string} Days = ...;
 {int} CandidateIds = ...;
-{string} CandidateNames = ...;
+string CandidateNames[CandidateIds] = ...;
 {string} SkillsTypes = ...;
 
-int NumberOfDaySubarrays = card(Days) - LimitConsecutiveDays; // TODO: check if +1 is needed
+int NumberOfDays = card(Days);
+int NumberOfDaySubarrays = NumberOfDays - LimitConsecutiveDays; // TODO: check if +1 is needed
 
 string PositionMatch[Positions] = ...;
 int LanguageSkillsMatch[Positions] = ...;
@@ -27,9 +28,35 @@ int Availability[CandidateIds][Days] = ...;
 int Experience[CandidateIds][PositionTypes] = ...;
 int Skills[CandidateIds][SkillsTypes] = ...;
 
-string DayNameMatch[1..card(Days)] = ...;
+string DayNameMatch[1..NumberOfDays] = ...;
 
 dvar boolean x[Days][CandidateIds][Positions];
+
+// ======================= METRICS =======================		
+// Average availability in percentage of total days (0 to 1)
+dexpr float kpi_availability = (
+	sum(candidate in CandidateIds) (
+	  (sum(day in Days) Availability[candidate][day]) / NumberOfDays
+	)
+) / card(CandidateIds);
+
+// Average experience in percentage (0 to 1)
+dexpr float kpi_experience = sum(day in Days) ((
+		sum(position in Positions : Requirements[position][day] > 0) (
+			sum(candidate in CandidateIds) (
+				(x[day][candidate][position] * Experience[candidate][PositionMatch[position]]) / 5
+			)
+		)
+	) /	(
+	sum(position in Positions)
+	  Requirements[position][day]
+	)) / NumberOfDays;
+
+// Number of workers
+dexpr float kpi_number_of_workers = 
+	sum(candidate in CandidateIds)
+	  	minl(1, sum(day in Days) sum(position in Positions) x[day][candidate][position]);
+// ======================= END OF METRICS =======================
 
 dexpr float capabilities = 
 	sum(day in Days)
@@ -39,11 +66,14 @@ dexpr float capabilities =
 					ExperienceWeigth * Experience[candidate][PositionMatch[position]] + 
 						PresentationSkillsWeigth * Skills[candidate]["Presentation skills"]*PresentationSkillsMatch[position] +
 						LanguageSkillsWeigth * Skills[candidate]["Language skills"]*LanguageSkillsMatch[position] +
-						AvailabilityWeigth * (5 * (sum(availableDays in Days) Availability[candidate][day]) / card(Days))
+						AvailabilityWeigth * (5 * (sum(availableDays in Days) Availability[candidate][day]) / NumberOfDays)
 				);
 
+dexpr float regularAllocations = capabilities;
+dexpr float waitingListAllocations = 0;
 
-maximize capabilities;
+maximize regularAllocations;
+//maximize staticLex(regularAllocations, waitingListAllocations);
  
 subject to {
   	// Only 1 allocation per staff per day
@@ -70,31 +100,49 @@ subject to {
 	  forall(firstDayIndex in 1..NumberOfDaySubarrays)
 	    sum(dayIndex in firstDayIndex..firstDayIndex+LimitConsecutiveDays) sum(position in Positions) x[DayNameMatch[dayIndex]][candidate][position] <=  LimitConsecutiveDays - 1;    
 }
-
-int working[c in CandidateIds][d in Days] = sum(position in Positions) x[d][c][position];
  
-execute OUTPUT_RESULTS {
+execute OUTPUT_RESULTS_LOG {
 	var file = new IloOplOutputFile("solution.txt");
 	file.writeln("Objective Function = ", cplex.getObjValue());
+	file.writeln("Average Availability = ", kpi_availability * NumberOfDays, " days");
+	file.writeln("Average Experience = ", kpi_experience * 5, " / 5");
+	file.writeln("Number of workers = ", kpi_number_of_workers);
 	
-//	for(var day in Days) {
-//	  file.writeln(day);
-//	  
-//	  for(var position in Positions){
-//	    file.write("  ");
-//	    file.writeln(position);
-//	    
-//	    for(var candidate in CandidateIds){
-//	      if(x[day][candidate][position] == 1){
-//	       	file.write("    ");
-//	      	file.writeln(candidate) 
-//	      }
-//	    }
-//	  }
-	 for(var person in CandidateIds) {
-	   for(var day in Days) {
-	     file.write(working[person][day]);
-	   }
-	   file.writeln("--");
-	}
+	file.writeln("\nAllocations:\n");
+	
+	for(var day in Days) {
+	  file.writeln(day);
+	  
+	  for(var position in Positions){
+	    file.write("    ");
+	    file.writeln(position);
+	    
+	    for(var candidate in CandidateIds){
+	      if(x[day][candidate][position] == 1){
+	       	file.write("        ");
+	      	file.writeln(CandidateNames[candidate], " - ", Experience[candidate][PositionMatch[position]]); 
+	      }
+	    }
+	  }
+ 	}
+}
+
+execute OUTPUT_CSV {
+  var file = new IloOplOutputFile("allocations.csv");
+  
+  
+  file.writeln("Day,Position,Candidate Id,Experience,Language Skills,Presentation Skills");
+  
+  for(var day in Days) {
+    for(var position in Positions) {
+      for(var candidate in CandidateIds) {
+        if(x[day][candidate][position] == 1){
+	        var experience = Experience[candidate][PositionMatch[position]];
+	        var languageSkill = Skills[candidate]["Language skills"];
+	        var presentationSkill = Skills[candidate]["Presentation skills"];
+	        file.writeln(day,",",position,",",candidate,",",experience,",",languageSkill,",",presentationSkill);
+      	}        
+      }
+    }
+  }
 }
