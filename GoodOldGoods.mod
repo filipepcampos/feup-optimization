@@ -195,17 +195,17 @@ execute OUTPUT_CSV {
   var file = new IloOplOutputFile("allocations.csv");
   
   
-  file.writeln("Day,Position,Candidate Id,Experience,Language Skills,Presentation Skills");
+  file.writeln("Day,Position,Position Type,Candidate Id,Candidate Name,Experience,Language Skills,Presentation Skills");
   
   for(var day in Days) {
     for(var position in Positions) {
       for(var candidate in CandidateIds) {
         if(x[day][candidate][position] == 1){
-	        var experience = Experience[candidate][PositionMatch[position]];
-	        var languageSkill = Skills[candidate]["Language skills"];
-	        var presentationSkill = Skills[candidate]["Presentation skills"];
-	        file.writeln(day,",",position,",",candidate,",",experience,",",languageSkill,",",presentationSkill);
-      	}        
+            var experience = Experience[candidate][PositionMatch[position]];
+            var languageSkill = Skills[candidate]["Language skills"];
+            var presentationSkill = Skills[candidate]["Presentation skills"];
+            file.writeln(day,",",position,",",PositionMatch[position],",",candidate,",",CandidateNames[candidate],",",experience,",",languageSkill,",",presentationSkill);
+          }        
       }
     }
   }
