@@ -4,11 +4,15 @@
  * Creation Date: 2 May 2023 at 05:15:22
  *********************************************/
 
-ExperienceWeigth = 5;
-PresentationSkillsWeigth = 1;
-LanguageSkillsWeigth = 1;
-AvailabilityWeigth = 0.3;
-LimitConsecutiveDays = 5;
+ExperienceWeigth = 0.65;
+PresentationSkillsWeigth = 0.20;
+LanguageSkillsWeigth = 0.075;
+AvailabilityWeigth = 0.075;
+
+LimitConsecutiveDays = 7;
+TargetNumberOfWorkers = 250;
+MaximumNumberOfWorkers = 300;
+PenaltyPerExtraWorker = 0.01; // 0.5 / 50, overall capabilities may decrease 0.5 points if number of workers is 250
  
  SheetConnection sheet("GoodOldGoods_Data.xlsx");
  

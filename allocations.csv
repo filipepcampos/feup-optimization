@@ -1,491 +1,490 @@
 Day,Position,Candidate Id,Experience,Language Skills,Presentation Skills
 Day 1,Client Services Assistant ,130,5,4,0
 Day 1,Client Services Assistant ,158,5,1,5
-Day 1,Client Services Assistant ,209,5,4,5
+Day 1,Client Services Assistant ,176,5,2,4
 Day 1,Client Services Assistant ,210,5,2,1
 Day 1,Client Services Assistant ,236,5,3,0
-Day 1,Dept B Packing Assistant ,59,5,4,1
+Day 1,Dept B Packing Assistant ,72,5,0,5
+Day 1,Dept B Packing Assistant ,73,5,5,3
 Day 1,Dept B Packing Assistant ,115,5,4,2
 Day 1,Dept B Packing Assistant ,131,4,2,5
-Day 1,Dept B Packing Assistant ,142,4,1,2
-Day 1,Dept B Packing Assistant ,146,4,3,1
-Day 1,Dept B Packing Assistant ,218,5,2,4
+Day 1,Dept B Packing Assistant ,198,4,2,2
 Day 1,Dept B Packing Assistant ,233,4,3,3
 Day 1,Dept B Packing Assistant ,238,5,5,1
 Day 1,Dept B Packing Assistant ,254,4,4,0
-Day 1,Dept B Packing Assistant ,258,5,4,5
-Day 1,Dept B Viewing Assistant ,14,5,2,1
-Day 1,Dept B Viewing Assistant ,23,4,4,4
-Day 1,Dept B Viewing Assistant ,44,4,3,4
-Day 1,Dept B Viewing Assistant ,66,5,4,2
-Day 1,Dept B Viewing Assistant ,113,5,3,4
-Day 1,Dept B Viewing Assistant ,155,5,1,4
+Day 1,Dept B Packing Assistant ,287,4,3,0
+Day 1,Dept B Packing Assistant ,321,5,4,5
+Day 1,Dept B Viewing Assistant ,15,5,2,2
+Day 1,Dept B Viewing Assistant ,46,5,1,3
+Day 1,Dept B Viewing Assistant ,99,4,4,5
+Day 1,Dept B Viewing Assistant ,154,4,4,0
 Day 1,Dept B Viewing Assistant ,157,5,1,2
-Day 1,Dept B Viewing Assistant ,159,5,3,1
-Day 1,Dept B Viewing Assistant ,276,4,2,3
+Day 1,Dept B Viewing Assistant ,166,4,3,3
+Day 1,Dept B Viewing Assistant ,214,5,3,0
+Day 1,Dept B Viewing Assistant ,241,5,2,2
+Day 1,Dept B Viewing Assistant ,298,5,1,2
 Day 1,Dept B Viewing Assistant ,307,5,3,1
-Day 1,Dept C Assistant ,96,5,3,3
-Day 1,Dept C Assistant ,219,5,2,4
-Day 1,Dept C Assistant ,256,4,3,1
-Day 1,Dept C Assistant ,306,4,2,1
-Day 1,Dept C Assistant ,313,4,2,4
-Day 1,Dept D Assistant ,17,4,1,1
-Day 1,Dept D Assistant ,25,4,3,1
-Day 1,Dept D Assistant ,34,4,1,4
-Day 1,Dept D Assistant ,93,4,2,3
-Day 1,Dept D Assistant ,94,5,5,3
+Day 1,Dept C Assistant ,25,4,3,1
+Day 1,Dept C Assistant ,94,5,5,3
+Day 1,Dept C Assistant ,156,5,2,5
+Day 1,Dept C Assistant ,246,5,4,3
+Day 1,Dept C Assistant ,297,5,2,1
+Day 1,Dept D Assistant ,19,4,1,2
 Day 1,Dept D Assistant ,108,4,1,0
-Day 1,Dept D Assistant ,156,5,2,5
-Day 1,Dept D Assistant ,191,5,1,4
-Day 1,Dept D Assistant ,234,5,2,1
-Day 1,Dept D Assistant ,252,4,2,3
-Day 1,Dept F Viewing Assistant ,15,5,2,2
-Day 1,Dept F Viewing Assistant ,32,5,0,1
-Day 1,Dept F Viewing Assistant ,160,5,1,3
-Day 1,Dept F Viewing Assistant ,166,4,3,3
-Day 1,Dept F Viewing Assistant ,215,5,2,2
-Day 1,Dept F Viewing Assistant ,224,5,3,0
-Day 1,Dept F Viewing Assistant ,225,5,4,2
-Day 1,Dept F Viewing Assistant ,262,5,3,2
-Day 1,Dept F Viewing Assistant ,284,5,3,1
-Day 1,Dept F Viewing Assistant ,300,5,0,2
-Day 1,Dept G Viewing Assistant ,24,5,2,1
-Day 1,Dept G Viewing Assistant ,123,5,5,0
-Day 1,Dept G Viewing Assistant ,134,5,4,5
-Day 1,Dept G Viewing Assistant ,177,5,1,4
-Day 1,Dept G Viewing Assistant ,182,4,0,2
-Day 1,Dept G Viewing Assistant ,185,5,3,3
-Day 1,Dept G Viewing Assistant ,195,5,3,3
-Day 1,Dept G Viewing Assistant ,214,5,3,0
-Day 1,Dept G Viewing Assistant ,255,5,3,2
-Day 1,Dept G Viewing Assistant ,302,4,2,3
-Day 1,Dept H Assistant ,48,4,4,2
-Day 1,Dept H Assistant ,75,4,3,0
-Day 1,Dept H Assistant ,144,4,3,2
-Day 1,Dept H Assistant ,269,4,3,1
-Day 1,Dept H Assistant ,297,5,2,1
-Day 1,Dept I Viewing Assistant ,31,4,2,3
-Day 1,Dept I Viewing Assistant ,68,4,2,4
-Day 1,Dept I Viewing Assistant ,139,5,4,4
-Day 1,Dept I Viewing Assistant ,298,5,1,2
-Day 1,Dept I Viewing Assistant ,328,3,3,4
-Day 1,Dept K Packing Assistant ,105,4,1,1
-Day 1,Dept K Packing Assistant ,198,4,2,2
-Day 1,Dept K Packing Assistant ,240,4,1,5
-Day 1,Dept K Packing Assistant ,287,4,3,0
+Day 1,Dept D Assistant ,144,4,3,2
+Day 1,Dept D Assistant ,179,4,2,1
+Day 1,Dept D Assistant ,192,3,2,2
+Day 1,Dept D Assistant ,211,3,3,1
+Day 1,Dept D Assistant ,256,4,3,1
+Day 1,Dept D Assistant ,303,4,3,4
+Day 1,Dept D Assistant ,306,4,2,1
+Day 1,Dept D Assistant ,322,4,1,2
+Day 1,Dept F Viewing Assistant ,24,5,2,1
+Day 1,Dept F Viewing Assistant ,31,4,2,3
+Day 1,Dept F Viewing Assistant ,34,4,1,4
+Day 1,Dept F Viewing Assistant ,68,4,2,4
+Day 1,Dept F Viewing Assistant ,101,3,5,3
+Day 1,Dept F Viewing Assistant ,123,5,5,0
+Day 1,Dept F Viewing Assistant ,245,4,1,5
+Day 1,Dept F Viewing Assistant ,276,4,2,3
+Day 1,Dept F Viewing Assistant ,320,4,5,2
+Day 1,Dept F Viewing Assistant ,328,3,3,4
+Day 1,Dept G Viewing Assistant ,1,4,3,4
+Day 1,Dept G Viewing Assistant ,23,4,4,4
+Day 1,Dept G Viewing Assistant ,51,5,2,1
+Day 1,Dept G Viewing Assistant ,102,4,5,3
+Day 1,Dept G Viewing Assistant ,159,5,3,1
+Day 1,Dept G Viewing Assistant ,215,5,2,2
+Day 1,Dept G Viewing Assistant ,224,5,3,0
+Day 1,Dept G Viewing Assistant ,258,4,4,5
+Day 1,Dept G Viewing Assistant ,284,5,3,1
+Day 1,Dept G Viewing Assistant ,300,5,0,2
+Day 1,Dept H Assistant ,96,5,3,3
+Day 1,Dept H Assistant ,191,5,1,4
+Day 1,Dept H Assistant ,217,4,4,3
+Day 1,Dept H Assistant ,219,5,2,4
+Day 1,Dept H Assistant ,234,5,2,1
+Day 1,Dept I Viewing Assistant ,66,5,4,2
+Day 1,Dept I Viewing Assistant ,177,5,1,4
+Day 1,Dept I Viewing Assistant ,185,5,3,3
+Day 1,Dept I Viewing Assistant ,195,5,3,3
+Day 1,Dept I Viewing Assistant ,326,5,2,4
+Day 1,Dept K Packing Assistant ,59,5,4,1
+Day 1,Dept K Packing Assistant ,80,5,5,0
+Day 1,Dept K Packing Assistant ,100,5,1,4
+Day 1,Dept K Packing Assistant ,126,5,1,3
 Day 1,Dept K Packing Assistant ,304,5,4,1
-Day 1,Dept K Set Up Assistant ,6,4,4,2
-Day 1,Dept K Set Up Assistant ,20,4,1,3
 Day 1,Dept K Set Up Assistant ,58,5,5,2
 Day 1,Dept K Set Up Assistant ,63,4,3,3
-Day 1,Dept K Set Up Assistant ,90,4,3,2
-Day 1,Dept K Set Up Assistant ,99,5,4,5
+Day 1,Dept K Set Up Assistant ,64,5,1,4
 Day 1,Dept K Set Up Assistant ,107,5,3,2
 Day 1,Dept K Set Up Assistant ,119,5,5,3
 Day 1,Dept K Set Up Assistant ,133,5,4,4
-Day 1,Dept K Set Up Assistant ,271,4,3,5
+Day 1,Dept K Set Up Assistant ,200,5,3,5
+Day 1,Dept K Set Up Assistant ,240,4,1,5
+Day 1,Dept K Set Up Assistant ,253,3,1,4
+Day 1,Dept K Set Up Assistant ,324,4,5,1
+Day 1,Dept L Packing Assistant ,9,4,5,0
+Day 1,Dept L Packing Assistant ,10,4,1,3
+Day 1,Dept L Packing Assistant ,17,4,1,1
 Day 1,Dept L Packing Assistant ,26,4,1,2
-Day 1,Dept L Packing Assistant ,46,5,1,3
-Day 1,Dept L Packing Assistant ,80,5,5,0
-Day 1,Dept L Packing Assistant ,97,4,3,5
-Day 1,Dept L Packing Assistant ,100,5,1,4
-Day 1,Dept L Packing Assistant ,126,5,1,3
-Day 1,Dept L Packing Assistant ,151,5,2,3
+Day 1,Dept L Packing Assistant ,105,4,1,1
+Day 1,Dept L Packing Assistant ,142,4,1,2
 Day 1,Dept L Packing Assistant ,216,5,4,1
-Day 1,Dept L Packing Assistant ,319,4,0,1
-Day 1,Dept L Packing Assistant ,321,5,4,5
+Day 1,Dept L Packing Assistant ,218,5,2,4
+Day 1,Dept L Packing Assistant ,262,5,3,2
+Day 1,Dept L Packing Assistant ,265,3,3,1
 Day 1,Dept L Set Up Assistant ,2,5,1,2
-Day 1,Dept L Set Up Assistant ,9,4,5,0
+Day 1,Dept L Set Up Assistant ,6,4,4,2
 Day 1,Dept L Set Up Assistant ,18,5,0,4
 Day 1,Dept L Set Up Assistant ,39,5,2,2
-Day 1,Dept L Set Up Assistant ,64,5,1,4
 Day 1,Dept L Set Up Assistant ,67,5,1,5
 Day 1,Dept L Set Up Assistant ,70,4,4,3
-Day 1,Dept L Set Up Assistant ,74,5,2,5
-Day 1,Dept L Set Up Assistant ,176,4,2,4
+Day 1,Dept L Set Up Assistant ,127,3,4,4
+Day 1,Dept L Set Up Assistant ,162,3,4,1
+Day 1,Dept L Set Up Assistant ,184,5,1,4
 Day 1,Dept L Set Up Assistant ,289,5,1,1
-Day 1,Dept L Viewing Assistant ,51,5,2,1
 Day 1,Dept L Viewing Assistant ,109,5,5,3
-Day 1,Dept L Viewing Assistant ,320,4,5,2
-Day 1,Dept L Viewing Assistant ,324,4,5,1
-Day 1,Dept L Viewing Assistant ,326,5,2,4
-Day 1,Information Assistant ,50,5,5,2
+Day 1,Dept L Viewing Assistant ,113,5,3,4
+Day 1,Dept L Viewing Assistant ,134,5,4,5
+Day 1,Dept L Viewing Assistant ,196,5,4,2
+Day 1,Dept L Viewing Assistant ,225,5,4,2
 Day 1,Information Assistant ,87,5,0,3
-Day 1,Information Assistant ,152,5,2,2
-Day 1,Information Assistant ,174,5,5,0
-Day 1,Information Assistant ,322,5,1,2
-Day 1,Information Assistant (Hall 3B) ,101,4,5,3
+Day 1,Information Assistant ,121,4,3,2
+Day 1,Information Assistant ,202,5,3,2
+Day 1,Information Assistant ,259,5,4,4
+Day 1,Information Assistant ,283,5,1,1
 Day 1,Information Assistant (Hall 3B) ,148,5,3,2
-Day 1,Information Assistant (Hall 3B) ,179,5,2,1
+Day 1,Information Assistant (Hall 3B) ,152,5,2,2
+Day 1,Information Assistant (Hall 3B) ,174,5,5,0
+Day 1,Information Assistant (Hall 3B) ,188,5,5,3
 Day 1,Information Assistant (Hall 3B) ,235,5,2,2
-Day 1,Information Assistant (Hall 3B) ,283,5,1,1
 Day 1,London Jewellery Viewing Assistant ,65,5,4,4
+Day 1,London Jewellery Viewing Assistant ,78,4,4,1
 Day 1,London Jewellery Viewing Assistant ,91,5,0,3
+Day 1,London Jewellery Viewing Assistant ,111,4,2,3
 Day 1,London Jewellery Viewing Assistant ,125,5,0,5
-Day 1,London Jewellery Viewing Assistant ,154,5,4,0
-Day 1,London Jewellery Viewing Assistant ,200,5,3,5
-Day 1,London Jewellery Viewing Assistant ,217,5,4,3
 Day 1,London Jewellery Viewing Assistant ,226,5,2,3
+Day 1,London Jewellery Viewing Assistant ,228,4,0,1
+Day 1,London Jewellery Viewing Assistant ,230,4,4,3
 Day 1,London Jewellery Viewing Assistant ,266,5,0,5
-Day 1,London Jewellery Viewing Assistant ,294,5,4,2
 Day 1,London Jewellery Viewing Assistant ,299,5,1,4
 Day 1,Operations & Administration Packer ,5,5,4,1
-Day 1,Operations & Administration Packer ,13,5,3,2
+Day 1,Operations & Administration Packer ,75,5,3,0
 Day 1,Operations & Administration Packer ,201,5,0,0
 Day 1,Operations & Administration Packer ,220,5,1,0
-Day 1,Site Assistant ,1,5,3,4
+Day 1,Site Assistant ,21,4,2,5
+Day 1,Site Assistant ,27,4,1,3
+Day 1,Site Assistant ,37,3,4,4
 Day 1,Site Assistant ,114,5,0,4
 Day 1,Site Assistant ,128,5,4,1
+Day 1,Site Assistant ,167,4,1,2
 Day 1,Site Assistant ,172,5,2,3
-Day 1,Site Assistant ,188,5,5,3
+Day 1,Site Assistant ,183,4,1,1
 Day 1,Site Assistant ,189,5,1,3
-Day 1,Site Assistant ,202,5,3,2
 Day 1,Site Assistant ,249,5,0,4
-Day 1,Site Assistant ,259,5,4,4
-Day 1,Site Assistant ,330,4,5,4
  Day 2 ,Client Services Assistant ,30,5,0,3
- Day 2 ,Client Services Assistant ,130,5,4,0
  Day 2 ,Client Services Assistant ,158,5,1,5
  Day 2 ,Client Services Assistant ,176,5,2,4
  Day 2 ,Client Services Assistant ,186,5,4,2
- Day 2 ,Cloak Room Assistant ,35,4,2,1
+ Day 2 ,Client Services Assistant ,212,5,2,0
  Day 2 ,Cloak Room Assistant ,43,5,4,4
  Day 2 ,Cloak Room Assistant ,70,5,4,3
+ Day 2 ,Cloak Room Assistant ,101,5,5,3
+ Day 2 ,Cloak Room Assistant ,135,4,3,2
  Day 2 ,Cloak Room Assistant ,136,5,4,4
- Day 2 ,Cloak Room Assistant ,149,5,2,2
  Day 2 ,Cloak Room Assistant ,152,5,2,2
  Day 2 ,Cloak Room Assistant ,173,5,2,3
- Day 2 ,Cloak Room Assistant ,205,5,5,4
- Day 2 ,Cloak Room Assistant ,221,5,2,3
+ Day 2 ,Cloak Room Assistant ,180,4,2,3
+ Day 2 ,Cloak Room Assistant ,213,3,3,0
  Day 2 ,Cloak Room Assistant ,252,5,2,3
  Day 2 ,Dept B Packing Assistant ,9,4,5,0
- Day 2 ,Dept B Packing Assistant ,73,5,5,3
- Day 2 ,Dept B Packing Assistant ,80,5,5,0
+ Day 2 ,Dept B Packing Assistant ,10,4,1,3
+ Day 2 ,Dept B Packing Assistant ,84,4,1,2
  Day 2 ,Dept B Packing Assistant ,105,4,1,1
- Day 2 ,Dept B Packing Assistant ,122,4,0,2
- Day 2 ,Dept B Packing Assistant ,138,4,2,4
- Day 2 ,Dept B Packing Assistant ,142,4,1,2
- Day 2 ,Dept B Packing Assistant ,238,5,5,1
- Day 2 ,Dept B Packing Assistant ,254,4,4,0
- Day 2 ,Dept B Packing Assistant ,304,5,4,1
- Day 2 ,Dept B Viewing Assistant ,14,5,2,1
- Day 2 ,Dept B Viewing Assistant ,102,4,5,3
- Day 2 ,Dept B Viewing Assistant ,112,3,1,5
- Day 2 ,Dept B Viewing Assistant ,157,5,1,2
- Day 2 ,Dept B Viewing Assistant ,196,5,4,2
+ Day 2 ,Dept B Packing Assistant ,119,5,5,3
+ Day 2 ,Dept B Packing Assistant ,126,5,1,3
+ Day 2 ,Dept B Packing Assistant ,143,3,3,0
+ Day 2 ,Dept B Packing Assistant ,218,5,2,4
+ Day 2 ,Dept B Packing Assistant ,240,4,1,5
+ Day 2 ,Dept B Packing Assistant ,265,3,3,1
+ Day 2 ,Dept B Viewing Assistant ,24,5,2,1
+ Day 2 ,Dept B Viewing Assistant ,34,4,1,4
+ Day 2 ,Dept B Viewing Assistant ,51,5,2,1
+ Day 2 ,Dept B Viewing Assistant ,127,2,4,4
+ Day 2 ,Dept B Viewing Assistant ,159,5,3,1
+ Day 2 ,Dept B Viewing Assistant ,166,4,3,3
  Day 2 ,Dept B Viewing Assistant ,244,3,2,3
- Day 2 ,Dept B Viewing Assistant ,298,5,1,2
- Day 2 ,Dept B Viewing Assistant ,307,5,3,1
- Day 2 ,Dept B Viewing Assistant ,318,3,4,5
- Day 2 ,Dept B Viewing Assistant ,321,4,4,5
- Day 2 ,Dept C Assistant ,93,4,2,3
- Day 2 ,Dept C Assistant ,190,5,0,1
- Day 2 ,Dept C Assistant ,222,4,3,4
- Day 2 ,Dept C Assistant ,303,4,3,4
- Day 2 ,Dept C Assistant ,313,4,2,4
+ Day 2 ,Dept B Viewing Assistant ,257,3,5,4
+ Day 2 ,Dept B Viewing Assistant ,275,4,2,2
+ Day 2 ,Dept B Viewing Assistant ,309,5,1,0
+ Day 2 ,Dept C Assistant ,94,5,5,3
+ Day 2 ,Dept C Assistant ,96,5,3,3
+ Day 2 ,Dept C Assistant ,219,5,2,4
+ Day 2 ,Dept C Assistant ,234,5,2,1
+ Day 2 ,Dept C Assistant ,312,5,3,2
  Day 2 ,Dept D Assistant ,19,4,1,2
- Day 2 ,Dept D Assistant ,83,5,1,1
- Day 2 ,Dept D Assistant ,94,5,5,3
- Day 2 ,Dept D Assistant ,96,5,3,3
- Day 2 ,Dept D Assistant ,174,4,5,0
- Day 2 ,Dept D Assistant ,179,4,2,1
+ Day 2 ,Dept D Assistant ,108,4,1,0
+ Day 2 ,Dept D Assistant ,192,3,2,2
+ Day 2 ,Dept D Assistant ,222,4,3,4
  Day 2 ,Dept D Assistant ,261,4,4,2
  Day 2 ,Dept D Assistant ,272,4,4,3
- Day 2 ,Dept D Assistant ,312,5,3,2
+ Day 2 ,Dept D Assistant ,293,3,1,1
+ Day 2 ,Dept D Assistant ,303,4,3,4
+ Day 2 ,Dept D Assistant ,313,4,2,4
  Day 2 ,Dept D Assistant ,314,4,3,3
- Day 2 ,Dept F Viewing Assistant ,24,5,2,1
- Day 2 ,Dept F Viewing Assistant ,34,4,1,4
- Day 2 ,Dept F Viewing Assistant ,51,5,2,1
+ Day 2 ,Dept F Viewing Assistant ,14,5,2,1
+ Day 2 ,Dept F Viewing Assistant ,15,5,2,2
+ Day 2 ,Dept F Viewing Assistant ,68,4,2,4
  Day 2 ,Dept F Viewing Assistant ,69,4,3,1
- Day 2 ,Dept F Viewing Assistant ,92,5,1,5
- Day 2 ,Dept F Viewing Assistant ,113,5,3,4
- Day 2 ,Dept F Viewing Assistant ,123,5,5,0
- Day 2 ,Dept F Viewing Assistant ,177,5,1,4
- Day 2 ,Dept F Viewing Assistant ,182,4,0,2
- Day 2 ,Dept F Viewing Assistant ,309,5,1,0
- Day 2 ,Dept G Viewing Assistant ,99,4,4,5
- Day 2 ,Dept G Viewing Assistant ,161,4,1,1
+ Day 2 ,Dept F Viewing Assistant ,112,3,1,5
+ Day 2 ,Dept F Viewing Assistant ,161,4,1,1
+ Day 2 ,Dept F Viewing Assistant ,187,4,4,3
+ Day 2 ,Dept F Viewing Assistant ,232,4,4,4
+ Day 2 ,Dept F Viewing Assistant ,268,4,1,2
+ Day 2 ,Dept F Viewing Assistant ,324,4,5,1
+ Day 2 ,Dept G Viewing Assistant ,62,4,2,3
+ Day 2 ,Dept G Viewing Assistant ,102,4,5,3
+ Day 2 ,Dept G Viewing Assistant ,123,5,5,0
+ Day 2 ,Dept G Viewing Assistant ,157,5,1,2
  Day 2 ,Dept G Viewing Assistant ,175,4,2,4
- Day 2 ,Dept G Viewing Assistant ,187,4,4,3
- Day 2 ,Dept G Viewing Assistant ,257,3,5,4
- Day 2 ,Dept G Viewing Assistant ,262,5,3,2
- Day 2 ,Dept G Viewing Assistant ,275,4,2,2
- Day 2 ,Dept G Viewing Assistant ,279,5,5,3
+ Day 2 ,Dept G Viewing Assistant ,284,5,3,1
  Day 2 ,Dept G Viewing Assistant ,286,4,4,3
- Day 2 ,Dept G Viewing Assistant ,324,4,5,1
- Day 2 ,Dept H Assistant ,108,4,1,0
+ Day 2 ,Dept G Viewing Assistant ,298,5,1,2
+ Day 2 ,Dept G Viewing Assistant ,307,5,3,1
+ Day 2 ,Dept G Viewing Assistant ,318,3,4,5
+ Day 2 ,Dept H Assistant ,83,5,1,1
  Day 2 ,Dept H Assistant ,110,5,1,3
  Day 2 ,Dept H Assistant ,117,5,2,1
  Day 2 ,Dept H Assistant ,246,5,4,3
- Day 2 ,Dept H Assistant ,282,4,1,3
- Day 2 ,Dept I Viewing Assistant ,46,5,1,3
- Day 2 ,Dept I Viewing Assistant ,159,5,3,1
- Day 2 ,Dept I Viewing Assistant ,160,5,1,3
- Day 2 ,Dept I Viewing Assistant ,268,4,1,2
- Day 2 ,Dept I Viewing Assistant ,326,5,2,4
- Day 2 ,Dept K Packing Assistant ,17,4,1,1
- Day 2 ,Dept K Packing Assistant ,54,5,2,2
- Day 2 ,Dept K Packing Assistant ,72,5,0,5
- Day 2 ,Dept K Packing Assistant ,119,5,5,3
- Day 2 ,Dept K Packing Assistant ,126,5,1,3
- Day 2 ,Dept K Set Up Assistant ,6,4,4,2
+ Day 2 ,Dept H Assistant ,297,5,2,1
+ Day 2 ,Dept I Viewing Assistant ,113,5,3,4
+ Day 2 ,Dept I Viewing Assistant ,139,5,4,4
+ Day 2 ,Dept I Viewing Assistant ,196,5,4,2
+ Day 2 ,Dept I Viewing Assistant ,255,5,3,2
+ Day 2 ,Dept I Viewing Assistant ,279,5,5,3
+ Day 2 ,Dept K Packing Assistant ,49,5,5,2
+ Day 2 ,Dept K Packing Assistant ,73,5,5,3
+ Day 2 ,Dept K Packing Assistant ,80,5,5,0
+ Day 2 ,Dept K Packing Assistant ,86,5,3,5
+ Day 2 ,Dept K Packing Assistant ,304,5,4,1
+ Day 2 ,Dept K Set Up Assistant ,7,5,0,5
+ Day 2 ,Dept K Set Up Assistant ,11,4,3,5
  Day 2 ,Dept K Set Up Assistant ,12,5,0,0
- Day 2 ,Dept K Set Up Assistant ,38,5,5,1
- Day 2 ,Dept K Set Up Assistant ,74,5,2,5
- Day 2 ,Dept K Set Up Assistant ,90,4,3,2
+ Day 2 ,Dept K Set Up Assistant ,76,5,0,4
  Day 2 ,Dept K Set Up Assistant ,95,5,2,3
- Day 2 ,Dept K Set Up Assistant ,184,5,1,4
- Day 2 ,Dept K Set Up Assistant ,237,4,2,4
- Day 2 ,Dept K Set Up Assistant ,271,4,3,5
- Day 2 ,Dept K Set Up Assistant ,329,5,2,5
- Day 2 ,Dept K Viewing Assistant ,15,5,2,2
- Day 2 ,Dept K Viewing Assistant ,185,5,3,3
- Day 2 ,Dept K Viewing Assistant ,255,5,3,2
+ Day 2 ,Dept K Set Up Assistant ,129,5,2,1
+ Day 2 ,Dept K Set Up Assistant ,181,3,1,3
+ Day 2 ,Dept K Set Up Assistant ,197,5,2,5
+ Day 2 ,Dept K Set Up Assistant ,289,5,1,1
+ Day 2 ,Dept K Set Up Assistant ,310,3,3,2
+ Day 2 ,Dept K Viewing Assistant ,46,5,1,3
+ Day 2 ,Dept K Viewing Assistant ,92,5,1,5
  Day 2 ,Dept K Viewing Assistant ,258,4,4,5
- Day 2 ,Dept K Viewing Assistant ,284,5,3,1
- Day 2 ,Dept L Packing Assistant ,10,4,1,3
- Day 2 ,Dept L Packing Assistant ,45,5,3,3
- Day 2 ,Dept L Packing Assistant ,49,5,5,2
+ Day 2 ,Dept K Viewing Assistant ,262,5,3,2
+ Day 2 ,Dept K Viewing Assistant ,321,4,4,5
+ Day 2 ,Dept L Packing Assistant ,17,4,1,1
  Day 2 ,Dept L Packing Assistant ,53,5,1,2
- Day 2 ,Dept L Packing Assistant ,86,5,3,5
- Day 2 ,Dept L Packing Assistant ,218,5,2,4
+ Day 2 ,Dept L Packing Assistant ,138,4,2,4
+ Day 2 ,Dept L Packing Assistant ,142,4,1,2
+ Day 2 ,Dept L Packing Assistant ,165,3,4,1
  Day 2 ,Dept L Packing Assistant ,233,4,3,3
+ Day 2 ,Dept L Packing Assistant ,238,5,5,1
  Day 2 ,Dept L Packing Assistant ,239,5,2,3
- Day 2 ,Dept L Packing Assistant ,240,4,1,5
+ Day 2 ,Dept L Packing Assistant ,254,4,4,0
  Day 2 ,Dept L Packing Assistant ,296,4,0,4
- Day 2 ,Dept L Set Up Assistant ,7,5,0,5
- Day 2 ,Dept L Set Up Assistant ,11,4,3,5
+ Day 2 ,Dept L Set Up Assistant ,6,4,4,2
  Day 2 ,Dept L Set Up Assistant ,64,5,1,4
- Day 2 ,Dept L Set Up Assistant ,76,5,0,4
  Day 2 ,Dept L Set Up Assistant ,107,5,3,2
- Day 2 ,Dept L Set Up Assistant ,129,5,2,1
  Day 2 ,Dept L Set Up Assistant ,133,5,4,4
- Day 2 ,Dept L Set Up Assistant ,197,5,2,5
+ Day 2 ,Dept L Set Up Assistant ,171,4,3,1
+ Day 2 ,Dept L Set Up Assistant ,184,5,1,4
  Day 2 ,Dept L Set Up Assistant ,281,5,1,3
- Day 2 ,Dept L Set Up Assistant ,289,5,1,1
- Day 2 ,Dept L Viewing Assistant ,62,4,2,3
- Day 2 ,Dept L Viewing Assistant ,139,5,4,4
- Day 2 ,Dept L Viewing Assistant ,166,4,3,3
- Day 2 ,Dept L Viewing Assistant ,229,5,4,3
- Day 2 ,Dept L Viewing Assistant ,232,4,4,4
+ Day 2 ,Dept L Set Up Assistant ,292,5,1,2
+ Day 2 ,Dept L Set Up Assistant ,305,4,5,2
+ Day 2 ,Dept L Set Up Assistant ,316,3,4,1
+ Day 2 ,Dept L Viewing Assistant ,99,4,4,5
+ Day 2 ,Dept L Viewing Assistant ,160,5,1,3
+ Day 2 ,Dept L Viewing Assistant ,177,5,1,4
+ Day 2 ,Dept L Viewing Assistant ,185,5,3,3
+ Day 2 ,Dept L Viewing Assistant ,326,5,2,4
  Day 2 ,Information Assistant ,20,5,1,3
- Day 2 ,Information Assistant ,50,5,5,2
- Day 2 ,Information Assistant ,87,5,0,3
  Day 2 ,Information Assistant ,121,4,3,2
+ Day 2 ,Information Assistant ,179,5,2,1
+ Day 2 ,Information Assistant ,188,5,5,3
  Day 2 ,Information Assistant ,311,5,2,0
- Day 2 ,Information Assistant (Hall 3B) ,52,5,1,1
  Day 2 ,Information Assistant (Hall 3B) ,79,5,2,4
+ Day 2 ,Information Assistant (Hall 3B) ,87,5,0,3
  Day 2 ,Information Assistant (Hall 3B) ,88,5,1,5
- Day 2 ,Information Assistant (Hall 3B) ,170,5,0,4
- Day 2 ,Information Assistant (Hall 3B) ,213,4,3,0
- Day 2 ,London Jewellery Viewing Assistant ,57,4,4,1
- Day 2 ,London Jewellery Viewing Assistant ,77,5,0,4
+ Day 2 ,Information Assistant (Hall 3B) ,174,5,5,0
+ Day 2 ,Information Assistant (Hall 3B) ,259,5,4,4
+ Day 2 ,London Jewellery Viewing Assistant ,72,5,0,5
  Day 2 ,London Jewellery Viewing Assistant ,91,5,0,3
  Day 2 ,London Jewellery Viewing Assistant ,111,4,2,3
+ Day 2 ,London Jewellery Viewing Assistant ,122,5,0,2
  Day 2 ,London Jewellery Viewing Assistant ,125,5,0,5
  Day 2 ,London Jewellery Viewing Assistant ,148,5,3,2
- Day 2 ,London Jewellery Viewing Assistant ,212,5,2,0
+ Day 2 ,London Jewellery Viewing Assistant ,226,5,2,3
  Day 2 ,London Jewellery Viewing Assistant ,230,4,4,3
+ Day 2 ,London Jewellery Viewing Assistant ,250,4,1,4
  Day 2 ,London Jewellery Viewing Assistant ,290,5,4,4
- Day 2 ,London Jewellery Viewing Assistant ,305,4,5,2
  Day 2 ,Operations & Administration Packer ,5,5,4,1
  Day 2 ,Operations & Administration Packer ,13,5,3,2
- Day 2 ,Operations & Administration Packer ,145,5,1,1
+ Day 2 ,Operations & Administration Packer ,220,5,1,0
  Day 2 ,Operations & Administration Packer ,295,5,3,3
  Day 2 ,Site Assistant ,8,4,5,2
  Day 2 ,Site Assistant ,61,4,2,1
- Day 2 ,Site Assistant ,85,4,4,2
- Day 2 ,Site Assistant ,89,4,5,0
  Day 2 ,Site Assistant ,128,5,4,1
- Day 2 ,Site Assistant ,150,5,1,2
- Day 2 ,Site Assistant ,169,5,1,0
- Day 2 ,Site Assistant ,188,5,5,3
+ Day 2 ,Site Assistant ,167,4,1,2
+ Day 2 ,Site Assistant ,172,5,2,3
+ Day 2 ,Site Assistant ,178,5,2,5
+ Day 2 ,Site Assistant ,183,4,1,1
  Day 2 ,Site Assistant ,189,5,1,3
  Day 2 ,Site Assistant ,323,5,3,4
-Day 3 ,Client Services Assistant ,176,5,2,4
+ Day 2 ,Site Assistant ,330,4,5,4
+Day 3 ,Client Services Assistant ,33,5,1,1
+Day 3 ,Client Services Assistant ,164,5,4,2
 Day 3 ,Client Services Assistant ,186,5,4,2
-Day 3 ,Client Services Assistant ,198,5,2,2
 Day 3 ,Client Services Assistant ,207,5,2,4
 Day 3 ,Client Services Assistant ,236,5,3,0
-Day 3 ,Cloak Room Assistant ,43,5,4,4
+Day 3 ,Cloak Room Assistant ,35,4,2,1
 Day 3 ,Cloak Room Assistant ,70,5,4,3
 Day 3 ,Cloak Room Assistant ,101,5,5,3
-Day 3 ,Cloak Room Assistant ,131,5,2,5
+Day 3 ,Cloak Room Assistant ,123,5,5,0
+Day 3 ,Cloak Room Assistant ,135,4,3,2
 Day 3 ,Cloak Room Assistant ,136,5,4,4
-Day 3 ,Cloak Room Assistant ,149,5,2,2
+Day 3 ,Cloak Room Assistant ,141,5,1,1
 Day 3 ,Cloak Room Assistant ,173,5,2,3
 Day 3 ,Cloak Room Assistant ,180,4,2,3
-Day 3 ,Cloak Room Assistant ,238,5,5,1
 Day 3 ,Cloak Room Assistant ,247,5,0,3
 Day 3 ,Dept A Assistant ,17,4,1,1
-Day 3 ,Dept A Assistant ,25,4,3,1
-Day 3 ,Dept A Assistant ,36,4,2,2
-Day 3 ,Dept A Assistant ,48,4,4,2
-Day 3 ,Dept A Assistant ,150,4,1,2
+Day 3 ,Dept A Assistant ,34,4,1,4
+Day 3 ,Dept A Assistant ,147,5,1,3
 Day 3 ,Dept A Assistant ,206,4,0,2
-Day 3 ,Dept A Assistant ,219,5,2,4
-Day 3 ,Dept A Assistant ,246,5,4,3
+Day 3 ,Dept A Assistant ,222,4,3,4
 Day 3 ,Dept A Assistant ,252,4,2,3
-Day 3 ,Dept A Assistant ,305,3,5,2
-Day 3 ,Dept C Assistant ,144,4,3,2
-Day 3 ,Dept C Assistant ,174,4,5,0
-Day 3 ,Dept C Assistant ,222,4,3,4
-Day 3 ,Dept C Assistant ,282,4,1,3
-Day 3 ,Dept C Assistant ,313,4,2,4
+Day 3 ,Dept A Assistant ,256,4,3,1
+Day 3 ,Dept A Assistant ,274,4,1,3
+Day 3 ,Dept A Assistant ,313,4,2,4
+Day 3 ,Dept A Assistant ,315,4,3,1
+Day 3 ,Dept C Assistant ,16,5,1,2
+Day 3 ,Dept C Assistant ,83,5,1,1
+Day 3 ,Dept C Assistant ,191,5,1,4
+Day 3 ,Dept C Assistant ,242,5,3,4
+Day 3 ,Dept C Assistant ,246,5,4,3
 Day 3 ,Dept D Assistant ,19,4,1,2
-Day 3 ,Dept D Assistant ,83,5,1,1
-Day 3 ,Dept D Assistant ,104,5,4,5
-Day 3 ,Dept D Assistant ,147,5,1,3
-Day 3 ,Dept D Assistant ,148,4,3,2
-Day 3 ,Dept D Assistant ,156,5,2,5
-Day 3 ,Dept D Assistant ,191,5,1,4
-Day 3 ,Dept D Assistant ,256,4,3,1
-Day 3 ,Dept D Assistant ,279,5,5,3
+Day 3 ,Dept D Assistant ,25,4,3,1
+Day 3 ,Dept D Assistant ,48,4,4,2
+Day 3 ,Dept D Assistant ,144,4,3,2
+Day 3 ,Dept D Assistant ,282,4,1,3
+Day 3 ,Dept D Assistant ,285,4,1,2
+Day 3 ,Dept D Assistant ,293,3,1,1
 Day 3 ,Dept D Assistant ,303,4,3,4
-Day 3 ,Dept F Packing Assistant ,4,4,2,0
-Day 3 ,Dept F Packing Assistant ,28,5,1,3
-Day 3 ,Dept F Packing Assistant ,49,5,5,2
-Day 3 ,Dept F Packing Assistant ,53,5,1,2
-Day 3 ,Dept F Packing Assistant ,59,5,4,1
-Day 3 ,Dept F Packing Assistant ,73,5,5,3
-Day 3 ,Dept F Packing Assistant ,126,5,1,3
+Day 3 ,Dept D Assistant ,305,3,5,2
+Day 3 ,Dept D Assistant ,322,4,1,2
+Day 3 ,Dept F Packing Assistant ,105,4,1,1
 Day 3 ,Dept F Packing Assistant ,138,4,2,4
+Day 3 ,Dept F Packing Assistant ,244,3,2,3
+Day 3 ,Dept F Packing Assistant ,248,5,5,3
 Day 3 ,Dept F Packing Assistant ,254,4,4,0
+Day 3 ,Dept F Packing Assistant ,265,3,3,1
+Day 3 ,Dept F Packing Assistant ,287,4,3,0
+Day 3 ,Dept F Packing Assistant ,291,4,1,1
 Day 3 ,Dept F Packing Assistant ,296,4,0,4
-Day 3 ,Dept F Viewing Assistant ,15,5,2,2
+Day 3 ,Dept F Packing Assistant ,325,4,5,1
+Day 3 ,Dept F Viewing Assistant ,14,5,2,1
 Day 3 ,Dept F Viewing Assistant ,24,5,2,1
 Day 3 ,Dept F Viewing Assistant ,68,4,2,4
-Day 3 ,Dept F Viewing Assistant ,69,4,3,1
-Day 3 ,Dept F Viewing Assistant ,109,5,5,3
-Day 3 ,Dept F Viewing Assistant ,134,5,4,5
-Day 3 ,Dept F Viewing Assistant ,164,4,4,2
-Day 3 ,Dept F Viewing Assistant ,175,4,2,4
-Day 3 ,Dept F Viewing Assistant ,308,5,1,4
-Day 3 ,Dept F Viewing Assistant ,320,4,5,2
-Day 3 ,Dept G Viewing Assistant ,40,5,4,2
+Day 3 ,Dept F Viewing Assistant ,112,3,1,5
+Day 3 ,Dept F Viewing Assistant ,161,4,1,1
+Day 3 ,Dept F Viewing Assistant ,187,4,4,3
+Day 3 ,Dept F Viewing Assistant ,257,3,5,4
+Day 3 ,Dept F Viewing Assistant ,275,4,2,2
+Day 3 ,Dept F Viewing Assistant ,307,5,3,1
+Day 3 ,Dept F Viewing Assistant ,318,3,4,5
 Day 3 ,Dept G Viewing Assistant ,92,5,1,5
-Day 3 ,Dept G Viewing Assistant ,241,5,2,2
-Day 3 ,Dept G Viewing Assistant ,298,5,1,2
-Day 3 ,Dept G Viewing Assistant ,307,5,3,1
-Day 3 ,Dept H Assistant ,16,5,1,2
-Day 3 ,Dept H Assistant ,34,4,1,4
+Day 3 ,Dept G Viewing Assistant ,225,5,4,2
+Day 3 ,Dept G Viewing Assistant ,245,4,1,5
+Day 3 ,Dept G Viewing Assistant ,262,5,3,2
+Day 3 ,Dept G Viewing Assistant ,308,5,1,4
+Day 3 ,Dept H Assistant ,104,5,4,5
 Day 3 ,Dept H Assistant ,110,5,1,3
-Day 3 ,Dept H Assistant ,242,5,3,4
-Day 3 ,Dept H Assistant ,274,4,1,3
-Day 3 ,Dept I Viewing Assistant ,23,4,4,4
-Day 3 ,Dept I Viewing Assistant ,160,5,1,3
-Day 3 ,Dept I Viewing Assistant ,225,5,4,2
-Day 3 ,Dept I Viewing Assistant ,245,4,1,5
-Day 3 ,Dept I Viewing Assistant ,302,4,2,3
-Day 3 ,Dept K Packing Assistant ,10,4,1,3
+Day 3 ,Dept H Assistant ,156,5,2,5
+Day 3 ,Dept H Assistant ,219,5,2,4
+Day 3 ,Dept H Assistant ,279,5,5,3
+Day 3 ,Dept I Viewing Assistant ,28,5,1,3
+Day 3 ,Dept I Viewing Assistant ,196,5,4,2
+Day 3 ,Dept I Viewing Assistant ,251,4,3,5
+Day 3 ,Dept I Viewing Assistant ,258,4,4,5
+Day 3 ,Dept I Viewing Assistant ,321,4,4,5
+Day 3 ,Dept K Packing Assistant ,49,5,5,2
+Day 3 ,Dept K Packing Assistant ,72,5,0,5
+Day 3 ,Dept K Packing Assistant ,73,5,5,3
 Day 3 ,Dept K Packing Assistant ,80,5,5,0
-Day 3 ,Dept K Packing Assistant ,105,4,1,1
-Day 3 ,Dept K Packing Assistant ,116,5,4,2
-Day 3 ,Dept K Packing Assistant ,291,4,1,1
-Day 3 ,Dept K Set Up Assistant ,7,5,0,5
-Day 3 ,Dept K Set Up Assistant ,12,5,0,0
-Day 3 ,Dept K Set Up Assistant ,29,4,3,3
-Day 3 ,Dept K Set Up Assistant ,39,5,2,2
-Day 3 ,Dept K Set Up Assistant ,58,5,5,2
+Day 3 ,Dept K Packing Assistant ,126,5,1,3
+Day 3 ,Dept K Set Up Assistant ,11,4,3,5
+Day 3 ,Dept K Set Up Assistant ,63,4,3,3
+Day 3 ,Dept K Set Up Assistant ,107,5,3,2
+Day 3 ,Dept K Set Up Assistant ,127,3,4,4
+Day 3 ,Dept K Set Up Assistant ,129,5,2,1
 Day 3 ,Dept K Set Up Assistant ,133,5,4,4
-Day 3 ,Dept K Set Up Assistant ,250,4,1,4
-Day 3 ,Dept K Set Up Assistant ,260,5,2,4
-Day 3 ,Dept K Set Up Assistant ,268,4,1,2
-Day 3 ,Dept K Set Up Assistant ,329,5,2,5
-Day 3 ,Dept K Viewing Assistant ,112,3,1,5
-Day 3 ,Dept K Viewing Assistant ,118,4,4,3
-Day 3 ,Dept K Viewing Assistant ,257,3,5,4
-Day 3 ,Dept K Viewing Assistant ,262,5,3,2
-Day 3 ,Dept K Viewing Assistant ,327,5,3,5
+Day 3 ,Dept K Set Up Assistant ,184,5,1,4
+Day 3 ,Dept K Set Up Assistant ,281,5,1,3
+Day 3 ,Dept K Set Up Assistant ,310,3,3,2
+Day 3 ,Dept K Set Up Assistant ,316,3,4,1
+Day 3 ,Dept K Viewing Assistant ,23,4,4,4
+Day 3 ,Dept K Viewing Assistant ,113,5,3,4
+Day 3 ,Dept K Viewing Assistant ,139,5,4,4
+Day 3 ,Dept K Viewing Assistant ,177,5,1,4
+Day 3 ,Dept K Viewing Assistant ,255,5,3,2
+Day 3 ,Dept L Packing Assistant ,9,4,5,0
+Day 3 ,Dept L Packing Assistant ,10,4,1,3
 Day 3 ,Dept L Packing Assistant ,26,4,1,2
-Day 3 ,Dept L Packing Assistant ,71,4,3,3
-Day 3 ,Dept L Packing Assistant ,72,5,0,5
-Day 3 ,Dept L Packing Assistant ,97,4,3,5
+Day 3 ,Dept L Packing Assistant ,53,5,1,2
+Day 3 ,Dept L Packing Assistant ,59,5,4,1
+Day 3 ,Dept L Packing Assistant ,116,5,4,2
 Day 3 ,Dept L Packing Assistant ,142,4,1,2
-Day 3 ,Dept L Packing Assistant ,151,5,2,3
-Day 3 ,Dept L Packing Assistant ,264,5,1,3
+Day 3 ,Dept L Packing Assistant ,198,4,2,2
+Day 3 ,Dept L Packing Assistant ,238,5,5,1
 Day 3 ,Dept L Packing Assistant ,267,4,4,3
-Day 3 ,Dept L Packing Assistant ,287,4,3,0
-Day 3 ,Dept L Packing Assistant ,325,4,5,1
 Day 3 ,Dept L Set Up Assistant ,2,5,1,2
 Day 3 ,Dept L Set Up Assistant ,6,4,4,2
-Day 3 ,Dept L Set Up Assistant ,11,4,3,5
-Day 3 ,Dept L Set Up Assistant ,63,4,3,3
-Day 3 ,Dept L Set Up Assistant ,107,5,3,2
-Day 3 ,Dept L Set Up Assistant ,129,5,2,1
-Day 3 ,Dept L Set Up Assistant ,184,5,1,4
-Day 3 ,Dept L Set Up Assistant ,251,5,3,5
-Day 3 ,Dept L Set Up Assistant ,281,5,1,3
+Day 3 ,Dept L Set Up Assistant ,7,5,0,5
+Day 3 ,Dept L Set Up Assistant ,12,5,0,0
+Day 3 ,Dept L Set Up Assistant ,39,5,2,2
+Day 3 ,Dept L Set Up Assistant ,58,5,5,2
+Day 3 ,Dept L Set Up Assistant ,176,4,2,4
+Day 3 ,Dept L Set Up Assistant ,260,5,2,4
+Day 3 ,Dept L Set Up Assistant ,268,4,1,2
 Day 3 ,Dept L Set Up Assistant ,292,5,1,2
-Day 3 ,Dept L Viewing Assistant ,113,5,3,4
-Day 3 ,Dept L Viewing Assistant ,123,5,5,0
-Day 3 ,Dept L Viewing Assistant ,132,5,5,5
-Day 3 ,Dept L Viewing Assistant ,177,5,1,4
-Day 3 ,Dept L Viewing Assistant ,196,5,4,2
-Day 3 ,Event Assistant ,27,5,1,3
+Day 3 ,Dept L Viewing Assistant ,40,5,4,2
+Day 3 ,Dept L Viewing Assistant ,109,5,5,3
+Day 3 ,Dept L Viewing Assistant ,134,5,4,5
+Day 3 ,Dept L Viewing Assistant ,160,5,1,3
+Day 3 ,Dept L Viewing Assistant ,241,5,2,2
 Day 3 ,Event Assistant ,37,5,4,4
-Day 3 ,Event Assistant ,143,5,3,0
+Day 3 ,Event Assistant ,43,5,4,4
 Day 3 ,Event Assistant ,208,5,1,5
-Day 3 ,Information Assistant ,42,5,5,4
-Day 3 ,Information Assistant ,202,5,3,2
-Day 3 ,Information Assistant ,235,5,2,2
-Day 3 ,Information Assistant ,283,5,1,1
-Day 3 ,Information Assistant ,285,5,1,2
-Day 3 ,Information Assistant (Hall 3B) ,52,5,1,1
-Day 3 ,Information Assistant (Hall 3B) ,79,5,2,4
-Day 3 ,Information Assistant (Hall 3B) ,88,5,1,5
-Day 3 ,Information Assistant (Hall 3B) ,170,5,0,4
-Day 3 ,Information Assistant (Hall 3B) ,322,5,1,2
-Day 3 ,London Jewellery Viewing Assistant ,77,5,0,4
+Day 3 ,Event Assistant ,317,5,5,3
+Day 3 ,Information Assistant ,88,5,1,5
+Day 3 ,Information Assistant ,148,5,3,2
+Day 3 ,Information Assistant ,175,5,2,4
+Day 3 ,Information Assistant ,188,5,5,3
+Day 3 ,Information Assistant ,284,5,3,1
+Day 3 ,Information Assistant (Hall 3B) ,20,5,1,3
+Day 3 ,Information Assistant (Hall 3B) ,174,5,5,0
+Day 3 ,Information Assistant (Hall 3B) ,202,5,3,2
+Day 3 ,Information Assistant (Hall 3B) ,259,5,4,4
+Day 3 ,Information Assistant (Hall 3B) ,283,5,1,1
 Day 3 ,London Jewellery Viewing Assistant ,125,5,0,5
+Day 3 ,London Jewellery Viewing Assistant ,131,4,2,5
 Day 3 ,London Jewellery Viewing Assistant ,163,5,3,3
 Day 3 ,London Jewellery Viewing Assistant ,230,4,4,3
-Day 3 ,London Jewellery Viewing Assistant ,243,5,0,4
+Day 3 ,London Jewellery Viewing Assistant ,235,5,2,2
+Day 3 ,London Jewellery Viewing Assistant ,250,4,1,4
+Day 3 ,London Jewellery Viewing Assistant ,253,3,1,4
 Day 3 ,London Jewellery Viewing Assistant ,266,5,0,5
-Day 3 ,London Jewellery Viewing Assistant ,270,5,1,3
 Day 3 ,London Jewellery Viewing Assistant ,273,5,4,3
-Day 3 ,London Jewellery Viewing Assistant ,294,5,4,2
 Day 3 ,London Jewellery Viewing Assistant ,299,5,1,4
 Day 3 ,Operations & Administration Packer ,13,5,3,2
+Day 3 ,Operations & Administration Packer ,79,5,2,4
 Day 3 ,Operations & Administration Packer ,145,5,1,1
-Day 3 ,Operations & Administration Packer ,265,4,3,1
 Day 3 ,Operations & Administration Packer ,295,5,3,3
+Day 3 ,Site Assistant ,8,4,5,2
 Day 3 ,Site Assistant ,21,4,2,5
-Day 3 ,Site Assistant ,85,4,4,2
+Day 3 ,Site Assistant ,27,4,1,3
+Day 3 ,Site Assistant ,61,4,2,1
+Day 3 ,Site Assistant ,69,4,3,1
 Day 3 ,Site Assistant ,114,5,0,4
 Day 3 ,Site Assistant ,172,5,2,3
 Day 3 ,Site Assistant ,178,5,2,5
-Day 3 ,Site Assistant ,188,5,5,3
-Day 3 ,Site Assistant ,259,5,4,4
-Day 3 ,Site Assistant ,315,5,3,1
-Day 3 ,Site Assistant ,319,5,0,1
+Day 3 ,Site Assistant ,194,4,1,1
 Day 3 ,Site Assistant ,330,4,5,4
-Day 3 ,Spotter ,3,5,2,3
+Day 3 ,Spotter ,30,4,0,3
 Day 3 ,Spotter ,56,4,1,1
-Day 3 ,Spotter ,57,4,4,1
 Day 3 ,Spotter ,84,5,1,2
-Day 3 ,Spotter ,137,5,0,2
+Day 3 ,Spotter ,143,4,3,0
 Day 3 ,Spotter ,167,4,1,2
 Day 3 ,Spotter ,192,5,2,2
 Day 3 ,Spotter ,210,5,2,1
+Day 3 ,Spotter ,223,5,4,3
 Day 3 ,Spotter ,249,5,0,4
-Day 3 ,Spotter ,301,4,1,3
-Day 4,Catalogue Desk Assistant ,5,5,4,1
+Day 3 ,Spotter ,320,5,5,2
 Day 4,Catalogue Desk Assistant ,23,5,4,4
 Day 4,Catalogue Desk Assistant ,27,5,1,3
 Day 4,Catalogue Desk Assistant ,31,5,2,3
+Day 4,Catalogue Desk Assistant ,62,4,2,3
 Day 4,Catalogue Desk Assistant ,114,5,0,4
 Day 4,Catalogue Desk Assistant ,161,5,1,1
 Day 4,Catalogue Desk Assistant ,233,5,3,3
 Day 4,Catalogue Desk Assistant ,244,4,2,3
-Day 4,Catalogue Desk Assistant ,294,5,4,2
+Day 4,Catalogue Desk Assistant ,275,4,2,2
 Day 4,Catalogue Desk Assistant ,321,5,4,5
 Day 4,Client Services Assistant ,30,5,0,3
 Day 4,Client Services Assistant ,33,5,1,1
-Day 4,Client Services Assistant ,165,4,4,1
+Day 4,Client Services Assistant ,164,5,4,2
 Day 4,Client Services Assistant ,186,5,4,2
-Day 4,Client Services Assistant ,209,5,4,5
-Day 4,Cloak Room Assistant ,21,4,2,5
+Day 4,Client Services Assistant ,236,5,3,0
 Day 4,Cloak Room Assistant ,68,5,2,4
 Day 4,Cloak Room Assistant ,70,5,4,3
 Day 4,Cloak Room Assistant ,78,5,4,1
@@ -494,867 +493,868 @@ Day 4,Cloak Room Assistant ,131,5,2,5
 Day 4,Cloak Room Assistant ,173,5,2,3
 Day 4,Cloak Room Assistant ,180,4,2,3
 Day 4,Cloak Room Assistant ,252,5,2,3
+Day 4,Cloak Room Assistant ,276,5,2,3
 Day 4,Cloak Room Assistant ,280,5,4,4
 Day 4,Currency Board Operator (Saleroom 1) ,35,5,2,1
-Day 4,Currency Board Operator (Saleroom 1) ,36,5,2,2
+Day 4,Currency Board Operator (Saleroom 1) ,61,4,2,1
 Day 4,Currency Board Operator (Saleroom 1) ,130,5,4,0
 Day 4,Currency Board Operator (Saleroom 1) ,135,4,3,2
 Day 4,Currency Board Operator (Saleroom 1) ,141,5,1,1
 Day 4,Currency Board Operator (Saleroom 1) ,171,5,3,1
+Day 4,Currency Board Operator (Saleroom 1) ,240,5,1,5
 Day 4,Currency Board Operator (Saleroom 1) ,247,5,0,3
+Day 4,Currency Board Operator (Saleroom 1) ,293,4,1,1
 Day 4,Currency Board Operator (Saleroom 1) ,310,4,3,2
-Day 4,Currency Board Operator (Saleroom 1) ,317,5,5,3
-Day 4,Currency Board Operator (Saleroom 1) ,323,5,3,4
 Day 4,Dept A Assistant ,17,4,1,1
-Day 4,Dept A Assistant ,75,4,3,0
-Day 4,Dept A Assistant ,82,4,2,1
-Day 4,Dept A Assistant ,94,5,5,3
-Day 4,Dept A Assistant ,96,5,3,3
+Day 4,Dept A Assistant ,147,5,1,3
+Day 4,Dept A Assistant ,211,3,3,1
 Day 4,Dept A Assistant ,222,4,3,4
-Day 4,Dept A Assistant ,227,5,0,4
-Day 4,Dept A Assistant ,231,4,3,1
-Day 4,Dept A Assistant ,269,4,3,1
+Day 4,Dept A Assistant ,261,4,4,2
 Day 4,Dept A Assistant ,272,4,4,3
-Day 4,Dept C Assistant ,48,4,4,2
-Day 4,Dept C Assistant ,108,4,1,0
-Day 4,Dept C Assistant ,211,3,3,1
-Day 4,Dept C Assistant ,256,4,3,1
-Day 4,Dept C Assistant ,322,4,1,2
+Day 4,Dept A Assistant ,282,4,1,3
+Day 4,Dept A Assistant ,313,4,2,4
+Day 4,Dept A Assistant ,318,3,4,5
+Day 4,Dept A Assistant ,322,4,1,2
+Day 4,Dept C Assistant ,96,5,3,3
+Day 4,Dept C Assistant ,104,5,4,5
+Day 4,Dept C Assistant ,246,5,4,3
+Day 4,Dept C Assistant ,297,5,2,1
+Day 4,Dept C Assistant ,312,5,3,2
 Day 4,Dept D Assistant ,19,4,1,2
 Day 4,Dept D Assistant ,25,4,3,1
 Day 4,Dept D Assistant ,34,4,1,4
-Day 4,Dept D Assistant ,47,5,1,4
-Day 4,Dept D Assistant ,144,4,3,2
-Day 4,Dept D Assistant ,147,5,1,3
-Day 4,Dept D Assistant ,234,5,2,1
-Day 4,Dept D Assistant ,297,5,2,1
-Day 4,Dept D Assistant ,313,4,2,4
+Day 4,Dept D Assistant ,48,4,4,2
+Day 4,Dept D Assistant ,75,4,3,0
+Day 4,Dept D Assistant ,108,4,1,0
+Day 4,Dept D Assistant ,224,4,3,0
+Day 4,Dept D Assistant ,256,4,3,1
+Day 4,Dept D Assistant ,274,4,1,3
 Day 4,Dept D Assistant ,314,4,3,3
-Day 4,Dept D Viewing Assistant ,92,5,1,5
-Day 4,Dept D Viewing Assistant ,187,4,4,3
-Day 4,Dept D Viewing Assistant ,255,5,3,2
-Day 4,Dept D Viewing Assistant ,275,4,2,2
-Day 4,Dept D Viewing Assistant ,308,5,1,4
+Day 4,Dept D Viewing Assistant ,15,5,2,2
+Day 4,Dept D Viewing Assistant ,46,5,1,3
+Day 4,Dept D Viewing Assistant ,102,4,5,3
+Day 4,Dept D Viewing Assistant ,160,5,1,3
+Day 4,Dept D Viewing Assistant ,262,5,3,2
+Day 4,Dept F Packing Assistant ,10,4,1,3
 Day 4,Dept F Packing Assistant ,26,4,1,2
-Day 4,Dept F Packing Assistant ,100,5,1,4
+Day 4,Dept F Packing Assistant ,80,5,5,0
 Day 4,Dept F Packing Assistant ,116,5,4,2
 Day 4,Dept F Packing Assistant ,138,4,2,4
-Day 4,Dept F Packing Assistant ,216,5,4,1
-Day 4,Dept F Packing Assistant ,239,5,2,3
-Day 4,Dept F Packing Assistant ,254,4,4,0
-Day 4,Dept F Packing Assistant ,264,5,1,3
-Day 4,Dept F Packing Assistant ,291,4,1,1
-Day 4,Dept F Packing Assistant ,304,5,4,1
+Day 4,Dept F Packing Assistant ,142,4,1,2
+Day 4,Dept F Packing Assistant ,265,3,3,1
+Day 4,Dept F Packing Assistant ,267,4,4,3
+Day 4,Dept F Packing Assistant ,296,4,0,4
+Day 4,Dept F Packing Assistant ,325,4,5,1
 Day 4,Dept G Viewing Assistant ,66,5,4,2
-Day 4,Dept G Viewing Assistant ,139,5,4,4
-Day 4,Dept G Viewing Assistant ,215,5,2,2
-Day 4,Dept G Viewing Assistant ,300,5,0,2
-Day 4,Dept G Viewing Assistant ,309,5,1,0
+Day 4,Dept G Viewing Assistant ,185,5,3,3
+Day 4,Dept G Viewing Assistant ,232,4,4,4
+Day 4,Dept G Viewing Assistant ,241,5,2,2
+Day 4,Dept G Viewing Assistant ,308,5,1,4
 Day 4,Dept H Assistant ,16,5,1,2
-Day 4,Dept H Assistant ,190,5,0,1
+Day 4,Dept H Assistant ,94,5,5,3
 Day 4,Dept H Assistant ,219,5,2,4
-Day 4,Dept H Assistant ,261,4,4,2
-Day 4,Dept H Assistant ,312,5,3,2
-Day 4,Dept I Viewing Assistant ,62,4,2,3
-Day 4,Dept I Viewing Assistant ,102,4,5,3
+Day 4,Dept H Assistant ,234,5,2,1
+Day 4,Dept H Assistant ,242,5,3,4
 Day 4,Dept I Viewing Assistant ,109,5,5,3
-Day 4,Dept I Viewing Assistant ,185,5,3,3
-Day 4,Dept I Viewing Assistant ,245,4,1,5
-Day 4,Dept K Packing Assistant ,10,4,1,3
+Day 4,Dept I Viewing Assistant ,159,5,3,1
+Day 4,Dept I Viewing Assistant ,196,5,4,2
+Day 4,Dept I Viewing Assistant ,215,5,2,2
+Day 4,Dept I Viewing Assistant ,258,4,4,5
+Day 4,Dept K Packing Assistant ,53,5,1,2
 Day 4,Dept K Packing Assistant ,59,5,4,1
-Day 4,Dept K Packing Assistant ,258,5,4,5
-Day 4,Dept K Packing Assistant ,296,4,0,4
-Day 4,Dept K Packing Assistant ,325,4,5,1
-Day 4,Dept K Set Up Assistant ,2,5,1,2
-Day 4,Dept K Set Up Assistant ,18,5,0,4
-Day 4,Dept K Set Up Assistant ,38,5,5,1
+Day 4,Dept K Packing Assistant ,72,5,0,5
+Day 4,Dept K Packing Assistant ,100,5,1,4
+Day 4,Dept K Packing Assistant ,239,5,2,3
+Day 4,Dept K Set Up Assistant ,22,5,2,1
+Day 4,Dept K Set Up Assistant ,39,5,2,2
 Day 4,Dept K Set Up Assistant ,76,5,0,4
 Day 4,Dept K Set Up Assistant ,184,5,1,4
+Day 4,Dept K Set Up Assistant ,193,5,4,3
 Day 4,Dept K Set Up Assistant ,250,4,1,4
-Day 4,Dept K Set Up Assistant ,271,4,3,5
-Day 4,Dept K Set Up Assistant ,288,4,1,1
+Day 4,Dept K Set Up Assistant ,257,4,5,4
+Day 4,Dept K Set Up Assistant ,268,4,1,2
 Day 4,Dept K Set Up Assistant ,289,5,1,1
-Day 4,Dept K Set Up Assistant ,292,5,1,2
-Day 4,Dept K Viewing Assistant ,32,5,0,1
-Day 4,Dept K Viewing Assistant ,155,5,1,4
-Day 4,Dept K Viewing Assistant ,224,5,3,0
-Day 4,Dept K Viewing Assistant ,229,5,4,3
-Day 4,Dept K Viewing Assistant ,326,5,2,4
-Day 4,Dept L Packing Assistant ,28,5,1,3
-Day 4,Dept L Packing Assistant ,46,5,1,3
-Day 4,Dept L Packing Assistant ,53,5,1,2
-Day 4,Dept L Packing Assistant ,72,5,0,5
-Day 4,Dept L Packing Assistant ,80,5,5,0
+Day 4,Dept K Set Up Assistant ,324,4,5,1
+Day 4,Dept K Viewing Assistant ,28,5,1,3
+Day 4,Dept K Viewing Assistant ,99,4,4,5
+Day 4,Dept K Viewing Assistant ,134,5,4,5
+Day 4,Dept K Viewing Assistant ,187,4,4,3
+Day 4,Dept K Viewing Assistant ,298,5,1,2
 Day 4,Dept L Packing Assistant ,122,4,0,2
 Day 4,Dept L Packing Assistant ,140,5,0,3
-Day 4,Dept L Packing Assistant ,142,4,1,2
-Day 4,Dept L Packing Assistant ,277,4,2,1
+Day 4,Dept L Packing Assistant ,165,3,4,1
+Day 4,Dept L Packing Assistant ,216,5,4,1
+Day 4,Dept L Packing Assistant ,248,5,5,3
+Day 4,Dept L Packing Assistant ,254,4,4,0
 Day 4,Dept L Packing Assistant ,287,4,3,0
-Day 4,Dept L Set Up Assistant ,22,5,2,1
-Day 4,Dept L Set Up Assistant ,29,4,3,3
-Day 4,Dept L Set Up Assistant ,39,5,2,2
+Day 4,Dept L Packing Assistant ,291,4,1,1
+Day 4,Dept L Packing Assistant ,304,5,4,1
+Day 4,Dept L Packing Assistant ,309,4,1,0
+Day 4,Dept L Set Up Assistant ,2,5,1,2
+Day 4,Dept L Set Up Assistant ,18,5,0,4
 Day 4,Dept L Set Up Assistant ,129,5,2,1
 Day 4,Dept L Set Up Assistant ,176,4,2,4
-Day 4,Dept L Set Up Assistant ,193,5,4,3
 Day 4,Dept L Set Up Assistant ,251,5,3,5
+Day 4,Dept L Set Up Assistant ,253,3,1,4
 Day 4,Dept L Set Up Assistant ,260,5,2,4
-Day 4,Dept L Set Up Assistant ,268,4,1,2
 Day 4,Dept L Set Up Assistant ,281,5,1,3
+Day 4,Dept L Set Up Assistant ,292,5,1,2
+Day 4,Dept L Set Up Assistant ,316,3,4,1
 Day 4,Dept L Viewing Assistant ,40,5,4,2
-Day 4,Dept L Viewing Assistant ,134,5,4,5
-Day 4,Dept L Viewing Assistant ,182,4,0,2
-Day 4,Dept L Viewing Assistant ,241,5,2,2
-Day 4,Dept L Viewing Assistant ,257,3,5,4
+Day 4,Dept L Viewing Assistant ,92,5,1,5
+Day 4,Dept L Viewing Assistant ,245,4,1,5
+Day 4,Dept L Viewing Assistant ,255,5,3,2
+Day 4,Dept L Viewing Assistant ,300,5,0,2
 Day 4,Event Assistant ,37,5,4,4
 Day 4,Event Assistant ,79,5,2,4
-Day 4,Event Assistant ,143,5,3,0
 Day 4,Event Assistant ,286,5,4,3
+Day 4,Event Assistant ,317,5,5,3
 Day 4,Information Assistant ,20,5,1,3
-Day 4,Information Assistant ,213,4,3,0
-Day 4,Information Assistant ,263,5,2,4
+Day 4,Information Assistant ,88,5,1,5
+Day 4,Information Assistant ,188,5,5,3
+Day 4,Information Assistant ,202,5,3,2
 Day 4,Information Assistant ,283,5,1,1
-Day 4,Information Assistant ,285,5,1,2
 Day 4,Information Assistant (Hall 3B) ,87,5,0,3
-Day 4,Information Assistant (Hall 3B) ,88,5,1,5
 Day 4,Information Assistant (Hall 3B) ,121,4,3,2
 Day 4,Information Assistant (Hall 3B) ,259,5,4,4
+Day 4,Information Assistant (Hall 3B) ,273,5,4,3
 Day 4,Information Assistant (Hall 3B) ,311,5,2,0
 Day 4,London Jewellery Viewing Assistant ,65,5,4,4
 Day 4,London Jewellery Viewing Assistant ,125,5,0,5
+Day 4,London Jewellery Viewing Assistant ,144,5,3,2
 Day 4,London Jewellery Viewing Assistant ,200,5,3,5
 Day 4,London Jewellery Viewing Assistant ,217,5,4,3
 Day 4,London Jewellery Viewing Assistant ,226,5,2,3
 Day 4,London Jewellery Viewing Assistant ,230,4,4,3
 Day 4,London Jewellery Viewing Assistant ,266,5,0,5
-Day 4,London Jewellery Viewing Assistant ,270,5,1,3
-Day 4,London Jewellery Viewing Assistant ,273,5,4,3
+Day 4,London Jewellery Viewing Assistant ,285,5,1,2
 Day 4,London Jewellery Viewing Assistant ,290,5,4,4
+Day 4,Operations & Administration Packer ,5,5,4,1
 Day 4,Operations & Administration Packer ,145,5,1,1
 Day 4,Operations & Administration Packer ,220,5,1,0
-Day 4,Operations & Administration Packer ,265,4,3,1
 Day 4,Operations & Administration Packer ,295,5,3,3
 Day 4,Site Assistant ,1,5,3,4
-Day 4,Site Assistant ,61,4,2,1
-Day 4,Site Assistant ,150,5,1,2
+Day 4,Site Assistant ,21,4,2,5
+Day 4,Site Assistant ,69,4,3,1
 Day 4,Site Assistant ,178,5,2,5
+Day 4,Site Assistant ,183,4,1,1
 Day 4,Site Assistant ,189,5,1,3
-Day 4,Site Assistant ,202,5,3,2
-Day 4,Site Assistant ,232,5,4,4
-Day 4,Site Assistant ,248,5,5,3
+Day 4,Site Assistant ,194,4,1,1
 Day 4,Site Assistant ,315,5,3,1
-Day 4,Site Assistant ,319,5,0,1
+Day 4,Site Assistant ,323,5,3,4
+Day 4,Site Assistant ,330,4,5,4
 Day 4,Spotter ,56,4,1,1
-Day 4,Spotter ,57,4,4,1
 Day 4,Spotter ,81,5,2,2
 Day 4,Spotter ,84,5,1,2
+Day 4,Spotter ,143,4,3,0
 Day 4,Spotter ,181,4,1,3
 Day 4,Spotter ,210,5,2,1
+Day 4,Spotter ,213,4,3,0
 Day 4,Spotter ,223,5,4,3
 Day 4,Spotter ,228,5,0,1
-Day 4,Spotter ,276,5,2,3
-Day 4,Spotter ,301,4,1,3
+Day 4,Spotter ,320,5,5,2
 Day 5,Catalogue Desk Assistant ,23,5,4,4
 Day 5,Catalogue Desk Assistant ,31,5,2,3
-Day 5,Catalogue Desk Assistant ,41,5,3,4
 Day 5,Catalogue Desk Assistant ,114,5,0,4
-Day 5,Catalogue Desk Assistant ,118,5,4,3
-Day 5,Catalogue Desk Assistant ,153,5,2,4
-Day 5,Catalogue Desk Assistant ,168,5,0,1
+Day 5,Catalogue Desk Assistant ,116,5,4,2
+Day 5,Catalogue Desk Assistant ,131,4,2,5
+Day 5,Catalogue Desk Assistant ,135,4,3,2
 Day 5,Catalogue Desk Assistant ,198,5,2,2
+Day 5,Catalogue Desk Assistant ,240,4,1,5
 Day 5,Catalogue Desk Assistant ,244,4,2,3
-Day 5,Catalogue Desk Assistant ,270,5,1,3
+Day 5,Catalogue Desk Assistant ,310,4,3,2
+Day 5,Client Services Assistant ,26,5,1,2
 Day 5,Client Services Assistant ,33,5,1,1
 Day 5,Client Services Assistant ,164,5,4,2
-Day 5,Client Services Assistant ,209,5,4,5
+Day 5,Client Services Assistant ,176,5,2,4
 Day 5,Client Services Assistant ,212,5,2,0
-Day 5,Client Services Assistant ,291,5,1,1
+Day 5,Cloak Room Assistant ,70,5,4,3
 Day 5,Cloak Room Assistant ,78,5,4,1
-Day 5,Cloak Room Assistant ,131,5,2,5
-Day 5,Cloak Room Assistant ,136,5,4,4
-Day 5,Cloak Room Assistant ,141,5,1,1
+Day 5,Cloak Room Assistant ,101,5,5,3
+Day 5,Cloak Room Assistant ,152,5,2,2
 Day 5,Cloak Room Assistant ,162,5,4,1
+Day 5,Cloak Room Assistant ,173,5,2,3
 Day 5,Cloak Room Assistant ,180,4,2,3
-Day 5,Cloak Room Assistant ,205,5,5,4
-Day 5,Cloak Room Assistant ,221,5,2,3
-Day 5,Cloak Room Assistant ,235,5,2,2
+Day 5,Cloak Room Assistant ,252,5,2,3
+Day 5,Cloak Room Assistant ,276,5,2,3
 Day 5,Cloak Room Assistant ,280,5,4,4
 Day 5,Currency Board Operator (Saleroom 1) ,9,4,5,0
-Day 5,Currency Board Operator (Saleroom 1) ,49,5,5,2
-Day 5,Currency Board Operator (Saleroom 1) ,89,4,5,0
+Day 5,Currency Board Operator (Saleroom 1) ,35,5,2,1
 Day 5,Currency Board Operator (Saleroom 1) ,111,5,2,3
-Day 5,Currency Board Operator (Saleroom 1) ,124,5,1,5
-Day 5,Currency Board Operator (Saleroom 1) ,154,5,4,0
-Day 5,Currency Board Operator (Saleroom 1) ,171,5,3,1
+Day 5,Currency Board Operator (Saleroom 1) ,141,5,1,1
 Day 5,Currency Board Operator (Saleroom 1) ,175,5,2,4
 Day 5,Currency Board Operator (Saleroom 1) ,206,5,0,2
+Day 5,Currency Board Operator (Saleroom 1) ,228,5,0,1
 Day 5,Currency Board Operator (Saleroom 1) ,247,5,0,3
-Day 5,Currency Board Operator (Saleroom 2) ,106,5,1,3
-Day 5,Currency Board Operator (Saleroom 2) ,135,4,3,2
-Day 5,Currency Board Operator (Saleroom 2) ,240,5,1,5
-Day 5,Currency Board Operator (Saleroom 2) ,293,4,1,1
-Day 5,Currency Board Operator (Saleroom 2) ,310,4,3,2
+Day 5,Currency Board Operator (Saleroom 1) ,293,4,1,1
+Day 5,Currency Board Operator (Saleroom 1) ,328,4,3,4
+Day 5,Currency Board Operator (Saleroom 2) ,49,5,5,2
+Day 5,Currency Board Operator (Saleroom 2) ,130,5,4,0
+Day 5,Currency Board Operator (Saleroom 2) ,154,5,4,0
+Day 5,Currency Board Operator (Saleroom 2) ,171,5,3,1
+Day 5,Currency Board Operator (Saleroom 2) ,304,5,4,1
 Day 5,Currency Board Operator (Saleroom 2) ,317,5,5,3
-Day 5,Dept A Assistant ,25,4,3,1
-Day 5,Dept A Assistant ,82,4,2,1
+Day 5,Dept A Assistant ,110,5,1,3
 Day 5,Dept A Assistant ,117,5,2,1
+Day 5,Dept A Assistant ,145,4,1,1
 Day 5,Dept A Assistant ,147,5,1,3
-Day 5,Dept A Assistant ,179,4,2,1
-Day 5,Dept A Assistant ,191,5,1,4
-Day 5,Dept A Assistant ,219,5,2,4
-Day 5,Dept A Assistant ,227,5,0,4
-Day 5,Dept A Assistant ,242,5,3,4
-Day 5,Dept A Assistant ,297,5,2,1
+Day 5,Dept A Assistant ,156,5,2,5
+Day 5,Dept A Assistant ,211,3,3,1
+Day 5,Dept A Assistant ,234,5,2,1
+Day 5,Dept A Assistant ,303,4,3,4
+Day 5,Dept A Assistant ,306,4,2,1
+Day 5,Dept A Assistant ,322,4,1,2
+Day 5,Dept C Assistant ,94,5,5,3
 Day 5,Dept C Assistant ,104,5,4,5
-Day 5,Dept C Assistant ,269,4,3,1
-Day 5,Dept C Assistant ,274,4,1,3
-Day 5,Dept C Assistant ,285,4,1,2
-Day 5,Dept C Assistant ,328,3,3,4
-Day 5,Dept D Assistant ,94,5,5,3
-Day 5,Dept D Assistant ,144,4,3,2
-Day 5,Dept D Assistant ,156,5,2,5
-Day 5,Dept D Assistant ,211,3,3,1
-Day 5,Dept D Assistant ,234,5,2,1
-Day 5,Dept D Assistant ,246,5,4,3
-Day 5,Dept D Assistant ,279,5,5,3
-Day 5,Dept D Assistant ,303,4,3,4
-Day 5,Dept D Assistant ,306,4,2,1
+Day 5,Dept C Assistant ,242,5,3,4
+Day 5,Dept C Assistant ,246,5,4,3
+Day 5,Dept C Assistant ,297,5,2,1
+Day 5,Dept D Assistant ,25,4,3,1
+Day 5,Dept D Assistant ,48,4,4,2
+Day 5,Dept D Assistant ,191,5,1,4
+Day 5,Dept D Assistant ,219,5,2,4
+Day 5,Dept D Assistant ,224,4,3,0
+Day 5,Dept D Assistant ,261,4,4,2
+Day 5,Dept D Assistant ,272,4,4,3
+Day 5,Dept D Assistant ,274,4,1,3
+Day 5,Dept D Assistant ,282,4,1,3
 Day 5,Dept D Assistant ,314,4,3,3
-Day 5,Dept D Viewing Assistant ,14,5,2,1
-Day 5,Dept D Viewing Assistant ,159,5,3,1
-Day 5,Dept D Viewing Assistant ,258,4,4,5
-Day 5,Dept D Viewing Assistant ,275,4,2,2
-Day 5,Dept D Viewing Assistant ,318,3,4,5
+Day 5,Dept D Viewing Assistant ,66,5,4,2
+Day 5,Dept D Viewing Assistant ,109,5,5,3
+Day 5,Dept D Viewing Assistant ,157,5,1,2
+Day 5,Dept D Viewing Assistant ,225,5,4,2
+Day 5,Dept D Viewing Assistant ,284,5,3,1
+Day 5,Dept F Viewing Assistant (VIP),14,5,2,1
 Day 5,Dept F Viewing Assistant (VIP),24,5,2,1
-Day 5,Dept F Viewing Assistant (VIP),109,5,5,3
-Day 5,Dept F Viewing Assistant (VIP),132,5,5,5
-Day 5,Dept F Viewing Assistant (VIP),134,5,4,5
-Day 5,Dept F Viewing Assistant (VIP),195,5,3,3
-Day 5,Dept F Viewing Assistant (VIP),196,5,4,2
-Day 5,Dept F Viewing Assistant (VIP),214,5,3,0
-Day 5,Dept F Viewing Assistant (VIP),245,4,1,5
+Day 5,Dept F Viewing Assistant (VIP),51,5,2,1
+Day 5,Dept F Viewing Assistant (VIP),102,4,5,3
+Day 5,Dept F Viewing Assistant (VIP),187,4,4,3
+Day 5,Dept F Viewing Assistant (VIP),275,4,2,2
+Day 5,Dept F Viewing Assistant (VIP),300,5,0,2
 Day 5,Dept F Viewing Assistant (VIP),309,5,1,0
+Day 5,Dept F Viewing Assistant (VIP),318,3,4,5
 Day 5,Dept F Viewing Assistant (VIP),324,4,5,1
 Day 5,Dept G Viewing Assistant ,28,5,1,3
-Day 5,Dept G Viewing Assistant ,102,4,5,3
-Day 5,Dept G Viewing Assistant ,225,5,4,2
-Day 5,Dept G Viewing Assistant ,284,5,3,1
-Day 5,Dept G Viewing Assistant ,300,5,0,2
-Day 5,Dept I Viewing Assistant ,1,4,3,4
-Day 5,Dept I Viewing Assistant ,157,5,1,2
-Day 5,Dept I Viewing Assistant ,185,5,3,3
-Day 5,Dept I Viewing Assistant ,307,5,3,1
-Day 5,Dept I Viewing Assistant ,320,4,5,2
-Day 5,Dept K Packing Assistant ,59,5,4,1
-Day 5,Dept K Packing Assistant ,71,4,3,3
+Day 5,Dept G Viewing Assistant ,134,5,4,5
+Day 5,Dept G Viewing Assistant ,160,5,1,3
+Day 5,Dept G Viewing Assistant ,241,5,2,2
+Day 5,Dept G Viewing Assistant ,326,5,2,4
+Day 5,Dept I Viewing Assistant ,15,5,2,2
+Day 5,Dept I Viewing Assistant ,159,5,3,1
+Day 5,Dept I Viewing Assistant ,245,4,1,5
+Day 5,Dept I Viewing Assistant ,251,4,3,5
+Day 5,Dept I Viewing Assistant ,258,4,4,5
 Day 5,Dept K Packing Assistant ,73,5,5,3
-Day 5,Dept K Packing Assistant ,116,5,4,2
-Day 5,Dept K Packing Assistant ,277,4,2,1
+Day 5,Dept K Packing Assistant ,80,5,5,0
+Day 5,Dept K Packing Assistant ,86,5,3,5
+Day 5,Dept K Packing Assistant ,115,5,4,2
+Day 5,Dept K Packing Assistant ,126,5,1,3
+Day 5,Dept K Set Up Assistant ,11,4,3,5
 Day 5,Dept K Set Up Assistant ,39,5,2,2
-Day 5,Dept K Set Up Assistant ,58,5,5,2
+Day 5,Dept K Set Up Assistant ,63,4,3,3
 Day 5,Dept K Set Up Assistant ,64,5,1,4
 Day 5,Dept K Set Up Assistant ,67,5,1,5
-Day 5,Dept K Set Up Assistant ,76,5,0,4
 Day 5,Dept K Set Up Assistant ,95,5,2,3
-Day 5,Dept K Set Up Assistant ,237,4,2,4
+Day 5,Dept K Set Up Assistant ,129,5,2,1
+Day 5,Dept K Set Up Assistant ,140,5,0,3
 Day 5,Dept K Set Up Assistant ,281,5,1,3
-Day 5,Dept K Set Up Assistant ,288,4,1,1
 Day 5,Dept K Set Up Assistant ,292,5,1,2
-Day 5,Dept K Viewing Assistant ,51,5,2,1
+Day 5,Dept K Viewing Assistant ,99,4,4,5
 Day 5,Dept K Viewing Assistant ,113,5,3,4
-Day 5,Dept K Viewing Assistant ,120,4,2,0
-Day 5,Dept K Viewing Assistant ,215,5,2,2
-Day 5,Dept K Viewing Assistant ,298,5,1,2
-Day 5,Dept L Packing Assistant ,4,4,2,0
-Day 5,Dept L Packing Assistant ,26,4,1,2
-Day 5,Dept L Packing Assistant ,86,5,3,5
+Day 5,Dept K Viewing Assistant ,139,5,4,4
+Day 5,Dept K Viewing Assistant ,185,5,3,3
+Day 5,Dept K Viewing Assistant ,196,5,4,2
+Day 5,Dept L Packing Assistant ,10,4,1,3
+Day 5,Dept L Packing Assistant ,59,5,4,1
 Day 5,Dept L Packing Assistant ,105,4,1,1
-Day 5,Dept L Packing Assistant ,115,5,4,2
-Day 5,Dept L Packing Assistant ,140,5,0,3
 Day 5,Dept L Packing Assistant ,218,5,2,4
 Day 5,Dept L Packing Assistant ,239,5,2,3
+Day 5,Dept L Packing Assistant ,254,4,4,0
+Day 5,Dept L Packing Assistant ,287,4,3,0
+Day 5,Dept L Packing Assistant ,291,4,1,1
 Day 5,Dept L Packing Assistant ,296,4,0,4
-Day 5,Dept L Packing Assistant ,304,5,4,1
+Day 5,Dept L Packing Assistant ,325,4,5,1
 Day 5,Dept L Set Up Assistant ,6,4,4,2
-Day 5,Dept L Set Up Assistant ,11,4,3,5
 Day 5,Dept L Set Up Assistant ,12,5,0,0
 Day 5,Dept L Set Up Assistant ,22,5,2,1
-Day 5,Dept L Set Up Assistant ,63,4,3,3
-Day 5,Dept L Set Up Assistant ,129,5,2,1
+Day 5,Dept L Set Up Assistant ,58,5,5,2
+Day 5,Dept L Set Up Assistant ,76,5,0,4
+Day 5,Dept L Set Up Assistant ,127,3,4,4
+Day 5,Dept L Set Up Assistant ,142,4,1,2
 Day 5,Dept L Set Up Assistant ,197,5,2,5
-Day 5,Dept L Set Up Assistant ,251,5,3,5
 Day 5,Dept L Set Up Assistant ,268,4,1,2
-Day 5,Dept L Set Up Assistant ,271,4,3,5
-Day 5,Dept L Viewing Assistant ,66,5,4,2
-Day 5,Dept L Viewing Assistant ,99,4,4,5
-Day 5,Dept L Viewing Assistant ,187,4,4,3
-Day 5,Dept L Viewing Assistant ,224,5,3,0
-Day 5,Dept L Viewing Assistant ,241,5,2,2
+Day 5,Dept L Set Up Assistant ,289,5,1,1
+Day 5,Dept L Viewing Assistant ,195,5,3,3
+Day 5,Dept L Viewing Assistant ,215,5,2,2
+Day 5,Dept L Viewing Assistant ,279,5,5,3
+Day 5,Dept L Viewing Assistant ,298,5,1,2
+Day 5,Dept L Viewing Assistant ,307,5,3,1
+Day 5,Event Assistant ,37,5,4,4
 Day 5,Event Assistant ,43,5,4,4
-Day 5,Event Assistant ,143,5,3,0
 Day 5,Event Assistant ,208,5,1,5
 Day 5,Event Assistant ,286,5,4,3
-Day 5,Information Assistant ,42,5,5,4
-Day 5,Information Assistant ,50,5,5,2
-Day 5,Information Assistant ,152,5,2,2
-Day 5,Information Assistant ,170,5,0,4
-Day 5,Information Assistant ,202,5,3,2
+Day 5,Information Assistant ,20,5,1,3
+Day 5,Information Assistant ,188,5,5,3
+Day 5,Information Assistant ,193,5,4,3
+Day 5,Information Assistant ,259,5,4,4
+Day 5,Information Assistant ,273,5,4,3
 Day 5,Information Assistant (Hall 3B) ,87,5,0,3
 Day 5,Information Assistant (Hall 3B) ,88,5,1,5
-Day 5,Information Assistant (Hall 3B) ,213,4,3,0
+Day 5,Information Assistant (Hall 3B) ,179,5,2,1
+Day 5,Information Assistant (Hall 3B) ,235,5,2,2
 Day 5,Information Assistant (Hall 3B) ,283,5,1,1
-Day 5,Information Assistant (Hall 3B) ,322,5,1,2
-Day 5,London Jewellery Viewing Assistant ,3,5,2,3
 Day 5,London Jewellery Viewing Assistant ,65,5,4,4
 Day 5,London Jewellery Viewing Assistant ,91,5,0,3
 Day 5,London Jewellery Viewing Assistant ,122,5,0,2
+Day 5,London Jewellery Viewing Assistant ,138,4,2,4
+Day 5,London Jewellery Viewing Assistant ,144,5,3,2
 Day 5,London Jewellery Viewing Assistant ,217,5,4,3
 Day 5,London Jewellery Viewing Assistant ,226,5,2,3
-Day 5,London Jewellery Viewing Assistant ,243,5,0,4
-Day 5,London Jewellery Viewing Assistant ,273,5,4,3
+Day 5,London Jewellery Viewing Assistant ,285,5,1,2
 Day 5,London Jewellery Viewing Assistant ,290,5,4,4
 Day 5,London Jewellery Viewing Assistant ,299,5,1,4
-Day 5,Operations & Administration Packer ,55,5,4,1
-Day 5,Operations & Administration Packer ,145,5,1,1
+Day 5,Operations & Administration Packer ,13,5,3,2
 Day 5,Operations & Administration Packer ,201,5,0,0
 Day 5,Operations & Administration Packer ,220,5,1,0
+Day 5,Operations & Administration Packer ,295,5,3,3
 Day 5,Public Relationship Assistant ,30,5,0,3
-Day 5,Public Relationship Assistant ,37,5,4,4
 Day 5,Public Relationship Assistant ,112,5,1,5
+Day 5,Public Relationship Assistant ,136,5,4,4
 Day 5,Public Relationship Assistant ,158,5,1,5
 Day 5,Public Relationship Assistant ,178,5,2,5
 Day 5,Public Relationship Assistant ,207,5,2,4
 Day 5,Public Relationship Assistant ,222,5,3,4
 Day 5,Public Relationship Assistant ,253,5,1,4
+Day 5,Site Assistant ,1,5,3,4
 Day 5,Site Assistant ,8,4,5,2
 Day 5,Site Assistant ,61,4,2,1
-Day 5,Site Assistant ,85,4,4,2
-Day 5,Site Assistant ,169,5,1,0
 Day 5,Site Assistant ,172,5,2,3
-Day 5,Site Assistant ,193,5,4,3
+Day 5,Site Assistant ,183,4,1,1
+Day 5,Site Assistant ,194,4,1,1
+Day 5,Site Assistant ,202,5,3,2
 Day 5,Site Assistant ,248,5,5,3
-Day 5,Site Assistant ,259,5,4,4
 Day 5,Site Assistant ,315,5,3,1
 Day 5,Site Assistant ,330,4,5,4
 Day 5,Spotter ,56,4,1,1
 Day 5,Spotter ,81,5,2,2
 Day 5,Spotter ,84,5,1,2
-Day 5,Spotter ,137,5,0,2
+Day 5,Spotter ,143,4,3,0
 Day 5,Spotter ,181,4,1,3
-Day 5,Spotter ,199,4,2,0
 Day 5,Spotter ,210,5,2,1
+Day 5,Spotter ,213,4,3,0
+Day 5,Spotter ,214,5,3,0
 Day 5,Spotter ,223,5,4,3
-Day 5,Spotter ,228,5,0,1
-Day 5,Spotter ,276,5,2,3
+Day 5,Spotter ,320,5,5,2
 Day 6,Catalogue Desk Assistant ,27,5,1,3
 Day 6,Catalogue Desk Assistant ,31,5,2,3
-Day 6,Catalogue Desk Assistant ,41,5,3,4
-Day 6,Catalogue Desk Assistant ,118,5,4,3
 Day 6,Catalogue Desk Assistant ,198,5,2,2
+Day 6,Catalogue Desk Assistant ,233,5,3,3
+Day 6,Catalogue Desk Assistant ,321,5,4,5
 Day 6,Client Services Assistant ,33,5,1,1
 Day 6,Client Services Assistant ,164,5,4,2
 Day 6,Client Services Assistant ,186,5,4,2
 Day 6,Client Services Assistant ,212,5,2,0
 Day 6,Client Services Assistant ,236,5,3,0
+Day 6,Cloak Room Assistant ,68,5,2,4
+Day 6,Cloak Room Assistant ,70,5,4,3
 Day 6,Cloak Room Assistant ,78,5,4,1
-Day 6,Cloak Room Assistant ,101,5,5,3
-Day 6,Cloak Room Assistant ,149,5,2,2
+Day 6,Cloak Room Assistant ,80,5,5,0
+Day 6,Cloak Room Assistant ,131,5,2,5
 Day 6,Cloak Room Assistant ,162,5,4,1
-Day 6,Cloak Room Assistant ,173,5,2,3
 Day 6,Cloak Room Assistant ,180,4,2,3
-Day 6,Cloak Room Assistant ,205,5,5,4
-Day 6,Cloak Room Assistant ,230,4,4,3
 Day 6,Cloak Room Assistant ,238,5,5,1
+Day 6,Cloak Room Assistant ,247,5,0,3
 Day 6,Cloak Room Assistant ,280,5,4,4
+Day 6,Currency Board Operator (Saleroom 1) ,9,4,5,0
+Day 6,Currency Board Operator (Saleroom 1) ,35,5,2,1
+Day 6,Currency Board Operator (Saleroom 1) ,111,5,2,3
 Day 6,Currency Board Operator (Saleroom 1) ,135,4,3,2
 Day 6,Currency Board Operator (Saleroom 1) ,141,5,1,1
-Day 6,Currency Board Operator (Saleroom 1) ,154,5,4,0
-Day 6,Currency Board Operator (Saleroom 1) ,166,5,3,3
-Day 6,Currency Board Operator (Saleroom 1) ,171,5,3,1
+Day 6,Currency Board Operator (Saleroom 1) ,192,5,2,2
+Day 6,Currency Board Operator (Saleroom 1) ,206,5,0,2
 Day 6,Currency Board Operator (Saleroom 1) ,240,5,1,5
-Day 6,Currency Board Operator (Saleroom 1) ,247,5,0,3
 Day 6,Currency Board Operator (Saleroom 1) ,293,4,1,1
-Day 6,Currency Board Operator (Saleroom 1) ,317,5,5,3
-Day 6,Currency Board Operator (Saleroom 1) ,323,5,3,4
-Day 6,Currency Board Operator (Saleroom 2) ,35,5,2,1
-Day 6,Currency Board Operator (Saleroom 2) ,61,4,2,1
-Day 6,Currency Board Operator (Saleroom 2) ,106,5,1,3
-Day 6,Currency Board Operator (Saleroom 2) ,111,5,2,3
+Day 6,Currency Board Operator (Saleroom 1) ,310,4,3,2
 Day 6,Currency Board Operator (Saleroom 2) ,130,5,4,0
-Day 6,Currency Board Operator (Saleroom 2) ,310,4,3,2
-Day 6,Dept A Assistant ,83,5,1,1
-Day 6,Dept A Assistant ,108,4,1,0
-Day 6,Dept A Assistant ,156,5,2,5
-Day 6,Dept A Assistant ,183,3,1,1
-Day 6,Dept A Assistant ,242,5,3,4
+Day 6,Currency Board Operator (Saleroom 2) ,154,5,4,0
+Day 6,Currency Board Operator (Saleroom 2) ,166,5,3,3
+Day 6,Currency Board Operator (Saleroom 2) ,171,5,3,1
+Day 6,Currency Board Operator (Saleroom 2) ,317,5,5,3
+Day 6,Currency Board Operator (Saleroom 2) ,323,5,3,4
+Day 6,Dept A Assistant ,25,4,3,1
+Day 6,Dept A Assistant ,145,4,1,1
+Day 6,Dept A Assistant ,167,3,1,2
+Day 6,Dept A Assistant ,220,4,1,0
+Day 6,Dept A Assistant ,224,4,3,0
 Day 6,Dept A Assistant ,261,4,4,2
 Day 6,Dept A Assistant ,274,4,1,3
+Day 6,Dept A Assistant ,282,4,1,3
 Day 6,Dept A Assistant ,305,3,5,2
-Day 6,Dept A Assistant ,306,4,2,1
-Day 6,Dept A Assistant ,314,4,3,3
-Day 6,Dept C Assistant ,9,3,5,0
-Day 6,Dept C Assistant ,16,5,1,2
-Day 6,Dept C Assistant ,19,4,1,2
-Day 6,Dept C Assistant ,170,4,0,4
-Day 6,Dept C Assistant ,211,3,3,1
-Day 6,Dept D Assistant ,47,5,1,4
-Day 6,Dept D Assistant ,104,5,4,5
+Day 6,Dept A Assistant ,313,4,2,4
+Day 6,Dept C Assistant ,104,5,4,5
+Day 6,Dept C Assistant ,156,5,2,5
+Day 6,Dept C Assistant ,234,5,2,1
+Day 6,Dept C Assistant ,242,5,3,4
+Day 6,Dept C Assistant ,312,5,3,2
+Day 6,Dept D Assistant ,19,4,1,2
+Day 6,Dept D Assistant ,83,5,1,1
+Day 6,Dept D Assistant ,108,4,1,0
 Day 6,Dept D Assistant ,110,5,1,3
-Day 6,Dept D Assistant ,220,4,1,0
-Day 6,Dept D Assistant ,246,5,4,3
+Day 6,Dept D Assistant ,117,5,2,1
+Day 6,Dept D Assistant ,121,2,3,2
+Day 6,Dept D Assistant ,144,4,3,2
+Day 6,Dept D Assistant ,202,4,3,2
 Day 6,Dept D Assistant ,256,4,3,1
-Day 6,Dept D Assistant ,279,5,5,3
-Day 6,Dept D Assistant ,282,4,1,3
-Day 6,Dept D Assistant ,297,5,2,1
-Day 6,Dept D Assistant ,328,3,3,4
-Day 6,Dept D Viewing Assistant ,62,4,2,3
-Day 6,Dept D Viewing Assistant ,68,4,2,4
+Day 6,Dept D Assistant ,322,4,1,2
+Day 6,Dept D Viewing Assistant ,1,4,3,4
 Day 6,Dept D Viewing Assistant ,69,4,3,1
-Day 6,Dept D Viewing Assistant ,99,4,4,5
 Day 6,Dept D Viewing Assistant ,102,4,5,3
-Day 6,Dept D Viewing Assistant ,224,5,3,0
-Day 6,Dept D Viewing Assistant ,245,4,1,5
-Day 6,Dept D Viewing Assistant ,255,5,3,2
+Day 6,Dept D Viewing Assistant ,159,5,3,1
+Day 6,Dept D Viewing Assistant ,161,4,1,1
+Day 6,Dept D Viewing Assistant ,244,3,2,3
+Day 6,Dept D Viewing Assistant ,284,5,3,1
+Day 6,Dept D Viewing Assistant ,300,5,0,2
 Day 6,Dept D Viewing Assistant ,318,3,4,5
-Day 6,Dept D Viewing Assistant ,326,5,2,4
+Day 6,Dept D Viewing Assistant ,328,3,3,4
+Day 6,Dept E Assistant ,16,5,1,2
 Day 6,Dept E Assistant ,48,4,4,2
 Day 6,Dept E Assistant ,75,4,3,0
-Day 6,Dept E Assistant ,117,5,2,1
-Day 6,Dept E Assistant ,174,4,5,0
-Day 6,Dept E Assistant ,206,4,0,2
-Day 6,Dept E Assistant ,227,5,0,4
-Day 6,Dept E Assistant ,234,5,2,1
+Day 6,Dept E Assistant ,211,3,3,1
 Day 6,Dept E Assistant ,272,4,4,3
+Day 6,Dept E Assistant ,285,4,1,2
+Day 6,Dept E Assistant ,297,5,2,1
 Day 6,Dept E Assistant ,303,4,3,4
-Day 6,Dept E Assistant ,312,5,3,2
-Day 6,Dept F Viewing Assistant (VIP),15,5,2,2
-Day 6,Dept F Viewing Assistant (VIP),32,5,0,1
-Day 6,Dept F Viewing Assistant (VIP),40,5,4,2
-Day 6,Dept F Viewing Assistant (VIP),46,5,1,3
-Day 6,Dept F Viewing Assistant (VIP),157,5,1,2
-Day 6,Dept F Viewing Assistant (VIP),160,5,1,3
-Day 6,Dept F Viewing Assistant (VIP),300,5,0,2
-Day 6,Dept F Viewing Assistant (VIP),308,5,1,4
-Day 6,Dept F Viewing Assistant (VIP),321,4,4,5
+Day 6,Dept E Assistant ,306,4,2,1
+Day 6,Dept E Assistant ,314,4,3,3
+Day 6,Dept F Viewing Assistant (VIP),14,5,2,1
+Day 6,Dept F Viewing Assistant (VIP),34,4,1,4
+Day 6,Dept F Viewing Assistant (VIP),51,5,2,1
+Day 6,Dept F Viewing Assistant (VIP),62,4,2,3
+Day 6,Dept F Viewing Assistant (VIP),165,3,4,1
+Day 6,Dept F Viewing Assistant (VIP),187,4,4,3
+Day 6,Dept F Viewing Assistant (VIP),245,4,1,5
+Day 6,Dept F Viewing Assistant (VIP),275,4,2,2
+Day 6,Dept F Viewing Assistant (VIP),309,5,1,0
 Day 6,Dept F Viewing Assistant (VIP),324,4,5,1
-Day 6,Dept G Viewing Assistant ,14,5,2,1
-Day 6,Dept G Viewing Assistant ,66,5,4,2
-Day 6,Dept G Viewing Assistant ,225,5,4,2
-Day 6,Dept G Viewing Assistant ,241,5,2,2
-Day 6,Dept G Viewing Assistant ,320,4,5,2
-Day 6,Dept I Viewing Assistant ,139,5,4,4
-Day 6,Dept I Viewing Assistant ,155,5,1,4
-Day 6,Dept I Viewing Assistant ,195,5,3,3
-Day 6,Dept I Viewing Assistant ,275,4,2,2
-Day 6,Dept I Viewing Assistant ,309,5,1,0
-Day 6,Dept K Packing Assistant ,10,4,1,3
-Day 6,Dept K Packing Assistant ,45,5,3,3
-Day 6,Dept K Packing Assistant ,100,5,1,4
+Day 6,Dept G Viewing Assistant ,139,5,4,4
+Day 6,Dept G Viewing Assistant ,157,5,1,2
+Day 6,Dept G Viewing Assistant ,195,5,3,3
+Day 6,Dept G Viewing Assistant ,196,5,4,2
+Day 6,Dept G Viewing Assistant ,251,4,3,5
+Day 6,Dept I Viewing Assistant ,46,5,1,3
+Day 6,Dept I Viewing Assistant ,160,5,1,3
+Day 6,Dept I Viewing Assistant ,225,5,4,2
+Day 6,Dept I Viewing Assistant ,255,5,3,2
+Day 6,Dept I Viewing Assistant ,298,5,1,2
+Day 6,Dept K Packing Assistant ,73,5,5,3
+Day 6,Dept K Packing Assistant ,86,5,3,5
 Day 6,Dept K Packing Assistant ,115,5,4,2
-Day 6,Dept K Packing Assistant ,140,5,0,3
+Day 6,Dept K Packing Assistant ,116,5,4,2
+Day 6,Dept K Packing Assistant ,126,5,1,3
+Day 6,Dept K Set Up Assistant ,2,5,1,2
 Day 6,Dept K Set Up Assistant ,7,5,0,5
-Day 6,Dept K Set Up Assistant ,11,4,3,5
-Day 6,Dept K Set Up Assistant ,12,5,0,0
 Day 6,Dept K Set Up Assistant ,22,5,2,1
 Day 6,Dept K Set Up Assistant ,63,4,3,3
-Day 6,Dept K Set Up Assistant ,64,5,1,4
-Day 6,Dept K Set Up Assistant ,67,5,1,5
+Day 6,Dept K Set Up Assistant ,95,5,2,3
 Day 6,Dept K Set Up Assistant ,107,5,3,2
-Day 6,Dept K Set Up Assistant ,133,5,4,4
-Day 6,Dept K Set Up Assistant ,250,4,1,4
-Day 6,Dept K Viewing Assistant ,159,5,3,1
-Day 6,Dept K Viewing Assistant ,196,5,4,2
-Day 6,Dept K Viewing Assistant ,214,5,3,0
-Day 6,Dept K Viewing Assistant ,215,5,2,2
-Day 6,Dept K Viewing Assistant ,284,5,3,1
-Day 6,Dept L Packing Assistant ,71,4,3,3
-Day 6,Dept L Packing Assistant ,72,5,0,5
-Day 6,Dept L Packing Assistant ,73,5,5,3
-Day 6,Dept L Packing Assistant ,86,5,3,5
-Day 6,Dept L Packing Assistant ,116,5,4,2
-Day 6,Dept L Packing Assistant ,126,5,1,3
+Day 6,Dept K Set Up Assistant ,127,3,4,4
+Day 6,Dept K Set Up Assistant ,129,5,2,1
+Day 6,Dept K Set Up Assistant ,184,5,1,4
+Day 6,Dept K Set Up Assistant ,193,5,4,3
+Day 6,Dept K Viewing Assistant ,28,5,1,3
+Day 6,Dept K Viewing Assistant ,66,5,4,2
+Day 6,Dept K Viewing Assistant ,99,4,4,5
+Day 6,Dept K Viewing Assistant ,177,5,1,4
+Day 6,Dept K Viewing Assistant ,279,5,5,3
+Day 6,Dept L Packing Assistant ,10,4,1,3
+Day 6,Dept L Packing Assistant ,26,4,1,2
+Day 6,Dept L Packing Assistant ,100,5,1,4
 Day 6,Dept L Packing Assistant ,138,4,2,4
-Day 6,Dept L Packing Assistant ,264,5,1,3
+Day 6,Dept L Packing Assistant ,140,5,0,3
+Day 6,Dept L Packing Assistant ,265,3,3,1
 Day 6,Dept L Packing Assistant ,287,4,3,0
 Day 6,Dept L Packing Assistant ,291,4,1,1
-Day 6,Dept L Set Up Assistant ,2,5,1,2
-Day 6,Dept L Set Up Assistant ,90,4,3,2
-Day 6,Dept L Set Up Assistant ,95,5,2,3
-Day 6,Dept L Set Up Assistant ,184,5,1,4
+Day 6,Dept L Packing Assistant ,296,4,0,4
+Day 6,Dept L Packing Assistant ,325,4,5,1
+Day 6,Dept L Set Up Assistant ,11,4,3,5
+Day 6,Dept L Set Up Assistant ,12,5,0,0
+Day 6,Dept L Set Up Assistant ,64,5,1,4
+Day 6,Dept L Set Up Assistant ,67,5,1,5
+Day 6,Dept L Set Up Assistant ,133,5,4,4
 Day 6,Dept L Set Up Assistant ,197,5,2,5
+Day 6,Dept L Set Up Assistant ,250,4,1,4
 Day 6,Dept L Set Up Assistant ,260,5,2,4
-Day 6,Dept L Set Up Assistant ,288,4,1,1
 Day 6,Dept L Set Up Assistant ,289,5,1,1
 Day 6,Dept L Set Up Assistant ,292,5,1,2
-Day 6,Dept L Set Up Assistant ,329,5,2,5
-Day 6,Dept L Viewing Assistant ,28,5,1,3
-Day 6,Dept L Viewing Assistant ,51,5,2,1
-Day 6,Dept L Viewing Assistant ,161,4,1,1
-Day 6,Dept L Viewing Assistant ,177,5,1,4
-Day 6,Dept L Viewing Assistant ,262,5,3,2
+Day 6,Dept L Viewing Assistant ,40,5,4,2
+Day 6,Dept L Viewing Assistant ,215,5,2,2
+Day 6,Dept L Viewing Assistant ,241,5,2,2
+Day 6,Dept L Viewing Assistant ,308,5,1,4
+Day 6,Dept L Viewing Assistant ,326,5,2,4
+Day 6,Event Assistant ,72,5,0,5
 Day 6,Event Assistant ,79,5,2,4
-Day 6,Event Assistant ,143,5,3,0
 Day 6,Event Assistant ,175,5,2,4
 Day 6,Event Assistant ,208,5,1,5
 Day 6,Information Assistant (Hall 3B) ,20,5,1,3
-Day 6,Information Assistant (Hall 3B) ,121,4,3,2
-Day 6,Information Assistant (Hall 3B) ,213,4,3,0
-Day 6,Information Assistant (Hall 3B) ,278,5,1,1
+Day 6,Information Assistant (Hall 3B) ,174,5,5,0
+Day 6,Information Assistant (Hall 3B) ,188,5,5,3
+Day 6,Information Assistant (Hall 3B) ,283,5,1,1
 Day 6,Information Assistant (Hall 3B) ,311,5,2,0
 Day 6,London Jewellery Viewing Assistant ,65,5,4,4
-Day 6,London Jewellery Viewing Assistant ,77,5,0,4
 Day 6,London Jewellery Viewing Assistant ,91,5,0,3
-Day 6,London Jewellery Viewing Assistant ,98,5,0,1
 Day 6,London Jewellery Viewing Assistant ,122,5,0,2
 Day 6,London Jewellery Viewing Assistant ,163,5,3,3
 Day 6,London Jewellery Viewing Assistant ,200,5,3,5
 Day 6,London Jewellery Viewing Assistant ,226,5,2,3
 Day 6,London Jewellery Viewing Assistant ,266,5,0,5
 Day 6,London Jewellery Viewing Assistant ,273,5,4,3
+Day 6,London Jewellery Viewing Assistant ,290,5,4,4
+Day 6,London Jewellery Viewing Assistant ,299,5,1,4
 Day 6,Operations & Administration Packer ,5,5,4,1
 Day 6,Operations & Administration Packer ,13,5,3,2
-Day 6,Operations & Administration Packer ,60,4,0,2
 Day 6,Operations & Administration Packer ,201,5,0,0
+Day 6,Operations & Administration Packer ,295,5,3,3
 Day 6,Public Relationship Assistant ,37,5,4,4
+Day 6,Public Relationship Assistant ,101,5,5,3
 Day 6,Public Relationship Assistant ,158,5,1,5
-Day 6,Public Relationship Assistant ,165,4,4,1
-Day 6,Public Relationship Assistant ,204,5,4,4
+Day 6,Public Relationship Assistant ,173,5,2,3
 Day 6,Public Relationship Assistant ,253,5,1,4
 Day 6,Public Relationship Assistant ,267,5,4,3
 Day 6,Public Relationship Assistant ,286,5,4,3
 Day 6,Public Relationship Assistant ,316,4,4,1
-Day 6,Site Assistant ,1,5,3,4
 Day 6,Site Assistant ,8,4,5,2
 Day 6,Site Assistant ,128,5,4,1
-Day 6,Site Assistant ,169,5,1,0
 Day 6,Site Assistant ,172,5,2,3
-Day 6,Site Assistant ,188,5,5,3
+Day 6,Site Assistant ,183,4,1,1
 Day 6,Site Assistant ,189,5,1,3
+Day 6,Site Assistant ,194,4,1,1
+Day 6,Site Assistant ,230,4,4,3
 Day 6,Site Assistant ,248,5,5,3
 Day 6,Site Assistant ,315,5,3,1
 Day 6,Site Assistant ,330,4,5,4
 Day 6,Spotter ,56,4,1,1
 Day 6,Spotter ,81,5,2,2
-Day 6,Spotter ,153,5,2,4
-Day 6,Spotter ,167,4,1,2
+Day 6,Spotter ,143,4,3,0
 Day 6,Spotter ,181,4,1,3
-Day 6,Spotter ,192,5,2,2
-Day 6,Spotter ,199,4,2,0
+Day 6,Spotter ,210,5,2,1
+Day 6,Spotter ,213,4,3,0
+Day 6,Spotter ,214,5,3,0
 Day 6,Spotter ,223,5,4,3
 Day 6,Spotter ,228,5,0,1
-Day 6,Spotter ,233,5,3,3
+Day 6,Spotter ,320,5,5,2
 Day 7,Catalogue Desk Assistant ,23,5,4,4
 Day 7,Catalogue Desk Assistant ,31,5,2,3
-Day 7,Catalogue Desk Assistant ,198,5,2,2
+Day 7,Catalogue Desk Assistant ,114,5,0,4
 Day 7,Catalogue Desk Assistant ,233,5,3,3
 Day 7,Catalogue Desk Assistant ,321,5,4,5
-Day 7,Client Services Assistant ,26,5,1,2
 Day 7,Client Services Assistant ,33,5,1,1
-Day 7,Client Services Assistant ,165,4,4,1
-Day 7,Client Services Assistant ,176,5,2,4
+Day 7,Client Services Assistant ,186,5,4,2
+Day 7,Client Services Assistant ,198,5,2,2
+Day 7,Client Services Assistant ,212,5,2,0
 Day 7,Client Services Assistant ,236,5,3,0
 Day 7,Cloak Room Assistant ,43,5,4,4
-Day 7,Cloak Room Assistant ,70,5,4,3
 Day 7,Cloak Room Assistant ,78,5,4,1
-Day 7,Cloak Room Assistant ,80,5,5,0
-Day 7,Cloak Room Assistant ,101,5,5,3
-Day 7,Cloak Room Assistant ,119,5,5,3
+Day 7,Cloak Room Assistant ,123,5,5,0
 Day 7,Cloak Room Assistant ,131,5,2,5
-Day 7,Cloak Room Assistant ,136,5,4,4
+Day 7,Cloak Room Assistant ,152,5,2,2
 Day 7,Cloak Room Assistant ,162,5,4,1
+Day 7,Cloak Room Assistant ,173,5,2,3
+Day 7,Cloak Room Assistant ,180,4,2,3
 Day 7,Cloak Room Assistant ,238,5,5,1
+Day 7,Cloak Room Assistant ,280,5,4,4
+Day 7,Currency Board Operator (Saleroom 1) ,9,4,5,0
 Day 7,Currency Board Operator (Saleroom 1) ,35,5,2,1
-Day 7,Currency Board Operator (Saleroom 1) ,89,4,5,0
 Day 7,Currency Board Operator (Saleroom 1) ,126,5,1,3
-Day 7,Currency Board Operator (Saleroom 1) ,130,5,4,0
-Day 7,Currency Board Operator (Saleroom 1) ,154,5,4,0
-Day 7,Currency Board Operator (Saleroom 1) ,171,5,3,1
+Day 7,Currency Board Operator (Saleroom 1) ,135,4,3,2
+Day 7,Currency Board Operator (Saleroom 1) ,141,5,1,1
+Day 7,Currency Board Operator (Saleroom 1) ,175,5,2,4
 Day 7,Currency Board Operator (Saleroom 1) ,192,5,2,2
+Day 7,Currency Board Operator (Saleroom 1) ,240,5,1,5
+Day 7,Currency Board Operator (Saleroom 1) ,293,4,1,1
 Day 7,Currency Board Operator (Saleroom 1) ,310,4,3,2
-Day 7,Currency Board Operator (Saleroom 1) ,317,5,5,3
-Day 7,Currency Board Operator (Saleroom 1) ,323,5,3,4
-Day 7,Currency Board Operator (Saleroom 2) ,9,4,5,0
-Day 7,Currency Board Operator (Saleroom 2) ,124,5,1,5
-Day 7,Currency Board Operator (Saleroom 2) ,135,4,3,2
-Day 7,Currency Board Operator (Saleroom 2) ,141,5,1,1
+Day 7,Currency Board Operator (Saleroom 2) ,130,5,4,0
+Day 7,Currency Board Operator (Saleroom 2) ,154,5,4,0
 Day 7,Currency Board Operator (Saleroom 2) ,166,5,3,3
-Day 7,Currency Board Operator (Saleroom 2) ,240,5,1,5
-Day 7,Dept A Assistant ,94,5,5,3
-Day 7,Dept A Assistant ,104,5,4,5
-Day 7,Dept A Assistant ,108,4,1,0
-Day 7,Dept A Assistant ,242,5,3,4
-Day 7,Dept A Assistant ,252,4,2,3
-Day 7,Dept A Assistant ,272,4,4,3
+Day 7,Currency Board Operator (Saleroom 2) ,171,5,3,1
+Day 7,Currency Board Operator (Saleroom 2) ,317,5,5,3
+Day 7,Currency Board Operator (Saleroom 2) ,323,5,3,4
+Day 7,Dept A Assistant ,48,4,4,2
+Day 7,Dept A Assistant ,56,3,1,1
+Day 7,Dept A Assistant ,224,4,3,0
+Day 7,Dept A Assistant ,254,3,4,0
 Day 7,Dept A Assistant ,274,4,1,3
 Day 7,Dept A Assistant ,282,4,1,3
 Day 7,Dept A Assistant ,285,4,1,2
+Day 7,Dept A Assistant ,296,3,0,4
 Day 7,Dept A Assistant ,297,5,2,1
-Day 7,Dept C Assistant ,75,4,3,0
-Day 7,Dept C Assistant ,147,5,1,3
-Day 7,Dept C Assistant ,174,4,5,0
-Day 7,Dept C Assistant ,306,4,2,1
-Day 7,Dept C Assistant ,328,3,3,4
+Day 7,Dept A Assistant ,305,3,5,2
+Day 7,Dept C Assistant ,94,5,5,3
+Day 7,Dept C Assistant ,96,5,3,3
+Day 7,Dept C Assistant ,104,5,4,5
+Day 7,Dept C Assistant ,242,5,3,4
+Day 7,Dept C Assistant ,312,5,3,2
 Day 7,Dept D Assistant ,17,4,1,1
 Day 7,Dept D Assistant ,25,4,3,1
-Day 7,Dept D Assistant ,110,5,1,3
-Day 7,Dept D Assistant ,144,4,3,2
-Day 7,Dept D Assistant ,206,4,0,2
-Day 7,Dept D Assistant ,231,4,3,1
-Day 7,Dept D Assistant ,254,3,4,0
+Day 7,Dept D Assistant ,83,5,1,1
+Day 7,Dept D Assistant ,108,4,1,0
+Day 7,Dept D Assistant ,147,5,1,3
+Day 7,Dept D Assistant ,219,5,2,4
+Day 7,Dept D Assistant ,220,4,1,0
+Day 7,Dept D Assistant ,252,4,2,3
 Day 7,Dept D Assistant ,256,4,3,1
-Day 7,Dept D Assistant ,312,5,3,2
-Day 7,Dept D Assistant ,313,4,2,4
-Day 7,Dept D Viewing Assistant ,15,5,2,2
-Day 7,Dept D Viewing Assistant ,40,5,4,2
-Day 7,Dept D Viewing Assistant ,66,5,4,2
-Day 7,Dept D Viewing Assistant ,92,5,1,5
-Day 7,Dept D Viewing Assistant ,99,4,4,5
-Day 7,Dept D Viewing Assistant ,161,4,1,1
-Day 7,Dept D Viewing Assistant ,177,5,1,4
-Day 7,Dept D Viewing Assistant ,224,5,3,0
-Day 7,Dept D Viewing Assistant ,255,5,3,2
-Day 7,Dept D Viewing Assistant ,300,5,0,2
+Day 7,Dept D Assistant ,306,4,2,1
+Day 7,Dept D Viewing Assistant ,14,5,2,1
+Day 7,Dept D Viewing Assistant ,34,4,1,4
+Day 7,Dept D Viewing Assistant ,69,4,3,1
+Day 7,Dept D Viewing Assistant ,142,4,1,2
+Day 7,Dept D Viewing Assistant ,165,3,4,1
+Day 7,Dept D Viewing Assistant ,214,5,3,0
+Day 7,Dept D Viewing Assistant ,268,4,1,2
+Day 7,Dept D Viewing Assistant ,275,4,2,2
+Day 7,Dept D Viewing Assistant ,307,5,3,1
+Day 7,Dept D Viewing Assistant ,324,4,5,1
 Day 7,Dept E Assistant ,16,5,1,2
-Day 7,Dept E Assistant ,34,4,1,4
-Day 7,Dept E Assistant ,48,4,4,2
-Day 7,Dept E Assistant ,83,5,1,1
-Day 7,Dept E Assistant ,96,5,3,3
+Day 7,Dept E Assistant ,75,4,3,0
+Day 7,Dept E Assistant ,110,5,1,3
+Day 7,Dept E Assistant ,121,2,3,2
+Day 7,Dept E Assistant ,144,4,3,2
 Day 7,Dept E Assistant ,156,5,2,5
-Day 7,Dept E Assistant ,219,5,2,4
+Day 7,Dept E Assistant ,206,4,0,2
 Day 7,Dept E Assistant ,234,5,2,1
 Day 7,Dept E Assistant ,261,4,4,2
-Day 7,Dept E Assistant ,305,3,5,2
-Day 7,Dept F Viewing Assistant (VIP),14,5,2,1
-Day 7,Dept F Viewing Assistant (VIP),44,4,3,4
-Day 7,Dept F Viewing Assistant (VIP),123,5,5,0
-Day 7,Dept F Viewing Assistant (VIP),142,4,1,2
-Day 7,Dept F Viewing Assistant (VIP),157,5,1,2
+Day 7,Dept E Assistant ,272,4,4,3
+Day 7,Dept F Viewing Assistant (VIP),62,4,2,3
+Day 7,Dept F Viewing Assistant (VIP),68,4,2,4
+Day 7,Dept F Viewing Assistant (VIP),105,4,1,1
+Day 7,Dept F Viewing Assistant (VIP),161,4,1,1
 Day 7,Dept F Viewing Assistant (VIP),164,4,4,2
-Day 7,Dept F Viewing Assistant (VIP),284,5,3,1
-Day 7,Dept F Viewing Assistant (VIP),298,5,1,2
+Day 7,Dept F Viewing Assistant (VIP),187,4,4,3
+Day 7,Dept F Viewing Assistant (VIP),257,3,5,4
+Day 7,Dept F Viewing Assistant (VIP),300,5,0,2
 Day 7,Dept F Viewing Assistant (VIP),318,3,4,5
-Day 7,Dept F Viewing Assistant (VIP),326,5,2,4
-Day 7,Dept G Viewing Assistant ,69,4,3,1
-Day 7,Dept G Viewing Assistant ,105,4,1,1
+Day 7,Dept F Viewing Assistant (VIP),328,3,3,4
+Day 7,Dept G Viewing Assistant ,40,5,4,2
 Day 7,Dept G Viewing Assistant ,139,5,4,4
-Day 7,Dept G Viewing Assistant ,160,5,1,3
-Day 7,Dept G Viewing Assistant ,324,4,5,1
-Day 7,Dept I Viewing Assistant ,159,5,3,1
+Day 7,Dept G Viewing Assistant ,225,5,4,2
+Day 7,Dept G Viewing Assistant ,232,4,4,4
+Day 7,Dept G Viewing Assistant ,298,5,1,2
+Day 7,Dept I Viewing Assistant ,99,4,4,5
+Day 7,Dept I Viewing Assistant ,157,5,1,2
 Day 7,Dept I Viewing Assistant ,185,5,3,3
-Day 7,Dept I Viewing Assistant ,225,5,4,2
-Day 7,Dept I Viewing Assistant ,307,5,3,1
-Day 7,Dept I Viewing Assistant ,308,5,1,4
+Day 7,Dept I Viewing Assistant ,251,4,3,5
+Day 7,Dept I Viewing Assistant ,262,5,3,2
 Day 7,Dept K Packing Assistant ,59,5,4,1
 Day 7,Dept K Packing Assistant ,86,5,3,5
 Day 7,Dept K Packing Assistant ,100,5,1,4
 Day 7,Dept K Packing Assistant ,218,5,2,4
 Day 7,Dept K Packing Assistant ,239,5,2,3
 Day 7,Dept K Set Up Assistant ,6,4,4,2
-Day 7,Dept K Set Up Assistant ,7,5,0,5
 Day 7,Dept K Set Up Assistant ,18,5,0,4
-Day 7,Dept K Set Up Assistant ,22,5,2,1
 Day 7,Dept K Set Up Assistant ,58,5,5,2
-Day 7,Dept K Set Up Assistant ,63,4,3,3
 Day 7,Dept K Set Up Assistant ,64,5,1,4
-Day 7,Dept K Set Up Assistant ,250,4,1,4
+Day 7,Dept K Set Up Assistant ,67,5,1,5
+Day 7,Dept K Set Up Assistant ,119,5,5,3
+Day 7,Dept K Set Up Assistant ,133,5,4,4
 Day 7,Dept K Set Up Assistant ,260,5,2,4
-Day 7,Dept K Set Up Assistant ,288,4,1,1
-Day 7,Dept K Viewing Assistant ,182,4,0,2
-Day 7,Dept K Viewing Assistant ,187,4,4,3
-Day 7,Dept K Viewing Assistant ,214,5,3,0
-Day 7,Dept K Viewing Assistant ,251,4,3,5
-Day 7,Dept K Viewing Assistant ,262,5,3,2
-Day 7,Dept L Set Up Assistant ,20,4,1,3
+Day 7,Dept K Set Up Assistant ,292,5,1,2
+Day 7,Dept K Set Up Assistant ,316,3,4,1
+Day 7,Dept K Viewing Assistant ,66,5,4,2
+Day 7,Dept K Viewing Assistant ,92,5,1,5
+Day 7,Dept K Viewing Assistant ,159,5,3,1
+Day 7,Dept K Viewing Assistant ,160,5,1,3
+Day 7,Dept K Viewing Assistant ,284,5,3,1
+Day 7,Dept L Set Up Assistant ,7,5,0,5
+Day 7,Dept L Set Up Assistant ,11,4,3,5
+Day 7,Dept L Set Up Assistant ,12,5,0,0
+Day 7,Dept L Set Up Assistant ,22,5,2,1
 Day 7,Dept L Set Up Assistant ,39,5,2,2
-Day 7,Dept L Set Up Assistant ,67,5,1,5
+Day 7,Dept L Set Up Assistant ,63,4,3,3
 Day 7,Dept L Set Up Assistant ,95,5,2,3
-Day 7,Dept L Set Up Assistant ,133,5,4,4
-Day 7,Dept L Set Up Assistant ,146,4,3,1
 Day 7,Dept L Set Up Assistant ,193,5,4,3
 Day 7,Dept L Set Up Assistant ,197,5,2,5
-Day 7,Dept L Set Up Assistant ,237,4,2,4
-Day 7,Dept L Set Up Assistant ,289,5,1,1
-Day 7,Dept L Viewing Assistant ,32,5,0,1
-Day 7,Dept L Viewing Assistant ,68,4,2,4
-Day 7,Dept L Viewing Assistant ,257,3,5,4
-Day 7,Dept L Viewing Assistant ,258,4,4,5
-Day 7,Dept L Viewing Assistant ,320,4,5,2
-Day 7,Impressionist painting Viewing Assistant ,62,5,2,3
+Day 7,Dept L Set Up Assistant ,281,5,1,3
+Day 7,Dept L Viewing Assistant ,15,5,2,2
+Day 7,Dept L Viewing Assistant ,177,5,1,4
+Day 7,Dept L Viewing Assistant ,255,5,3,2
+Day 7,Dept L Viewing Assistant ,308,5,1,4
+Day 7,Dept L Viewing Assistant ,326,5,2,4
 Day 7,Impressionist painting Viewing Assistant ,208,5,1,5
 Day 7,Impressionist painting Viewing Assistant ,244,5,2,3
-Day 7,Impressionist painting Viewing Assistant ,287,5,3,0
+Day 7,Impressionist painting Viewing Assistant ,258,5,4,5
+Day 7,Impressionist painting Viewing Assistant ,313,5,2,4
 Day 7,Impressionist painting Viewing Assistant ,325,5,5,1
-Day 7,Information Assistant (Hall 3B) ,52,5,1,1
+Day 7,Information Assistant (Hall 3B) ,20,5,1,3
+Day 7,Information Assistant (Hall 3B) ,174,5,5,0
 Day 7,Information Assistant (Hall 3B) ,216,5,4,1
-Day 7,Information Assistant (Hall 3B) ,278,5,1,1
 Day 7,Information Assistant (Hall 3B) ,283,5,1,1
 Day 7,Information Assistant (Hall 3B) ,311,5,2,0
 Day 7,London Jewellery Viewing Assistant ,91,5,0,3
-Day 7,London Jewellery Viewing Assistant ,97,4,3,5
-Day 7,London Jewellery Viewing Assistant ,98,5,0,1
+Day 7,London Jewellery Viewing Assistant ,138,4,2,4
 Day 7,London Jewellery Viewing Assistant ,163,5,3,3
 Day 7,London Jewellery Viewing Assistant ,200,5,3,5
-Day 7,London Jewellery Viewing Assistant ,212,5,2,0
 Day 7,London Jewellery Viewing Assistant ,217,5,4,3
 Day 7,London Jewellery Viewing Assistant ,226,5,2,3
+Day 7,London Jewellery Viewing Assistant ,250,4,1,4
+Day 7,London Jewellery Viewing Assistant ,287,4,3,0
 Day 7,London Jewellery Viewing Assistant ,290,5,4,4
 Day 7,London Jewellery Viewing Assistant ,299,5,1,4
 Day 7,Operations & Administration Packer ,13,5,3,2
+Day 7,Operations & Administration Packer ,145,5,1,1
 Day 7,Operations & Administration Packer ,201,5,0,0
-Day 7,Operations & Administration Packer ,220,5,1,0
 Day 7,Operations & Administration Packer ,295,5,3,3
-Day 7,Public Relationship Assistant ,21,4,2,5
 Day 7,Public Relationship Assistant ,30,5,0,3
 Day 7,Public Relationship Assistant ,112,5,1,5
+Day 7,Public Relationship Assistant ,136,5,4,4
 Day 7,Public Relationship Assistant ,158,5,1,5
 Day 7,Public Relationship Assistant ,178,5,2,5
 Day 7,Public Relationship Assistant ,207,5,2,4
 Day 7,Public Relationship Assistant ,253,5,1,4
 Day 7,Public Relationship Assistant ,267,5,4,3
 Day 7,Site Assistant ,8,4,5,2
-Day 7,Site Assistant ,85,4,4,2
-Day 7,Site Assistant ,114,5,0,4
+Day 7,Site Assistant ,21,4,2,5
+Day 7,Site Assistant ,61,4,2,1
 Day 7,Site Assistant ,172,5,2,3
-Day 7,Site Assistant ,188,5,5,3
+Day 7,Site Assistant ,183,4,1,1
+Day 7,Site Assistant ,194,4,1,1
 Day 7,Site Assistant ,202,5,3,2
-Day 7,Site Assistant ,221,5,2,3
-Day 7,Site Assistant ,232,5,4,4
+Day 7,Site Assistant ,248,5,5,3
 Day 7,Site Assistant ,259,5,4,4
 Day 7,Site Assistant ,330,4,5,4
 Day 7,Spotter ,81,5,2,2
 Day 7,Spotter ,84,5,1,2
-Day 7,Spotter ,151,5,2,3
-Day 7,Spotter ,152,5,2,2
+Day 7,Spotter ,143,4,3,0
 Day 7,Spotter ,181,4,1,3
 Day 7,Spotter ,210,5,2,1
+Day 7,Spotter ,213,4,3,0
 Day 7,Spotter ,223,5,4,3
 Day 7,Spotter ,228,5,0,1
 Day 7,Spotter ,249,5,0,4
-Day 7,Spotter ,301,4,1,3
-Day 8,Catalogue Desk Assistant ,5,5,4,1
+Day 7,Spotter ,320,5,5,2
+Day 8,Catalogue Desk Assistant ,23,5,4,4
 Day 8,Catalogue Desk Assistant ,27,5,1,3
-Day 8,Catalogue Desk Assistant ,153,5,2,4
+Day 8,Catalogue Desk Assistant ,31,5,2,3
+Day 8,Catalogue Desk Assistant ,148,5,3,2
 Day 8,Catalogue Desk Assistant ,161,5,1,1
-Day 8,Catalogue Desk Assistant ,203,4,3,4
-Day 8,Client Services Assistant ,165,4,4,1
+Day 8,Client Services Assistant ,26,5,1,2
 Day 8,Client Services Assistant ,176,5,2,4
 Day 8,Client Services Assistant ,186,5,4,2
-Day 8,Client Services Assistant ,212,5,2,0
 Day 8,Client Services Assistant ,236,5,3,0
+Day 8,Client Services Assistant ,291,5,1,1
 Day 8,Cloak Room Assistant ,43,5,4,4
-Day 8,Cloak Room Assistant ,70,5,4,3
-Day 8,Cloak Room Assistant ,80,5,5,0
-Day 8,Cloak Room Assistant ,119,5,5,3
-Day 8,Cloak Room Assistant ,137,5,0,2
+Day 8,Cloak Room Assistant ,141,5,1,1
 Day 8,Cloak Room Assistant ,152,5,2,2
 Day 8,Cloak Room Assistant ,162,5,4,1
+Day 8,Cloak Room Assistant ,213,3,3,0
 Day 8,Cloak Room Assistant ,218,5,2,4
 Day 8,Cloak Room Assistant ,238,5,5,1
+Day 8,Cloak Room Assistant ,252,5,2,3
+Day 8,Cloak Room Assistant ,276,5,2,3
 Day 8,Cloak Room Assistant ,280,5,4,4
 Day 8,Currency Board Operator (Saleroom 2) ,35,5,2,1
-Day 8,Currency Board Operator (Saleroom 2) ,106,5,1,3
+Day 8,Currency Board Operator (Saleroom 2) ,49,5,5,2
 Day 8,Currency Board Operator (Saleroom 2) ,111,5,2,3
 Day 8,Currency Board Operator (Saleroom 2) ,130,5,4,0
-Day 8,Currency Board Operator (Saleroom 2) ,240,5,1,5
 Day 8,Currency Board Operator (Saleroom 2) ,304,5,4,1
+Day 8,Currency Board Operator (Saleroom 2) ,317,5,5,3
+Day 8,Dept A Assistant ,17,4,1,1
 Day 8,Dept A Assistant ,19,4,1,2
+Day 8,Dept A Assistant ,48,4,4,2
 Day 8,Dept A Assistant ,83,5,1,1
-Day 8,Dept A Assistant ,96,5,3,3
 Day 8,Dept A Assistant ,110,5,1,3
-Day 8,Dept A Assistant ,211,3,3,1
-Day 8,Dept A Assistant ,222,4,3,4
+Day 8,Dept A Assistant ,145,4,1,1
+Day 8,Dept A Assistant ,206,4,0,2
 Day 8,Dept A Assistant ,272,4,4,3
-Day 8,Dept A Assistant ,303,4,3,4
-Day 8,Dept A Assistant ,306,4,2,1
+Day 8,Dept A Assistant ,274,4,1,3
 Day 8,Dept A Assistant ,322,4,1,2
-Day 8,Dept C Assistant ,9,3,5,0
-Day 8,Dept C Assistant ,115,4,4,2
-Day 8,Dept C Assistant ,174,4,5,0
-Day 8,Dept C Assistant ,179,4,2,1
-Day 8,Dept C Assistant ,282,4,1,3
+Day 8,Dept C Assistant ,16,5,1,2
+Day 8,Dept C Assistant ,96,5,3,3
+Day 8,Dept C Assistant ,117,5,2,1
+Day 8,Dept C Assistant ,242,5,3,4
+Day 8,Dept C Assistant ,246,5,4,3
+Day 8,Dept D Viewing Assistant ,14,5,2,1
 Day 8,Dept D Viewing Assistant ,24,5,2,1
-Day 8,Dept D Viewing Assistant ,44,4,3,4
-Day 8,Dept D Viewing Assistant ,120,4,2,0
-Day 8,Dept D Viewing Assistant ,139,5,4,4
-Day 8,Dept D Viewing Assistant ,142,4,1,2
-Day 8,Dept D Viewing Assistant ,177,5,1,4
-Day 8,Dept D Viewing Assistant ,215,5,2,2
-Day 8,Dept D Viewing Assistant ,262,5,3,2
+Day 8,Dept D Viewing Assistant ,51,5,2,1
+Day 8,Dept D Viewing Assistant ,165,3,4,1
+Day 8,Dept D Viewing Assistant ,175,4,2,4
+Day 8,Dept D Viewing Assistant ,257,3,5,4
+Day 8,Dept D Viewing Assistant ,300,5,0,2
+Day 8,Dept D Viewing Assistant ,307,5,3,1
 Day 8,Dept D Viewing Assistant ,309,5,1,0
 Day 8,Dept D Viewing Assistant ,328,3,3,4
-Day 8,Dept E Assistant ,17,4,1,1
-Day 8,Dept E Assistant ,47,5,1,4
-Day 8,Dept E Assistant ,49,4,5,2
-Day 8,Dept E Assistant ,117,5,2,1
-Day 8,Dept E Assistant ,148,4,3,2
+Day 8,Dept E Assistant ,56,3,1,1
+Day 8,Dept E Assistant ,115,4,4,2
+Day 8,Dept E Assistant ,179,4,2,1
 Day 8,Dept E Assistant ,191,5,1,4
-Day 8,Dept E Assistant ,246,5,4,3
-Day 8,Dept E Assistant ,252,4,2,3
-Day 8,Dept E Assistant ,279,5,5,3
-Day 8,Dept E Assistant ,305,3,5,2
-Day 8,Dept G Viewing Assistant ,14,5,2,1
-Day 8,Dept G Viewing Assistant ,109,5,5,3
-Day 8,Dept G Viewing Assistant ,157,5,1,2
-Day 8,Dept G Viewing Assistant ,255,5,3,2
+Day 8,Dept E Assistant ,211,3,3,1
+Day 8,Dept E Assistant ,223,3,4,3
+Day 8,Dept E Assistant ,256,4,3,1
+Day 8,Dept E Assistant ,282,4,1,3
+Day 8,Dept E Assistant ,303,4,3,4
+Day 8,Dept E Assistant ,306,4,2,1
+Day 8,Dept G Viewing Assistant ,177,5,1,4
+Day 8,Dept G Viewing Assistant ,195,5,3,3
+Day 8,Dept G Viewing Assistant ,232,4,4,4
+Day 8,Dept G Viewing Assistant ,279,5,5,3
 Day 8,Dept G Viewing Assistant ,326,5,2,4
-Day 8,Dept I Viewing Assistant ,51,5,2,1
-Day 8,Dept I Viewing Assistant ,92,5,1,5
-Day 8,Dept I Viewing Assistant ,195,5,3,3
-Day 8,Dept I Viewing Assistant ,276,4,2,3
-Day 8,Dept I Viewing Assistant ,307,5,3,1
+Day 8,Dept I Viewing Assistant ,28,5,1,3
+Day 8,Dept I Viewing Assistant ,109,5,5,3
+Day 8,Dept I Viewing Assistant ,215,5,2,2
+Day 8,Dept I Viewing Assistant ,225,5,4,2
+Day 8,Dept I Viewing Assistant ,255,5,3,2
 Day 8,Dept K Packing Assistant ,53,5,1,2
+Day 8,Dept K Packing Assistant ,59,5,4,1
 Day 8,Dept K Packing Assistant ,73,5,5,3
 Day 8,Dept K Packing Assistant ,100,5,1,4
-Day 8,Dept K Packing Assistant ,126,5,1,3
 Day 8,Dept K Packing Assistant ,239,5,2,3
 Day 8,Dept K Set Up Assistant ,2,5,1,2
-Day 8,Dept K Set Up Assistant ,7,5,0,5
-Day 8,Dept K Set Up Assistant ,20,4,1,3
-Day 8,Dept K Set Up Assistant ,58,5,5,2
+Day 8,Dept K Set Up Assistant ,6,4,4,2
+Day 8,Dept K Set Up Assistant ,18,5,0,4
+Day 8,Dept K Set Up Assistant ,67,5,1,5
 Day 8,Dept K Set Up Assistant ,76,5,0,4
-Day 8,Dept K Set Up Assistant ,90,4,3,2
-Day 8,Dept K Set Up Assistant ,107,5,3,2
+Day 8,Dept K Set Up Assistant ,119,5,5,3
 Day 8,Dept K Set Up Assistant ,129,5,2,1
+Day 8,Dept K Set Up Assistant ,140,5,0,3
 Day 8,Dept K Set Up Assistant ,184,5,1,4
-Day 8,Dept K Set Up Assistant ,197,5,2,5
-Day 8,Dept L Set Up Assistant ,6,4,4,2
+Day 8,Dept K Set Up Assistant ,289,5,1,1
+Day 8,Dept L Set Up Assistant ,7,5,0,5
 Day 8,Dept L Set Up Assistant ,12,5,0,0
-Day 8,Dept L Set Up Assistant ,18,5,0,4
-Day 8,Dept L Set Up Assistant ,29,4,3,3
-Day 8,Dept L Set Up Assistant ,67,5,1,5
-Day 8,Dept L Set Up Assistant ,74,5,2,5
-Day 8,Dept L Set Up Assistant ,140,5,0,3
+Day 8,Dept L Set Up Assistant ,22,5,2,1
+Day 8,Dept L Set Up Assistant ,58,5,5,2
+Day 8,Dept L Set Up Assistant ,107,5,3,2
+Day 8,Dept L Set Up Assistant ,197,5,2,5
+Day 8,Dept L Set Up Assistant ,265,3,3,1
 Day 8,Dept L Set Up Assistant ,268,4,1,2
 Day 8,Dept L Set Up Assistant ,281,5,1,3
-Day 8,Dept L Set Up Assistant ,289,5,1,1
+Day 8,Dept L Set Up Assistant ,305,4,5,2
 Day 8,Dept L Viewing Assistant ,15,5,2,2
-Day 8,Dept L Viewing Assistant ,175,4,2,4
-Day 8,Dept L Viewing Assistant ,201,5,0,0
-Day 8,Dept L Viewing Assistant ,257,3,5,4
-Day 8,Dept L Viewing Assistant ,278,4,1,1
+Day 8,Dept L Viewing Assistant ,92,5,1,5
+Day 8,Dept L Viewing Assistant ,139,5,4,4
+Day 8,Dept L Viewing Assistant ,157,5,1,2
+Day 8,Dept L Viewing Assistant ,262,5,3,2
 Day 8,Impressionist painting Viewing Assistant ,11,4,3,5
 Day 8,Impressionist painting Viewing Assistant ,62,5,2,3
-Day 8,Impressionist painting Viewing Assistant ,103,5,1,3
+Day 8,Impressionist painting Viewing Assistant ,222,5,3,4
 Day 8,Impressionist painting Viewing Assistant ,313,5,2,4
 Day 8,Impressionist painting Viewing Assistant ,325,5,5,1
 Day 8,Information Assistant (Hall 3B) ,87,5,0,3
 Day 8,Information Assistant (Hall 3B) ,88,5,1,5
+Day 8,Information Assistant (Hall 3B) ,174,5,5,0
 Day 8,Information Assistant (Hall 3B) ,216,5,4,1
-Day 8,Information Assistant (Hall 3B) ,263,5,2,4
 Day 8,Information Assistant (Hall 3B) ,311,5,2,0
-Day 8,London Jewellery Viewing Assistant ,3,5,2,3
 Day 8,London Jewellery Viewing Assistant ,65,5,4,4
 Day 8,London Jewellery Viewing Assistant ,91,5,0,3
-Day 8,London Jewellery Viewing Assistant ,97,4,3,5
+Day 8,London Jewellery Viewing Assistant ,121,3,3,2
 Day 8,London Jewellery Viewing Assistant ,163,5,3,3
 Day 8,London Jewellery Viewing Assistant ,200,5,3,5
+Day 8,London Jewellery Viewing Assistant ,212,5,2,0
 Day 8,London Jewellery Viewing Assistant ,235,5,2,2
 Day 8,London Jewellery Viewing Assistant ,266,5,0,5
 Day 8,London Jewellery Viewing Assistant ,290,5,4,4
 Day 8,London Jewellery Viewing Assistant ,299,5,1,4
+Day 8,Operations & Administration Packer ,5,5,4,1
 Day 8,Operations & Administration Packer ,13,5,3,2
-Day 8,Operations & Administration Packer ,55,5,4,1
 Day 8,Operations & Administration Packer ,79,5,2,4
-Day 8,Operations & Administration Packer ,145,5,1,1
+Day 8,Operations & Administration Packer ,201,5,0,0
 Day 8,Public Relationship Assistant ,21,4,2,5
 Day 8,Public Relationship Assistant ,30,5,0,3
 Day 8,Public Relationship Assistant ,112,5,1,5
@@ -1366,21 +1366,21 @@ Day 8,Public Relationship Assistant ,286,5,4,3
 Day 8,Site Assistant ,1,5,3,4
 Day 8,Site Assistant ,8,4,5,2
 Day 8,Site Assistant ,61,4,2,1
-Day 8,Site Assistant ,89,4,5,0
 Day 8,Site Assistant ,128,5,4,1
-Day 8,Site Assistant ,188,5,5,3
+Day 8,Site Assistant ,167,4,1,2
 Day 8,Site Assistant ,193,5,4,3
-Day 8,Site Assistant ,232,5,4,4
+Day 8,Site Assistant ,194,4,1,1
 Day 8,Site Assistant ,248,5,5,3
 Day 8,Site Assistant ,249,5,0,4
+Day 8,Site Assistant ,315,5,3,1
 Day 9,Catalogue Desk Assistant ,23,5,4,4
-Day 9,Catalogue Desk Assistant ,41,5,3,4
-Day 9,Catalogue Desk Assistant ,118,5,4,3
-Day 9,Catalogue Desk Assistant ,153,5,2,4
+Day 9,Catalogue Desk Assistant ,114,5,0,4
+Day 9,Catalogue Desk Assistant ,198,5,2,2
 Day 9,Catalogue Desk Assistant ,233,5,3,3
+Day 9,Catalogue Desk Assistant ,321,5,4,5
+Day 9,Client Services Assistant ,26,5,1,2
+Day 9,Client Services Assistant ,33,5,1,1
 Day 9,Client Services Assistant ,176,5,2,4
-Day 9,Client Services Assistant ,186,5,4,2
-Day 9,Client Services Assistant ,209,5,4,5
 Day 9,Client Services Assistant ,236,5,3,0
 Day 9,Client Services Assistant ,260,5,2,4
 Day 9,Cloak Room Assistant ,24,5,2,1
@@ -1389,94 +1389,94 @@ Day 9,Cloak Room Assistant ,68,5,2,4
 Day 9,Cloak Room Assistant ,70,5,4,3
 Day 9,Cloak Room Assistant ,123,5,5,0
 Day 9,Cloak Room Assistant ,131,5,2,5
-Day 9,Cloak Room Assistant ,149,5,2,2
 Day 9,Cloak Room Assistant ,154,5,4,0
-Day 9,Cloak Room Assistant ,205,5,5,4
+Day 9,Cloak Room Assistant ,245,5,1,5
 Day 9,Cloak Room Assistant ,276,5,2,3
-Day 9,Dept A Assistant ,17,4,1,1
-Day 9,Dept A Assistant ,25,4,3,1
+Day 9,Cloak Room Assistant ,280,5,4,4
+Day 9,Dept A Assistant ,19,4,1,2
 Day 9,Dept A Assistant ,34,4,1,4
 Day 9,Dept A Assistant ,49,4,5,2
-Day 9,Dept A Assistant ,82,4,2,1
-Day 9,Dept A Assistant ,96,5,3,3
-Day 9,Dept A Assistant ,110,5,1,3
-Day 9,Dept A Assistant ,115,4,4,2
-Day 9,Dept A Assistant ,156,5,2,5
-Day 9,Dept A Assistant ,190,5,0,1
-Day 9,Dept C Assistant ,19,4,1,2
-Day 9,Dept C Assistant ,134,5,4,5
-Day 9,Dept C Assistant ,256,4,3,1
-Day 9,Dept C Assistant ,261,4,4,2
+Day 9,Dept A Assistant ,51,4,2,1
+Day 9,Dept A Assistant ,108,4,1,0
+Day 9,Dept A Assistant ,147,5,1,3
+Day 9,Dept A Assistant ,191,5,1,4
+Day 9,Dept A Assistant ,206,4,0,2
+Day 9,Dept A Assistant ,256,4,3,1
+Day 9,Dept A Assistant ,303,4,3,4
+Day 9,Dept C Assistant ,94,5,5,3
+Day 9,Dept C Assistant ,96,5,3,3
+Day 9,Dept C Assistant ,156,5,2,5
+Day 9,Dept C Assistant ,219,5,2,4
 Day 9,Dept C Assistant ,279,5,5,3
-Day 9,Dept E Assistant ,47,5,1,4
+Day 9,Dept E Assistant ,17,4,1,1
+Day 9,Dept E Assistant ,25,4,3,1
 Day 9,Dept E Assistant ,83,5,1,1
-Day 9,Dept E Assistant ,94,5,5,3
-Day 9,Dept E Assistant ,147,5,1,3
-Day 9,Dept E Assistant ,191,5,1,4
-Day 9,Dept E Assistant ,219,5,2,4
-Day 9,Dept E Assistant ,231,4,3,1
-Day 9,Dept E Assistant ,269,4,3,1
-Day 9,Dept E Assistant ,274,4,1,3
-Day 9,Dept E Assistant ,303,4,3,4
-Day 9,Dept G Viewing Assistant ,51,5,2,1
-Day 9,Dept G Viewing Assistant ,225,5,4,2
-Day 9,Dept G Viewing Assistant ,298,5,1,2
-Day 9,Dept G Viewing Assistant ,307,5,3,1
-Day 9,Dept G Viewing Assistant ,327,5,3,5
-Day 9,Dept I Viewing Assistant ,15,5,2,2
-Day 9,Dept I Viewing Assistant ,28,5,1,3
-Day 9,Dept I Viewing Assistant ,46,5,1,3
-Day 9,Dept I Viewing Assistant ,58,4,5,2
+Day 9,Dept E Assistant ,144,4,3,2
+Day 9,Dept E Assistant ,148,4,3,2
+Day 9,Dept E Assistant ,261,4,4,2
+Day 9,Dept E Assistant ,285,4,1,2
+Day 9,Dept E Assistant ,289,4,1,1
+Day 9,Dept E Assistant ,306,4,2,1
+Day 9,Dept E Assistant ,322,4,1,2
+Day 9,Dept G Viewing Assistant ,15,5,2,2
+Day 9,Dept G Viewing Assistant ,46,5,1,3
+Day 9,Dept G Viewing Assistant ,134,5,4,5
+Day 9,Dept G Viewing Assistant ,159,5,3,1
+Day 9,Dept G Viewing Assistant ,300,5,0,2
+Day 9,Dept I Viewing Assistant ,157,5,1,2
+Day 9,Dept I Viewing Assistant ,185,5,3,3
+Day 9,Dept I Viewing Assistant ,307,5,3,1
 Day 9,Dept I Viewing Assistant ,308,5,1,4
-Day 9,Dept K Packing Assistant ,45,5,3,3
+Day 9,Dept I Viewing Assistant ,326,5,2,4
 Day 9,Dept K Packing Assistant ,59,5,4,1
 Day 9,Dept K Packing Assistant ,73,5,5,3
-Day 9,Dept K Packing Assistant ,264,5,1,3
+Day 9,Dept K Packing Assistant ,115,5,4,2
+Day 9,Dept K Packing Assistant ,262,5,3,2
 Day 9,Dept K Packing Assistant ,304,5,4,1
+Day 9,Dept L Viewing Assistant ,7,4,0,5
+Day 9,Dept L Viewing Assistant ,28,5,1,3
+Day 9,Dept L Viewing Assistant ,66,5,4,2
 Day 9,Dept L Viewing Assistant ,109,5,5,3
-Day 9,Dept L Viewing Assistant ,132,5,5,5
-Day 9,Dept L Viewing Assistant ,159,5,3,1
-Day 9,Dept L Viewing Assistant ,185,5,3,3
-Day 9,Dept L Viewing Assistant ,262,5,3,2
-Day 9,Impressionist painting Viewing Assistant ,76,5,0,4
+Day 9,Dept L Viewing Assistant ,225,5,4,2
+Day 9,Impressionist painting Viewing Assistant ,62,5,2,3
+Day 9,Impressionist painting Viewing Assistant ,142,5,1,2
+Day 9,Impressionist painting Viewing Assistant ,222,5,3,4
 Day 9,Impressionist painting Viewing Assistant ,258,5,4,5
 Day 9,Impressionist painting Viewing Assistant ,314,5,3,3
-Day 9,Impressionist painting Viewing Assistant ,321,5,4,5
-Day 9,Impressionist painting Viewing Assistant ,325,5,5,1
 Day 9,Information Assistant (Hall 3B) ,152,5,2,2
-Day 9,Information Assistant (Hall 3B) ,175,5,2,4
-Day 9,Information Assistant (Hall 3B) ,263,5,2,4
+Day 9,Information Assistant (Hall 3B) ,188,5,5,3
 Day 9,Information Assistant (Hall 3B) ,283,5,1,1
 Day 9,Information Assistant (Hall 3B) ,284,5,3,1
+Day 9,Information Assistant (Hall 3B) ,311,5,2,0
+Day 9,London Jewellery Viewing Assistant ,65,5,4,4
 Day 9,London Jewellery Viewing Assistant ,95,5,2,3
-Day 9,London Jewellery Viewing Assistant ,144,5,3,2
-Day 9,London Jewellery Viewing Assistant ,148,5,3,2
+Day 9,London Jewellery Viewing Assistant ,122,5,0,2
 Day 9,London Jewellery Viewing Assistant ,217,5,4,3
 Day 9,London Jewellery Viewing Assistant ,235,5,2,2
+Day 9,London Jewellery Viewing Assistant ,250,4,1,4
 Day 9,London Jewellery Viewing Assistant ,266,5,0,5
-Day 9,London Jewellery Viewing Assistant ,270,5,1,3
 Day 9,London Jewellery Viewing Assistant ,273,5,4,3
-Day 9,London Jewellery Viewing Assistant ,285,5,1,2
+Day 9,London Jewellery Viewing Assistant ,298,5,1,2
 Day 9,London Jewellery Viewing Assistant ,299,5,1,4
 Day 9,Operations & Administration Packer ,5,5,4,1
-Day 9,Operations & Administration Packer ,55,5,4,1
 Day 9,Operations & Administration Packer ,64,5,1,4
-Day 9,Operations & Administration Packer ,295,5,3,3
+Day 9,Operations & Administration Packer ,76,5,0,4
+Day 9,Operations & Administration Packer ,201,5,0,0
+Day 9,Public Relationship Assistant ,21,4,2,5
+Day 9,Public Relationship Assistant ,22,5,2,1
 Day 9,Public Relationship Assistant ,101,5,5,3
 Day 9,Public Relationship Assistant ,119,5,5,3
 Day 9,Public Relationship Assistant ,136,5,4,4
-Day 9,Public Relationship Assistant ,204,5,4,4
-Day 9,Public Relationship Assistant ,222,5,3,4
+Day 9,Public Relationship Assistant ,184,4,1,4
 Day 9,Public Relationship Assistant ,253,5,1,4
 Day 9,Public Relationship Assistant ,267,5,4,3
-Day 9,Public Relationship Assistant ,282,5,1,3
-Day 9,Site Assistant ,89,4,5,0
-Day 9,Site Assistant ,114,5,0,4
+Day 9,Site Assistant ,1,5,3,4
+Day 9,Site Assistant ,39,4,2,2
+Day 9,Site Assistant ,58,4,5,2
 Day 9,Site Assistant ,116,5,4,2
-Day 9,Site Assistant ,150,5,1,2
+Day 9,Site Assistant ,133,4,4,4
 Day 9,Site Assistant ,172,5,2,3
-Day 9,Site Assistant ,188,5,5,3
 Day 9,Site Assistant ,202,5,3,2
-Day 9,Site Assistant ,221,5,2,3
+Day 9,Site Assistant ,249,5,0,4
 Day 9,Site Assistant ,259,5,4,4
 Day 9,Site Assistant ,315,5,3,1

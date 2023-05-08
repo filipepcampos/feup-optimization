@@ -8,7 +8,14 @@ float ExperienceWeigth = ...;
 float PresentationSkillsWeigth = ...;
 float LanguageSkillsWeigth = ...;
 float AvailabilityWeigth = ...;
+assert ExperienceWeigth + PresentationSkillsWeigth + LanguageSkillsWeigth + AvailabilityWeigth == 1.0;
+
 int LimitConsecutiveDays = ...;
+int TargetNumberOfWorkers = ...;
+int MaximumNumberOfWorkers = ...;
+float PenaltyPerExtraWorker = ...;
+assert TargetNumberOfWorkers <= MaximumNumberOfWorkers;
+
 
 {string} Positions = ...;
 {string} PositionTypes = ...;
@@ -27,54 +34,47 @@ int Requirements[Positions][Days] = ...;
 int Availability[CandidateIds][Days] = ...;
 int Experience[CandidateIds][PositionTypes] = ...;
 int Skills[CandidateIds][SkillsTypes] = ...;
-
 string DayNameMatch[1..NumberOfDays] = ...;
 
 dvar boolean x[Days][CandidateIds][Positions];
+dvar int slack_number_of_workers;
 
-// ======================= METRICS =======================		
-// Average availability in percentage of total days (0 to 1)
-dexpr float kpi_availability = (
-	sum(candidate in CandidateIds) (
-	  (sum(day in Days) Availability[candidate][day]) / NumberOfDays
-	)
-) / card(CandidateIds);
+// ==========================================================================
 
-// Average experience in percentage (0 to 1)
-dexpr float kpi_experience = sum(day in Days) ((
-		sum(position in Positions : Requirements[position][day] > 0) (
-			sum(candidate in CandidateIds) (
-				(x[day][candidate][position] * Experience[candidate][PositionMatch[position]]) / 5
-			)
-		)
-	) /	(
-	sum(position in Positions)
-	  Requirements[position][day]
-	)) / NumberOfDays;
-
-// Number of workers
-dexpr float kpi_number_of_workers = 
+dexpr float number_of_workers = 
 	sum(candidate in CandidateIds)
 	  	minl(1, sum(day in Days) sum(position in Positions) x[day][candidate][position]);
-// ======================= END OF METRICS =======================
 
-dexpr float capabilities = 
+
+dexpr float capabilitiesPerAllocation[day in Days][position in Positions] =
+	sum(candidate in CandidateIds) (
+		x[day][candidate][position] * (
+				ExperienceWeigth * Experience[candidate][PositionMatch[position]] + 
+					PresentationSkillsWeigth * Skills[candidate]["Presentation skills"] * PresentationSkillsMatch[position] +
+					LanguageSkillsWeigth * Skills[candidate]["Language skills"] * LanguageSkillsMatch[position] +
+					AvailabilityWeigth * (5 * (sum(availableDays in Days) Availability[candidate][day]) / NumberOfDays)	
+		)
+	);
+
+dexpr float capabilitiesPerDay[day in Days] = (
+	sum(position in Positions : Requirements[position][day] > 0)
+		capabilitiesPerAllocation[day][position] / Requirements[position][day]
+	) / card(Positions);
+
+dexpr float capabilities = ( 
 	sum(day in Days)
-		sum(candidate in CandidateIds) 
-			sum(position in Positions) 
-				x[day][candidate][position] * (
-					ExperienceWeigth * Experience[candidate][PositionMatch[position]] + 
-						PresentationSkillsWeigth * Skills[candidate]["Presentation skills"]*PresentationSkillsMatch[position] +
-						LanguageSkillsWeigth * Skills[candidate]["Language skills"]*LanguageSkillsMatch[position] +
-						AvailabilityWeigth * (5 * (sum(availableDays in Days) Availability[candidate][day]) / NumberOfDays)
-				);
+		capabilitiesPerDay[day]
+	) / card(Days);
+	
+// ==========================================================================
 
-dexpr float regularAllocations = capabilities;
+dexpr float regularAllocations = capabilities - slack_number_of_workers * PenaltyPerExtraWorker;
 dexpr float waitingListAllocations = 0;
 
 maximize regularAllocations;
 //maximize staticLex(regularAllocations, waitingListAllocations);
  
+
 subject to {
   	// Only 1 allocation per staff per day
   	ctSingleStaffAllocationPerDay:
@@ -98,15 +98,65 @@ subject to {
 	// Maximum consecutive working days
 	forall(candidate in CandidateIds)
 	  forall(firstDayIndex in 1..NumberOfDaySubarrays)
-	    sum(dayIndex in firstDayIndex..firstDayIndex+LimitConsecutiveDays) sum(position in Positions) x[DayNameMatch[dayIndex]][candidate][position] <=  LimitConsecutiveDays - 1;    
+	    sum(dayIndex in firstDayIndex..firstDayIndex+LimitConsecutiveDays) sum(position in Positions) x[DayNameMatch[dayIndex]][candidate][position] <=  LimitConsecutiveDays - 1;
+	
+	// Limit number of workers
+	number_of_workers <= TargetNumberOfWorkers + slack_number_of_workers;
+	number_of_workers + slack_number_of_workers <= MaximumNumberOfWorkers;
 }
+
+
+// Some metrics to help understand our solution:
  
+// Average availability in percentage of total days (0 to 1)
+dexpr float availability_percentage = (
+	sum(candidate in CandidateIds) (
+	  (sum(day in Days) Availability[candidate][day]) / NumberOfDays
+	)
+) / card(CandidateIds);
+
+// Average experience in percentage
+dexpr float experience_percentage = sum(day in Days) ((
+		sum(position in Positions : Requirements[position][day] > 0) (
+			sum(candidate in CandidateIds) (
+				(x[day][candidate][position] * Experience[candidate][PositionMatch[position]])
+			)
+		)
+	) /	(
+	sum(position in Positions)
+	  Requirements[position][day]
+	)) / NumberOfDays;
+
+// Language skills average
+{string} PositionsWithLanguageSkillsPerDay[day in Days] = {p | p in Positions : LanguageSkillsMatch[p] > 0 && Requirements[p][day] > 0 };
+dexpr float language_skills_percentage = 
+	sum(day in Days) (
+		sum(position in PositionsWithLanguageSkillsPerDay[day]) (
+		  		sum(candidate in CandidateIds) (
+					x[day][candidate][position] * Skills[candidate]["Language skills"] * LanguageSkillsMatch[position]
+				) / Requirements[position][day] 
+		) / card(PositionsWithLanguageSkillsPerDay[day])
+	) / card(Days);
+
+// Presentation skills average
+{string} PositionsWithPresentationSkillsPerDay[day in Days] = {p | p in Positions : PresentationSkillsMatch[p] > 0 && Requirements[p][day] > 0 };
+dexpr float presentation_skills_percentage = 
+	sum(day in Days) (
+		sum(position in PositionsWithPresentationSkillsPerDay[day]) (
+		  		sum(candidate in CandidateIds) (
+					x[day][candidate][position] * Skills[candidate]["Presentation skills"] * PresentationSkillsMatch[position]
+				) / Requirements[position][day] 
+		) / card(PositionsWithPresentationSkillsPerDay[day])
+	) / card(Days);
+
 execute OUTPUT_RESULTS_LOG {
 	var file = new IloOplOutputFile("solution.txt");
 	file.writeln("Objective Function = ", cplex.getObjValue());
-	file.writeln("Average Availability = ", kpi_availability * NumberOfDays, " days");
-	file.writeln("Average Experience = ", kpi_experience * 5, " / 5");
-	file.writeln("Number of workers = ", kpi_number_of_workers);
+	file.writeln("Average Availability = ", availability_percentage * NumberOfDays, " days");
+	file.writeln("Average Experience = ", experience_percentage, " / 5");
+	file.writeln("Average Language Skills (for positions that require it) = ", language_skills_percentage, " / 5");
+	file.writeln("Average Presentation Skills (for positions that require it) = ", presentation_skills_percentage, " / 5");
+	file.writeln("Number of workers = ", number_of_workers);
 	
 	file.writeln("\nAllocations:\n");
 	
