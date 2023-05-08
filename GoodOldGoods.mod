@@ -10,7 +10,12 @@ float LanguageSkillsWeigth = ...;
 float AvailabilityWeigth = ...;
 assert ExperienceWeigth + PresentationSkillsWeigth + LanguageSkillsWeigth + AvailabilityWeigth == 1.0;
 
-int LimitConsecutiveDays = ...;
+// Number of days in a row, d: 0 <= d <= Acceptable (no penalty), Acceptable < d <= Maximum (penalty per extra day)
+int AcceptableConsecutiveDays = ...;
+int MaximumConsecutiveDays = ...;
+float PenaltyPerExtraConsecutiveDay = ...;
+assert AcceptableConsecutiveDays <= MaximumConsecutiveDays;
+
 int TargetNumberOfWorkers = ...;
 int MaximumNumberOfWorkers = ...;
 float PenaltyPerExtraWorker = ...;
@@ -25,7 +30,7 @@ string CandidateNames[CandidateIds] = ...;
 {string} SkillsTypes = ...;
 
 int NumberOfDays = card(Days);
-int NumberOfDaySubarrays = NumberOfDays - LimitConsecutiveDays; // TODO: check if +1 is needed
+int NumberOfDaySubarrays = NumberOfDays - AcceptableConsecutiveDays; // TODO: check if +1 is needed
 
 string PositionMatch[Positions] = ...;
 int LanguageSkillsMatch[Positions] = ...;
@@ -37,7 +42,8 @@ int Skills[CandidateIds][SkillsTypes] = ...;
 string DayNameMatch[1..NumberOfDays] = ...;
 
 dvar boolean x[Days][CandidateIds][Positions];
-dvar int slack_number_of_workers;
+dvar int+ slack_number_of_workers;
+dvar int+ slack_consecutive_days[CandidateIds];
 
 // ==========================================================================
 
@@ -68,7 +74,10 @@ dexpr float capabilities = (
 	
 // ==========================================================================
 
-dexpr float regularAllocations = capabilities - slack_number_of_workers * PenaltyPerExtraWorker;
+dexpr float regularAllocations = 
+	capabilities 
+	- slack_number_of_workers * PenaltyPerExtraWorker
+	- (sum(candidate in CandidateIds) slack_consecutive_days[candidate]) * PenaltyPerExtraConsecutiveDay;
 dexpr float waitingListAllocations = 0;
 
 maximize regularAllocations;
@@ -96,9 +105,14 @@ subject to {
 			      	x[day][candidate][position] <= Availability[candidate][day];
 	  	
 	// Maximum consecutive working days
-	forall(candidate in CandidateIds)
-	  forall(firstDayIndex in 1..NumberOfDaySubarrays)
-	    sum(dayIndex in firstDayIndex..firstDayIndex+LimitConsecutiveDays) sum(position in Positions) x[DayNameMatch[dayIndex]][candidate][position] <=  LimitConsecutiveDays - 1;
+	forall(candidate in CandidateIds) {
+	  	slack_number_of_workers <= MaximumConsecutiveDays - AcceptableConsecutiveDays;
+	 	forall(firstDayIndex in 1..NumberOfDaySubarrays)
+		    sum(dayIndex in firstDayIndex..firstDayIndex+AcceptableConsecutiveDays) 
+		    	sum(position in Positions) 
+		    		x[DayNameMatch[dayIndex]][candidate][position] <=  AcceptableConsecutiveDays - 1 + slack_consecutive_days[candidate]; 
+	}
+	
 	
 	// Limit number of workers
 	number_of_workers <= TargetNumberOfWorkers + slack_number_of_workers;
