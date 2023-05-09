@@ -11,6 +11,9 @@ float LanguageSkillsWeigth = ...;
 float AvailabilityWeigth = ...;
 assert ExperienceWeigth + PresentationSkillsWeigth + LanguageSkillsWeigth + AvailabilityWeigth == 1.0;
 
+float WaitingListCapabilityWeigth = ...;
+float WaitingListTravelWeigth = ...;
+
 // Number of days in a row, d: 0 <= d <= Acceptable (no penalty), Acceptable < d <= Maximum (penalty per extra day)
 int AcceptableConsecutiveDays = ...;
 int MaximumConsecutiveDays = ...;
@@ -53,9 +56,10 @@ dvar float average_waiting_list_capability;
 
 // === REGULAR ALLOCATIONS ==================================================================
 
+
 dexpr float number_of_workers = 
 	sum(candidate in CandidateIds)
-	  	minl(1, sum(day in Days) sum(position in Positions) x[day][candidate][position]);
+	  	((sum(day in Days) sum(position in Positions) x[day][candidate][position]) >= 1);
 
 // TODO
 // AvailabilityWeigth * (5 * (sum(availableDays in Days) Availability[candidate][day]) / NumberOfDays)	// TODO: Maybe extract to another "function"
@@ -93,14 +97,16 @@ dexpr float regularAllocations =
 // === WAITING LIST  ALLOCATIONS ============================================================
 
 
-dexpr float waitingListTravel = // TODO: Maybe normalize this value so it matches the scale of average_waiting_list_experience
+dexpr float waitingListTravel =
 	sum(day in Days) (
 		sum(candidate in CandidateIds) (
 			x[day][candidate]["Waiting List "] * Skills[candidate]["Travel time&distance"]
 		) / Requirements["Waiting List "][day]
 	) / card(Days);
 
-dexpr float waitingListAllocations = 0 + waitingListTravel;
+dexpr float waitingListAllocations = 
+	WaitingListCapabilityWeigth * average_waiting_list_capability + 
+	WaitingListTravelWeigth * waitingListTravel;
 
 // ==========================================================================================
 
@@ -135,18 +141,16 @@ subject to {
 		    		x[DayNameMatch[dayIndex]][candidate][position] <=  AcceptableConsecutiveDays - 1 + slack_consecutive_days[candidate]; 
 	}
 	
-	
 	// Limit number of workers
 	number_of_workers <= TargetNumberOfWorkers + slack_number_of_workers;
-	number_of_workers + slack_number_of_workers <= MaximumNumberOfWorkers;
-	
+ 	slack_number_of_workers <= MaximumNumberOfWorkers - TargetNumberOfWorkers;
 	
 	// ---- Waiting List Constraints ----
-//	forall(day in Days)
-//	  forall(position in Positions)
-//	      sum(candidate in CandidateIds) (
-//	         x[day][candidate]["Waiting List "] * capabilitiesArray[position][candidate]
-//	      ) / Requirements["Waiting List "][day] >= average_waiting_list_capability;
+	forall(day in Days)
+	  forall(position in Positions)
+	      sum(candidate in CandidateIds) (
+	         x[day][candidate]["Waiting List "] * capabilitiesArray[position][candidate]
+	      ) / Requirements["Waiting List "][day] >= average_waiting_list_capability;
 }
 
 

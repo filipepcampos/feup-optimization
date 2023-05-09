@@ -9,14 +9,15 @@ PresentationSkillsWeigth = 0.20;
 LanguageSkillsWeigth = 0.075;
 AvailabilityWeigth = 0.075;
 
+WaitingListCapabilityWeigth = 0.8;
+WaitingListTravelWeigth = 0.2;
+
 AcceptableConsecutiveDays = 7;
 MaximumConsecutiveDays = 9;
 PenaltyPerExtraConsecutiveDay = 0.05;
 
-//TargetNumberOfWorkers = 300;
-//MaximumNumberOfWorkers = 350;
-TargetNumberOfWorkers = 500;
-MaximumNumberOfWorkers = 650;
+TargetNumberOfWorkers = 250;
+MaximumNumberOfWorkers = 300;
 PenaltyPerExtraWorker = 0.01; // 0.5 / 50, overall capabilities may decrease 0.5 points if number of workers is 250
 
 SheetConnection sheet("GoodOldGoods_Data.xlsx");
