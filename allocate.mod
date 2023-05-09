@@ -5,8 +5,6 @@
  *********************************************/
 
 // === PARAMETERS ===========================================================================
-int WaitingListSize = ...;
-
 float ExperienceWeigth = ...;
 float PresentationSkillsWeigth = ...;
 float LanguageSkillsWeigth = ...;
@@ -45,6 +43,7 @@ int Availability[CandidateIds][Days] = ...;
 int Experience[CandidateIds][PositionTypes] = ...;
 int Skills[CandidateIds][SkillsTypes] = ...;
 string DayNameMatch[1..NumberOfDays] = ...;
+
 // ==========================================================================================
 
 dvar boolean x[Days][CandidateIds][PositionsWithWaitingList];
@@ -207,18 +206,26 @@ execute OUTPUT_RESULTS_LOG {
 	for(var day in Days) {
 	  file.writeln(day);
 	  
-	  for(var position in Positions){
+	  for(var position in PositionsWithWaitingList){
 	    file.write("    ");
 	    file.writeln(position);
 	    
 	    for(var candidate in CandidateIds){
 	      if(x[day][candidate][position] == 1){
 	       	file.write("        ");
-	      	file.writeln(CandidateNames[candidate], " - ", Experience[candidate][PositionMatch[position]]); 
+	       	if(position == "Waiting List ")
+	      		file.writeln(candidate, ":", CandidateNames[candidate]);
+	      	else
+	      		file.writeln(candidate, ":", CandidateNames[candidate], " - ", Experience[candidate][PositionMatch[position]]);
 	      }
 	    }
 	  }
  	}
+}
+
+execute OUTPUT_DECISION_VARIABLE {
+  var file = new IloOplOutputFile("decision.txt");
+  file.writeln(x);
 }
 
 execute OUTPUT_CSV {
@@ -228,13 +235,17 @@ execute OUTPUT_CSV {
   file.writeln("Day,Position,Position Type,Candidate Id,Candidate Name,Experience,Language Skills,Presentation Skills");
   
   for(var day in Days) {
-    for(var position in Positions) {
+    for(var position in PositionsWithWaitingList) {
       for(var candidate in CandidateIds) {
         if(x[day][candidate][position] == 1){
-            var experience = Experience[candidate][PositionMatch[position]];
             var languageSkill = Skills[candidate]["Language skills"];
             var presentationSkill = Skills[candidate]["Presentation skills"];
-            file.writeln(day,",",position,",",PositionMatch[position],",",candidate,",",CandidateNames[candidate],",",experience,",",languageSkill,",",presentationSkill);
+          	if(position == "Waiting List ") {
+          	  file.writeln(day,",",position,",Waiting List,",candidate,",",CandidateNames[candidate],",0,",languageSkill,",",presentationSkill);
+          	} else {
+          	 	var experience = Experience[candidate][PositionMatch[position]];
+	            file.writeln(day,",",position,",",PositionMatch[position],",",candidate,",",CandidateNames[candidate],",",experience,",",languageSkill,",",presentationSkill); 
+          	}
           }        
       }
     }

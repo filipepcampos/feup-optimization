@@ -4,8 +4,6 @@
  * Creation Date: 2 May 2023 at 05:15:22
  *********************************************/
 
-WaitingListSize = 20;
-
 ExperienceWeigth = 0.65;
 PresentationSkillsWeigth = 0.20;
 LanguageSkillsWeigth = 0.075;

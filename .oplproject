@@ -18,6 +18,9 @@
             			
             <ref name="replace.mod" type="model">
 			</ref>
+            			
+            <ref name="replace.dat" type="data">
+			</ref>
             		
         </config>
         	
