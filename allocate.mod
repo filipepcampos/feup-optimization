@@ -4,6 +4,9 @@
  * Creation Date: 2 May 2023 at 05:15:22
  *********************************************/
 
+// === PARAMETERS ===========================================================================
+int WaitingListSize = ...;
+
 float ExperienceWeigth = ...;
 float PresentationSkillsWeigth = ...;
 float LanguageSkillsWeigth = ...;
@@ -20,9 +23,11 @@ int TargetNumberOfWorkers = ...;
 int MaximumNumberOfWorkers = ...;
 float PenaltyPerExtraWorker = ...;
 assert TargetNumberOfWorkers <= MaximumNumberOfWorkers;
+// ==========================================================================================
 
-
-{string} Positions = ...;
+// === DATA =================================================================================
+{string} PositionsWithWaitingList = ...;
+{string} Positions = {p | p in PositionsWithWaitingList : p != "Waiting List " };
 {string} PositionTypes = ...;
 {string} Days = ...;
 {int} CandidateIds = ...;
@@ -35,73 +40,91 @@ int NumberOfDaySubarrays = NumberOfDays - AcceptableConsecutiveDays; // TODO: ch
 string PositionMatch[Positions] = ...;
 int LanguageSkillsMatch[Positions] = ...;
 int PresentationSkillsMatch[Positions] = ...;
-int Requirements[Positions][Days] = ...;
+int Requirements[PositionsWithWaitingList][Days] = ...;
 int Availability[CandidateIds][Days] = ...;
 int Experience[CandidateIds][PositionTypes] = ...;
 int Skills[CandidateIds][SkillsTypes] = ...;
 string DayNameMatch[1..NumberOfDays] = ...;
+// ==========================================================================================
 
-dvar boolean x[Days][CandidateIds][Positions];
+dvar boolean x[Days][CandidateIds][PositionsWithWaitingList];
 dvar int+ slack_number_of_workers;
 dvar int+ slack_consecutive_days[CandidateIds];
+dvar float average_waiting_list_capability;
 
-// ==========================================================================
+// === REGULAR ALLOCATIONS ==================================================================
 
 dexpr float number_of_workers = 
 	sum(candidate in CandidateIds)
 	  	minl(1, sum(day in Days) sum(position in Positions) x[day][candidate][position]);
 
+// TODO
+// AvailabilityWeigth * (5 * (sum(availableDays in Days) Availability[candidate][day]) / NumberOfDays)	// TODO: Maybe extract to another "function"
+
+dexpr float capabilitiesArray[position in Positions][candidate in CandidateIds] =
+		(
+				ExperienceWeigth * Experience[candidate][PositionMatch[position]] + 
+					PresentationSkillsWeigth * Skills[candidate]["Presentation skills"] * PresentationSkillsMatch[position] +
+					LanguageSkillsWeigth * Skills[candidate]["Language skills"] * LanguageSkillsMatch[position]
+		);
 
 dexpr float capabilitiesPerAllocation[day in Days][position in Positions] =
 	sum(candidate in CandidateIds) (
-		x[day][candidate][position] * (
-				ExperienceWeigth * Experience[candidate][PositionMatch[position]] + 
-					PresentationSkillsWeigth * Skills[candidate]["Presentation skills"] * PresentationSkillsMatch[position] +
-					LanguageSkillsWeigth * Skills[candidate]["Language skills"] * LanguageSkillsMatch[position] +
-					AvailabilityWeigth * (5 * (sum(availableDays in Days) Availability[candidate][day]) / NumberOfDays)	
-		)
+		x[day][candidate][position] * capabilitiesArray[position][candidate]
 	);
 
 dexpr float capabilitiesPerDay[day in Days] = (
 	sum(position in Positions : Requirements[position][day] > 0)
 		capabilitiesPerAllocation[day][position] / Requirements[position][day]
-	) / card(Positions);
+	) / card(PositionsWithWaitingList);
 
 dexpr float capabilities = ( 
 	sum(day in Days)
 		capabilitiesPerDay[day]
 	) / card(Days);
 	
-// ==========================================================================
-
 dexpr float regularAllocations = 
 	capabilities 
 	- slack_number_of_workers * PenaltyPerExtraWorker
 	- (sum(candidate in CandidateIds) slack_consecutive_days[candidate]) * PenaltyPerExtraConsecutiveDay;
-dexpr float waitingListAllocations = 0;
+	
+// ==========================================================================================
 
-maximize regularAllocations;
-//maximize staticLex(regularAllocations, waitingListAllocations);
- 
+
+// === WAITING LIST  ALLOCATIONS ============================================================
+
+
+dexpr float waitingListTravel = // TODO: Maybe normalize this value so it matches the scale of average_waiting_list_experience
+	sum(day in Days) (
+		sum(candidate in CandidateIds) (
+			x[day][candidate]["Waiting List "] * Skills[candidate]["Travel time&distance"]
+		) / Requirements["Waiting List "][day]
+	) / card(Days);
+
+dexpr float waitingListAllocations = 0 + waitingListTravel;
+
+// ==========================================================================================
+
+maximize staticLex(regularAllocations, waitingListAllocations); 
 
 subject to {
   	// Only 1 allocation per staff per day
   	ctSingleStaffAllocationPerDay:
 		forall(day in Days)
 		  forall(candidate in CandidateIds)
-		    	sum(position in Positions) x[day][candidate][position] <= 1;
+		    	sum(position in PositionsWithWaitingList) x[day][candidate][position] <= 1;
 	
 	// Only hire the exact number of required staff for each position
 	ctNumberOfStaff:
 		forall(day in Days)
-		  forall(position in Positions)
+		  forall(position in PositionsWithWaitingList)
 		    	sum(candidate in CandidateIds) x[day][candidate][position] == Requirements[position][day];
 	
 	// Staff cannot be hired if they're not available on that day
 	ctStaffIsAvailable:
 		forall(day in Days)
 		  forall(candidate in CandidateIds)
-			    forall(position in Positions)
+			    forall(position in PositionsWithWaitingList)
 			      	x[day][candidate][position] <= Availability[candidate][day];
 	  	
 	// Maximum consecutive working days
@@ -117,11 +140,18 @@ subject to {
 	// Limit number of workers
 	number_of_workers <= TargetNumberOfWorkers + slack_number_of_workers;
 	number_of_workers + slack_number_of_workers <= MaximumNumberOfWorkers;
+	
+	
+	// ---- Waiting List Constraints ----
+//	forall(day in Days)
+//	  forall(position in Positions)
+//	      sum(candidate in CandidateIds) (
+//	         x[day][candidate]["Waiting List "] * capabilitiesArray[position][candidate]
+//	      ) / Requirements["Waiting List "][day] >= average_waiting_list_capability;
 }
 
 
 // Some metrics to help understand our solution:
- 
 // Average availability in percentage of total days (0 to 1)
 dexpr float availability_percentage = (
 	sum(candidate in CandidateIds) (

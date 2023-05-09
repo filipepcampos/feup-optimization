@@ -4,12 +4,19 @@
     	
     <configs>
         		
-        <config default="true" name="Configuration1" category="opl">
+        <config default="true" name="allocation" category="opl">
             			
-            <ref name="GoodOldGoods.mod" type="model">
+            <ref name="allocate.dat" type="data">
 			</ref>
             			
-            <ref name="GoodOldGoods.dat" type="data">
+            <ref name="allocate.mod" type="model">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="replace" category="opl">
+            			
+            <ref name="replace.mod" type="model">
 			</ref>
             		
         </config>

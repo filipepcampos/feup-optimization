@@ -4,6 +4,8 @@
  * Creation Date: 2 May 2023 at 05:15:22
  *********************************************/
 
+WaitingListSize = 20;
+
 ExperienceWeigth = 0.65;
 PresentationSkillsWeigth = 0.20;
 LanguageSkillsWeigth = 0.075;
@@ -13,22 +15,21 @@ AcceptableConsecutiveDays = 7;
 MaximumConsecutiveDays = 9;
 PenaltyPerExtraConsecutiveDay = 0.05;
 
-TargetNumberOfWorkers = 250;
-MaximumNumberOfWorkers = 300;
+//TargetNumberOfWorkers = 300;
+//MaximumNumberOfWorkers = 350;
+TargetNumberOfWorkers = 500;
+MaximumNumberOfWorkers = 650;
 PenaltyPerExtraWorker = 0.01; // 0.5 / 50, overall capabilities may decrease 0.5 points if number of workers is 250
- 
- SheetConnection sheet("GoodOldGoods_Data.xlsx");
- 
-// Positions from SheetRead(sheet, "Table1[Position ]");
-// Requirements from SheetRead(sheet, "Table1[[Day 1]:[Day 9]]");
 
-Positions from SheetRead(sheet, "'Table 1'!B5:B38");
+SheetConnection sheet("GoodOldGoods_Data.xlsx");
+
+PositionsWithWaitingList from SheetRead(sheet, "'Table 1'!B5:B39");
 PositionTypes from SheetRead(sheet, "Table3[[#Headers],[Catalogue Desk Assistant ]:[Spotter ]]");
 PositionMatch from SheetRead(sheet, "PositionMatch");
 Days from SheetRead(sheet, "Table1[[#Headers],[Day 1]:[Day 9]]");
 CandidateIds from SheetRead(sheet, "Table2[Candidate Id]");
 CandidateNames from SheetRead(sheet, "Table2[Candidate Name]");
-Requirements from SheetRead(sheet, "'Table 1'!D5:L38");
+Requirements from SheetRead(sheet, "'Table 1'!D5:L39");
 Availability from SheetRead(sheet, "Table2[[Day 1]:[Day 9]]");
 Experience from SheetRead(sheet, "Table3[[Catalogue Desk Assistant ]:[Spotter ]]");
 PresentationSkillsMatch from SheetRead(sheet, "PresentationSkillsMatch");
