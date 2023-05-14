@@ -109,7 +109,7 @@ subject to {
 	  	
 	// Maximum consecutive working days
 	forall(candidate in CandidateIds) {
-	  	slack_number_of_workers <= MaximumConsecutiveDays - AcceptableConsecutiveDays;
+	  	slack_consecutive_days[candidate] <= MaximumConsecutiveDays - AcceptableConsecutiveDays;
 	 	forall(firstDayIndex in 1..NumberOfDaySubarrays)
 		    sum(dayIndex in firstDayIndex..firstDayIndex+AcceptableConsecutiveDays) 
 		    	sum(position in Positions) 
