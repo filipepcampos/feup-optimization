@@ -7,7 +7,9 @@
 // === PARAMETERS ===========================================================================
 
 string CurrentDay = ...;
-{int} MissingStaff = ...;
+int CurrentIteration = ...;
+{int} MissingStaffSet[1..100] = ...;
+{int} MissingStaff = MissingStaffSet[CurrentIteration];
 
 float ExperienceWeigth = ...;
 float PresentationSkillsWeigth = ...;
@@ -234,4 +236,10 @@ execute OUTPUT_RESULTS_LOG {
 	    }
 	  }
  	}
+}
+
+execute OUTPUT_REPLACEMENT_METRICS {
+  	writeln("Solved iteration ", CurrentIteration, " with obj=", cplex.getObjValue());	
+  	var file = new IloOplOutputFile("test_replace_metrics.txt", true);
+  	file.writeln(capabilitiesOfReplacements, ",", travelTimeOfReplacements);
 }

@@ -1,4 +1,46 @@
- [[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+/*********************************************
+ * OPL 22.1.1.0 Data
+ * Author: filipe
+ * Creation Date: 9 May 2023 at 17:50:46
+ *********************************************/
+
+CurrentDay = "Day 1";
+MissingStaffSet = [
+	{100, 105, 131, 218, 238},
+	{100, 105}
+];
+
+
+ExperienceWeigth = 0.60;
+PresentationSkillsWeigth = 0.20;
+LanguageSkillsWeigth = 0.20;
+
+AcceptableConsecutiveDays = 5;
+MaximumConsecutiveDays = 7;
+PenaltyPerExtraConsecutiveDay = 0.02;
+
+TargetNumberOfWorkers = 250;
+MaximumNumberOfWorkers = 310;
+PenaltyPerExtraWorker = 0.01; // 0.5 / 50, overall capabilities may decrease 0.5 points if number of workers is 250
+
+SheetConnection sheet("GoodOldGoods_Data.xlsx");
+
+PositionsWithWaitingList from SheetRead(sheet, "'Table 1'!B5:B39");
+PositionTypes from SheetRead(sheet, "Table3[[#Headers],[Catalogue Desk Assistant ]:[Spotter ]]");
+PositionMatch from SheetRead(sheet, "PositionMatch");
+Days from SheetRead(sheet, "Table1[[#Headers],[Day 1]:[Day 9]]");
+CandidateIds from SheetRead(sheet, "Table2[Candidate Id]");
+CandidateNames from SheetRead(sheet, "Table2[Candidate Name]");
+Requirements from SheetRead(sheet, "'Table 1'!D5:L39");
+Availability from SheetRead(sheet, "Table2[[Day 1]:[Day 9]]");
+Experience from SheetRead(sheet, "Table3[[Catalogue Desk Assistant ]:[Spotter ]]");
+PresentationSkillsMatch from SheetRead(sheet, "PresentationSkillsMatch");
+LanguageSkillsMatch from SheetRead(sheet, "LanguageSkillsMatch");
+SkillsTypes from SheetRead(sheet, "'Table 3'!T4:V4");
+Skills from SheetRead(sheet, "Table3[[Presentation skills]:[Travel time&distance]]");
+DayNameMatch from SheetRead(sheet, "Table1[[#Headers],[Day 1]:[Day 9]]");
+
+PreviousAssignments =    [[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0]
              [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
              0 0 0 0]
              [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -5936,4 +5978,4 @@
              [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
              0 0 0 0]
              [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-             0 0 0 0]]]
+             0 0 0 0]]];
