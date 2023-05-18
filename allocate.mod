@@ -8,8 +8,7 @@
 float ExperienceWeigth = ...;
 float PresentationSkillsWeigth = ...;
 float LanguageSkillsWeigth = ...;
-float AvailabilityWeigth = ...;
-assert ExperienceWeigth + PresentationSkillsWeigth + LanguageSkillsWeigth + AvailabilityWeigth == 1.0;
+assert ExperienceWeigth + PresentationSkillsWeigth + LanguageSkillsWeigth == 1.0;
 
 float WaitingListCapabilityWeigth = ...;
 float WaitingListTravelWeigth = ...;
@@ -36,7 +35,7 @@ string CandidateNames[CandidateIds] = ...;
 {string} SkillsTypes = ...;
 
 int NumberOfDays = card(Days);
-int NumberOfDaySubarrays = NumberOfDays - AcceptableConsecutiveDays; // TODO: check if +1 is needed
+int NumberOfDaySubarrays = NumberOfDays - AcceptableConsecutiveDays;
 
 string PositionMatch[Positions] = ...;
 int LanguageSkillsMatch[Positions] = ...;
@@ -59,9 +58,6 @@ dvar float+ slack_consecutive_days[CandidateIds];
 dexpr float number_of_workers = 
 	sum(candidate in CandidateIds)
 	  	((sum(day in Days) sum(position in Positions) x[day][candidate][position]) >= 1);
-
-// TODO
-// AvailabilityWeigth * (5 * (sum(availableDays in Days) Availability[candidate][day]) / NumberOfDays)	// TODO: Maybe extract to another "function"
 
 dexpr float capabilitiesArray[position in Positions][candidate in CandidateIds] =
 		(
@@ -199,7 +195,8 @@ dexpr float presentation_skills_percentage =
 
 execute OUTPUT_RESULTS_LOG {
 	var file = new IloOplOutputFile("solution.txt");
-	file.writeln("Objective Function = ", cplex.getObjValue());
+	file.writeln("Objective Function Z1 = ", cplex.getObjValue());
+	file.writeln("Objective Function Z2 = ", waitingListAllocations);
 	file.writeln("Average Availability = ", availability_percentage * NumberOfDays, " days");
 	file.writeln("Average Experience = ", experience_percentage, " / 5");
 	file.writeln("Average Language Skills (for positions that require it) = ", language_skills_percentage, " / 5");

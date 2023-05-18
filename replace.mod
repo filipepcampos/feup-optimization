@@ -12,14 +12,18 @@ string CurrentDay = ...;
 float ExperienceWeigth = ...;
 float PresentationSkillsWeigth = ...;
 float LanguageSkillsWeigth = ...;
-float AvailabilityWeigth = ...;
-assert ExperienceWeigth + PresentationSkillsWeigth + LanguageSkillsWeigth + AvailabilityWeigth == 1.0;
+assert ExperienceWeigth + PresentationSkillsWeigth + LanguageSkillsWeigth == 1.0;
 
 // Number of days in a row, d: 0 <= d <= Acceptable (no penalty), Acceptable < d <= Maximum (penalty per extra day)
 int AcceptableConsecutiveDays = ...;
 int MaximumConsecutiveDays = ...;
 float PenaltyPerExtraConsecutiveDay = ...;
 assert AcceptableConsecutiveDays <= MaximumConsecutiveDays;
+
+int TargetNumberOfWorkers = ...;
+int MaximumNumberOfWorkers = ...;
+float PenaltyPerExtraWorker = ...;
+assert TargetNumberOfWorkers <= MaximumNumberOfWorkers;
 
 // ==========================================================================================
 
@@ -33,7 +37,7 @@ string CandidateNames[CandidateIds] = ...;
 {string} SkillsTypes = ...;
 
 int NumberOfDays = card(Days);
-int NumberOfDaySubarrays = NumberOfDays - AcceptableConsecutiveDays; // TODO: check if +1 is needed
+int NumberOfDaySubarrays = NumberOfDays - AcceptableConsecutiveDays;
 
 string PositionMatch[Positions] = ...;
 int LanguageSkillsMatch[Positions] = ...;
@@ -49,13 +53,14 @@ int PreviousAssignments[Days][CandidateIds][PositionsWithWaitingList] = ...;
 // ==========================================================================================
 
 dvar boolean x[Days][CandidateIds][Positions];
-dvar int+ slack_number_of_workers;
-dvar int+ slack_consecutive_days[CandidateIds];
+dvar float+ slack_number_of_workers;
+dvar float+ slack_consecutive_days[CandidateIds];
 
 // === REGULAR ALLOCATIONS ==================================================================
 
-// TODO
-// AvailabilityWeigth * (5 * (sum(availableDays in Days) Availability[candidate][day]) / NumberOfDays)	// TODO: Maybe extract to another "function"
+dexpr float number_of_workers = 
+	sum(candidate in CandidateIds)
+	  	((sum(day in Days) sum(position in Positions) x[day][candidate][position]) >= 1);
 
 dexpr float capabilitiesArray[position in Positions][candidate in CandidateIds] =
 		(
@@ -81,6 +86,7 @@ dexpr float capabilities = (
 	
 dexpr float regularAllocations = 
 	capabilities
+	- slack_number_of_workers * PenaltyPerExtraWorker
 	- (sum(candidate in CandidateIds) slack_consecutive_days[candidate]) * PenaltyPerExtraConsecutiveDay;
 	
 // ==========================================================================================
@@ -115,6 +121,10 @@ subject to {
 		    	sum(position in Positions) 
 		    		x[DayNameMatch[dayIndex]][candidate][position] <=  AcceptableConsecutiveDays - 1 + slack_consecutive_days[candidate]; 
 	}
+	
+	// Limit number of workers
+	number_of_workers <= TargetNumberOfWorkers + slack_number_of_workers;
+ 	slack_number_of_workers <= MaximumNumberOfWorkers - TargetNumberOfWorkers;
 	
 	// Only make changes to the CurrentDay, keep the other as they were
 	forall(day in Days : day != CurrentDay)
@@ -192,6 +202,8 @@ execute OUTPUT_RESULTS_LOG {
 	file.writeln("Average Experience = ", experience_percentage, " / 5");
 	file.writeln("Average Language Skills (for positions that require it) = ", language_skills_percentage, " / 5");
 	file.writeln("Average Presentation Skills (for positions that require it) = ", presentation_skills_percentage, " / 5");
+	
+	file.writeln(number_of_workers);
 	
 	file.writeln("\nAllocations:\n");
 	

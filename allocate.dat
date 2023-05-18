@@ -4,17 +4,16 @@
  * Creation Date: 2 May 2023 at 05:15:22
  *********************************************/
 
-ExperienceWeigth = 0.65;
+ExperienceWeigth = 0.60;
 PresentationSkillsWeigth = 0.20;
-LanguageSkillsWeigth = 0.075;
-AvailabilityWeigth = 0.075;
+LanguageSkillsWeigth = 0.20;
 
-WaitingListCapabilityWeigth = 0.8;
-WaitingListTravelWeigth = 0.2;
+WaitingListCapabilityWeigth = 0.6;
+WaitingListTravelWeigth = 0.4;
 
-AcceptableConsecutiveDays = 7;
-MaximumConsecutiveDays = 9;
-PenaltyPerExtraConsecutiveDay = 0.05;
+AcceptableConsecutiveDays = 5;
+MaximumConsecutiveDays = 7;
+PenaltyPerExtraConsecutiveDay = 0.02;
 
 TargetNumberOfWorkers = 250;
 MaximumNumberOfWorkers = 300;
@@ -33,7 +32,6 @@ Availability from SheetRead(sheet, "Table2[[Day 1]:[Day 9]]");
 Experience from SheetRead(sheet, "Table3[[Catalogue Desk Assistant ]:[Spotter ]]");
 PresentationSkillsMatch from SheetRead(sheet, "PresentationSkillsMatch");
 LanguageSkillsMatch from SheetRead(sheet, "LanguageSkillsMatch");
-//SkillsTypes from SheetRead(sheet, "Table3[[#Headers],[Presentation skills]:[Travel time&distance]]");
 SkillsTypes from SheetRead(sheet, "'Table 3'!T4:V4");
 Skills from SheetRead(sheet, "Table3[[Presentation skills]:[Travel time&distance]]");
 DayNameMatch from SheetRead(sheet, "Table1[[#Headers],[Day 1]:[Day 9]]");

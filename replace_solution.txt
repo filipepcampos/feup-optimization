@@ -1,19 +1,20 @@
-Objective Function = 2.227587302
+Objective Function = 1.002925926
 Average Availability = 5.490909091 days
-Average Experience = 4.724209616 / 5
-Average Language Skills (for positions that require it) = 2.601031831 / 5
-Average Presentation Skills (for positions that require it) = 3.22755291 / 5
+Average Experience = 4.561660094 / 5
+Average Language Skills (for positions that require it) = 2.901903151 / 5
+Average Presentation Skills (for positions that require it) = 3.164136905 / 5
+300
 
 Allocations:
 
 Day 1
     Catalogue Desk Assistant 
     Client Services Assistant 
-        158:Inês Ribeiro - 5
-        176:José Carvalho - 5
-        198:Logan Davis - 5
+        130:Francisco Fernandes - 5
         209:Madalena Lima - 5
+        210:Madalena Oliveira - 5
         236:Mariana Santos - 5
+        317:Tiago Sousa Cruz - 4
     Cloak Room Assistant 
     Currency Board Operator (Saleroom 1) 
     Currency Board Operator (Saleroom 2) 
@@ -21,151 +22,151 @@ Day 1
     Dept B Packing Assistant 
         10:Alexandre Martins - 4
         26:André Fernandes - 4
-        27:André Luís Silva - 2
-        87:Daniel Wright - 3
-        192:Leonor Pereira - 1
-        253:Miguel Almeida - 2
-        254:Miguel Costa - 4
-        265:Pedro Dias - 3
+        78:Catarina Oliveira - 1
+        80:Charlotte Garcia - 5
+        115:Emily Martin - 5
+        119:Eva Nelson - 5
+        121:Filipa Carvalho - 1
+        142:Gonçalo Castro - 4
+        233:Mariana Pereira - 4
         287:Rodrigo Pereira - 4
-        304:Simão Rodrigues - 5
     Dept B Viewing Assistant 
-        15:Ana Costa - 5
-        44:Beatriz Andrade - 4
-        46:Beatriz Ferreira - 5
-        66:Candidate Name - 5
-        102:Diogo Pereira - 4
-        159:Isaac Jackson - 5
+        34:Aria Wright - 4
+        51:Benjamin Nelson - 5
+        123:Filipe Carvalho - 5
+        160:Isabela Costa - 5
         166:Jacob Campbell - 4
-        276:Rafaela Ferreira - 4
-        284:Rodrigo Mendes - 5
+        177:José Rodrigues - 5
+        255:Miguel Lopes - 5
+        298:Sarah Garcia - 5
         320:Tomás Martins - 4
+        324:Tomé Martins - 4
     Dept C Assistant 
-        25:André Castro - 4
-        94:David Wilson - 5
-        156:Inês Martins - 5
+        48:Beatriz Rodrigues - 4
+        191:Leonor Mendes - 5
+        217:Mafalda Santos - 4
         219:Margarida Sousa - 5
         297:Sara Silva - 5
     Dept D Assistant 
-        19:Ana Nunes - 4
-        75:Carolina Rodrigues - 4
-        93:David Santos - 4
+        25:André Castro - 4
         108:Dylan Hernandez - 4
         144:Gonçalo Martins - 4
+        211:Madalena Ribeiro - 3
+        224:Maria Ribeiro - 4
+        252:Michael Lewis - 4
         256:Miguel Pereira - 4
-        269:Pedro Sousa - 4
-        303:Simão Fernandes - 4
         306:Sofia Ribeiro - 4
         313:Tiago Fernandes - 4
+        322:Tomás Rodrigues - 4
     Dept D Viewing Assistant 
     Dept E Assistant 
     Dept F Packing Assistant 
     Dept F Viewing Assistant 
-        23:Ana Santos - 4
-        31:Andrew Moore - 4
-        34:Aria Wright - 4
-        68:Carolina Carvalho - 4
+        14:Ana Carvalho - 5
+        15:Ana Costa - 5
+        24:Ana Sousa - 5
+        154:Henrique Pereira - 4
         157:Inês Pinto - 5
-        214:Mafalda Cruz - 5
-        224:Maria Ribeiro - 5
-        245:Matilde Marques - 4
-        300:Scarlett Rodriguez - 5
+        258:Nathan Price - 4
+        262:Nuno Santos - 5
         307:Sofia Santos - 5
+        321:Tomás Oliveira - 4
+        328:William Hernandez - 3
     Dept F Viewing Assistant (VIP)
     Dept G Viewing Assistant 
         1:Abigail Perez - 4
-        14:Ana Carvalho - 5
-        24:Ana Sousa - 5
-        32:António Costa - 5
-        51:Benjamin Nelson - 5
-        123:Filipe Carvalho - 5
+        23:Ana Santos - 4
+        68:Carolina Carvalho - 4
+        159:Isaac Jackson - 5
+        214:Mafalda Cruz - 5
         215:Mafalda Ferreira - 5
-        241:Matilde Almeida - 5
-        298:Sarah Garcia - 5
-        302:Simão Costa - 4
+        244:Matilde Gomes - 3
+        276:Rafaela Ferreira - 4
+        284:Rodrigo Mendes - 5
+        300:Scarlett Rodriguez - 5
     Dept H Assistant 
-        48:Beatriz Rodrigues - 4
+        75:Carolina Rodrigues - 4
+        94:David Wilson - 5
         96:Diana Fernandes - 5
-        191:Leonor Mendes - 5
+        156:Inês Martins - 5
         234:Mariana Rocha - 5
-        246:Matilde Martins - 5
     Dept I Viewing Assistant 
         113:Elizabeth Adams - 5
-        155:Inês Almeida - 5
+        134:Francisco Rodrigues - 5
         185:Lara Silva - 5
-        196:Lídia Sousa - 5
-        326:Vasco Santos - 5
+        195:Liam Davis - 5
+        225:Maria Silva - 5
     Dept J Assistant 
     Dept K Packing Assistant 
         59:Bruna Oliveira - 5
-        73:Carolina Nunes - 5
-        119:Eva Nelson - 5
+        87:Daniel Wright - 3
         126:Francisca Ferreira - 5
-        216:Mafalda Ribeiro - 5
+        265:Pedro Dias - 3
+        304:Simão Rodrigues - 5
     Dept K Set Up Assistant 
         6:Afonso Pereira - 4
         18:Ana Martins - 5
+        39:Ava Martinez - 5
         58:Brooklyn Lee - 5
+        63:Caleb Green - 4
         64:Caleb Turner - 5
-        74:Carolina Pires - 5
-        99:Diogo Costa - 5
+        67:Carolina Alves - 5
+        107:Duarte Pinto - 5
         133:Francisco Pinto - 5
-        142:Gonçalo Castro - 4
-        184:Lara Costa - 5
-        271:Peyton Turner - 4
+        301:Simão Almeida - 3
     Dept K Viewing Assistant 
     Dept L Packing Assistant 
+        9:Alexandra Campbell - 4
         17:Ana Gonçalves - 4
-        72:Carolina Lourenço - 5
-        80:Charlotte Garcia - 5
-        115:Emily Martin - 5
-        151:Gustavo Silva - 5
-        233:Mariana Pereira - 4
+        27:André Luís Silva - 2
+        31:Andrew Moore - 4
+        32:António Costa - 4
+        46:Beatriz Ferreira - 5
+        155:Inês Almeida - 5
+        198:Logan Davis - 4
         240:Mariana Vaz - 4
-        258:Nathan Price - 5
-        262:Nuno Santos - 5
-        321:Tomás Oliveira - 5
+        254:Miguel Costa - 4
     Dept L Set Up Assistant 
         2:Adam Mitchell - 5
-        9:Alexandra Campbell - 4
-        39:Ava Martinez - 5
-        63:Caleb Green - 4
-        67:Carolina Alves - 5
+        20:Ana Paula Ferreira - 4
         90:David Lopes - 4
-        107:Duarte Pinto - 5
-        146:Gonçalo Pereira - 4
+        158:Inês Ribeiro - 3
+        162:Isabella Mitchell - 3
+        176:José Carvalho - 4
+        253:Miguel Almeida - 3
+        271:Peyton Turner - 4
         289:Rui Ferreira - 5
-        324:Tomé Martins - 4
+        293:Samuel Davis - 3
     Dept L Viewing Assistant 
+        66:Candidate Name - 5
+        99:Diogo Costa - 4
         109:Eduardo Silva - 5
-        134:Francisco Rodrigues - 5
-        177:José Rodrigues - 5
-        195:Liam Davis - 5
-        225:Maria Silva - 5
+        139:Gabriel Santos - 5
+        326:Vasco Santos - 5
     Event Assistant 
     Impressionist painting Viewing Assistant 
     Information Assistant 
-        50:Beatriz Sousa - 5
+        101:Diogo Oliveira - 4
         152:Harper Johnson - 5
-        179:Joseph Wright - 5
-        188:Leah Johnson - 5
-        322:Tomás Rodrigues - 5
-    Information Assistant (Hall 3B) 
-        20:Ana Paula Ferreira - 5
-        148:Guilherme Silva - 5
         174:Jonathan Scott - 5
+        188:Leah Johnson - 5
+        216:Mafalda Ribeiro - 5
+    Information Assistant (Hall 3B) 
+        50:Beatriz Sousa - 5
+        148:Guilherme Silva - 5
+        179:Joseph Wright - 5
         235:Mariana Rodrigues - 5
-        283:Rodrigo Ferreira - 5
+        259:Nicholas Walker - 5
     London Jewellery Viewing Assistant 
+        57:Brandon Brown - 4
         65:Camila Santos - 5
         91:David Mitchell - 5
         97:Diana Rodrigues - 4
+        111:Eli Wright - 4
         125:Francisca Castro - 5
         200:Lucas Barbosa - 5
-        217:Mafalda Santos - 5
         226:Maria Sousa - 5
         266:Pedro Matos - 5
-        294:Samuel Ferreira - 5
         299:Savannah Hall - 5
     Operations & Administration Packer 
         5:Afonso Costa - 5
@@ -174,383 +175,383 @@ Day 1
         220:Maria Almeida - 5
     Public Relationship Assistant 
     Site Assistant 
+        21:Ana Pires - 4
+        70:Carolina Fernandes - 4
         114:Ellie Turner - 5
         128:Francisca Oliveira - 5
         172:João Silva - 5
+        183:Justin Taylor - 4
         189:Leonor Almeida - 5
         202:Lucas Green - 5
-        230:Mariana Dias - 4
         249:Maya Thompson - 5
-        259:Nicholas Walker - 5
-        319:Tomás Costa - 5
         330:Zoey Nelson - 4
     Spotter 
  Day 2 
     Catalogue Desk Assistant 
     Client Services Assistant 
+        43:Bárbara Silva - 5
+        130:Francisco Fernandes - 5
         158:Inês Ribeiro - 5
-        176:José Carvalho - 5
         186:Laura Santos - 5
-        210:Madalena Oliveira - 5
         212:Madelyn Brown - 5
     Cloak Room Assistant 
-        43:Bárbara Silva - 5
+        35:Arianna Hernandez - 4
         70:Carolina Fernandes - 5
-        101:Diogo Oliveira - 5
+        80:Charlotte Garcia - 5
+        119:Eva Nelson - 5
         136:Francisco Sousa - 5
         149:Guilherme Sousa - 5
         152:Harper Johnson - 5
-        173:Jonathan King - 5
-        178:Joseph Hall - 5
         205:Luís Ferreira - 5
+        238:Mariana Silva - 5
         252:Michael Lewis - 5
     Currency Board Operator (Saleroom 1) 
     Currency Board Operator (Saleroom 2) 
     Dept A Assistant 
     Dept B Packing Assistant 
-        9:Alexandra Campbell - 4
-        10:Alexandre Martins - 4
-        72:Carolina Lourenço - 5
-        80:Charlotte Garcia - 5
-        84:Christopher Baker - 4
-        119:Eva Nelson - 5
-        142:Gonçalo Castro - 4
+        17:Ana Gonçalves - 4
+        30:Andréia Santos - 3
+        46:Beatriz Ferreira - 5
+        86:Colton Wright - 5
+        87:Daniel Wright - 3
+        143:Gonçalo Ferreira - 3
+        150:Gustavo Ribeiro - 4
         233:Mariana Pereira - 4
-        240:Mariana Vaz - 4
-        304:Simão Rodrigues - 5
+        296:Sara Ribeiro - 4
+        309:Sofia Turner - 4
     Dept B Viewing Assistant 
         14:Ana Carvalho - 5
-        24:Ana Sousa - 5
-        62:Bruno Rodrigues - 4
-        69:Carolina Costa - 4
+        15:Ana Costa - 5
+        34:Aria Wright - 4
+        103:Diogo Ribeiro - 3
+        159:Isaac Jackson - 5
+        160:Isabela Costa - 5
         166:Jacob Campbell - 4
-        182:Julia Martinez - 4
-        255:Miguel Lopes - 5
-        275:Rafaela Alves - 4
-        284:Rodrigo Mendes - 5
+        268:Pedro Ribeiro - 4
+        298:Sarah Garcia - 5
         318:Tomás Carvalho - 3
     Dept C Assistant 
+        94:David Wilson - 5
         96:Diana Fernandes - 5
-        110:Eduardo Sousa - 5
-        219:Margarida Sousa - 5
-        234:Mariana Rocha - 5
-        297:Sara Silva - 5
+        128:Francisca Oliveira - 4
+        279:Rita Carvalho - 5
+        312:Tiago Cunha - 5
     Dept D Assistant 
         19:Ana Nunes - 4
-        93:David Santos - 4
+        83:Christian Collins - 5
         108:Dylan Hernandez - 4
-        170:Joana Silva - 4
-        190:Leonor Costa - 5
+        192:Leonor Pereira - 3
         222:Maria Ferreira - 4
         261:Nuno Almeida - 4
-        272:Rafael Fernandes - 4
+        282:Rodrigo Castro - 4
         303:Simão Fernandes - 4
+        313:Tiago Fernandes - 4
         314:Tiago Gonçalves - 4
     Dept D Viewing Assistant 
     Dept E Assistant 
     Dept F Packing Assistant 
     Dept F Viewing Assistant 
-        15:Ana Costa - 5
         51:Benjamin Nelson - 5
+        62:Bruno Rodrigues - 4
+        69:Carolina Costa - 4
         112:Elijah Campbell - 3
-        123:Filipe Carvalho - 5
-        175:José Carlos Oliveira - 4
-        232:Mariana Lopes - 4
-        268:Pedro Ribeiro - 4
-        307:Sofia Santos - 5
-        309:Sofia Turner - 5
-        324:Tomé Martins - 4
+        157:Inês Pinto - 5
+        161:Isabella Jackson - 4
+        182:Julia Martinez - 4
+        187:Laura Vieira - 4
+        244:Matilde Gomes - 3
+        286:Rodrigo Oliveira - 4
     Dept F Viewing Assistant (VIP)
     Dept G Viewing Assistant 
-        7:Alexander Anderson - 4
-        34:Aria Wright - 4
+        24:Ana Sousa - 5
         68:Carolina Carvalho - 4
-        102:Diogo Pereira - 4
-        157:Inês Pinto - 5
-        159:Isaac Jackson - 5
-        187:Laura Vieira - 4
+        127:Francisca Nunes - 2
+        165:Jack Edwards - 3
+        175:José Carlos Oliveira - 4
         257:Natalie Baker - 3
-        286:Rodrigo Oliveira - 4
-        298:Sarah Garcia - 5
+        275:Rafaela Alves - 4
+        284:Rodrigo Mendes - 5
+        307:Sofia Santos - 5
+        324:Tomé Martins - 4
     Dept H Assistant 
-        83:Christian Collins - 5
-        94:David Wilson - 5
+        49:Beatriz Santos - 4
+        110:Eduardo Sousa - 5
         117:Ethan Flores - 5
         246:Matilde Martins - 5
-        312:Tiago Cunha - 5
+        272:Rafael Fernandes - 4
     Dept I Viewing Assistant 
+        92:David Pereira - 5
         139:Gabriel Santos - 5
-        160:Isabela Costa - 5
+        229:Mariana Costa - 5
+        255:Miguel Lopes - 5
         258:Nathan Price - 4
-        279:Rita Carvalho - 5
-        326:Vasco Santos - 5
     Dept J Assistant 
     Dept K Packing Assistant 
-        45:Beatriz Costa - 5
         53:Bernardo Barbosa - 5
         73:Carolina Nunes - 5
         126:Francisca Ferreira - 5
-        238:Mariana Silva - 5
+        218:Margarida Oliveira - 5
+        304:Simão Rodrigues - 5
     Dept K Set Up Assistant 
         12:Amelia Taylor - 5
-        38:Autumn Davis - 5
+        20:Ana Paula Ferreira - 4
         76:Carolina Teixeira - 5
-        95:Diana Costa - 5
-        133:Francisco Pinto - 5
-        197:Lily Taylor - 5
-        237:Mariana Santos - 4
-        271:Peyton Turner - 4
-        292:Samantha Rodriguez - 5
-        329:Zachary Garcia - 5
-    Dept K Viewing Assistant 
-        92:David Pereira - 5
-        113:Elizabeth Adams - 5
-        185:Lara Silva - 5
-        262:Nuno Santos - 5
-        321:Tomás Oliveira - 4
-    Dept L Packing Assistant 
-        17:Ana Gonçalves - 4
-        49:Beatriz Santos - 5
-        54:Bernardo Ferreira - 5
-        86:Colton Wright - 5
-        105:Duarte Martins - 4
-        138:Gabriel Ferreira - 4
-        218:Margarida Oliveira - 5
-        239:Mariana Sousa - 5
-        254:Miguel Costa - 4
-        296:Sara Ribeiro - 4
-    Dept L Set Up Assistant 
-        64:Caleb Turner - 5
-        74:Carolina Pires - 5
         90:David Lopes - 4
         107:Duarte Pinto - 5
-        129:Francisco Alves - 5
-        171:João Pedro Almeida - 4
+        176:José Carvalho - 4
         184:Lara Costa - 5
         281:Rita Matos - 5
         289:Rui Ferreira - 5
-        305:Sofia Nunes - 4
-    Dept L Viewing Assistant 
-        46:Beatriz Ferreira - 5
+        329:Zachary Garcia - 5
+    Dept K Viewing Assistant 
         99:Diogo Costa - 4
+        123:Filipe Carvalho - 5
+        185:Lara Silva - 5
+        232:Mariana Lopes - 4
+        262:Nuno Santos - 5
+    Dept L Packing Assistant 
+        9:Alexandra Campbell - 4
+        10:Alexandre Martins - 4
+        72:Carolina Lourenço - 5
+        105:Duarte Martins - 4
+        122:Filipa Rodrigues - 4
+        138:Gabriel Ferreira - 4
+        142:Gonçalo Castro - 4
+        239:Mariana Sousa - 5
+        240:Mariana Vaz - 4
+        265:Pedro Dias - 3
+    Dept L Set Up Assistant 
+        6:Afonso Pereira - 4
+        7:Alexander Anderson - 5
+        64:Caleb Turner - 5
+        129:Francisco Alves - 5
+        133:Francisco Pinto - 5
+        170:Joana Silva - 4
+        197:Lily Taylor - 5
+        237:Mariana Santos - 4
+        271:Peyton Turner - 4
+        310:Sophia Anderson - 3
+    Dept L Viewing Assistant 
+        102:Diogo Pereira - 4
+        113:Elizabeth Adams - 5
         177:José Rodrigues - 5
         196:Lídia Sousa - 5
-        229:Mariana Costa - 5
+        326:Vasco Santos - 5
     Event Assistant 
     Impressionist painting Viewing Assistant 
     Information Assistant 
         50:Beatriz Sousa - 5
         52:Benjamin Wilson - 5
+        88:Daniela Ribeiro - 5
+        148:Guilherme Silva - 5
+        188:Leah Johnson - 5
+    Information Assistant (Hall 3B) 
+        121:Filipa Carvalho - 4
         174:Jonathan Scott - 5
         179:Joseph Wright - 5
-        259:Nicholas Walker - 5
-    Information Assistant (Hall 3B) 
-        20:Ana Paula Ferreira - 5
-        79:Catarina Silva - 5
-        87:Daniel Wright - 5
-        88:Daniela Ribeiro - 5
+        213:Madison Allen - 4
         311:Tiago Costa - 5
     London Jewellery Viewing Assistant 
+        11:Alexandre Silva - 3
+        57:Brandon Brown - 4
         77:Catarina Martins - 5
         91:David Mitchell - 5
+        95:Diana Costa - 5
         111:Eli Wright - 4
-        122:Filipa Rodrigues - 5
         125:Francisca Castro - 5
-        148:Guilherme Silva - 5
-        226:Maria Sousa - 5
         230:Mariana Dias - 4
-        250:Mia Brown - 4
         290:Ryan Parker - 5
+        305:Sofia Nunes - 4
     Operations & Administration Packer 
         5:Afonso Costa - 5
         13:Ana Beatriz Ferreira - 5
-        220:Maria Almeida - 5
-        295:Samuel Wilson - 5
+        79:Catarina Silva - 5
+        145:Gonçalo Oliveira - 5
     Public Relationship Assistant 
     Site Assistant 
         8:Alexander Thompson - 4
+        61:Bruno Almeida - 4
         85:Christopher Perez - 4
         89:David Fernandes - 4
-        128:Francisca Oliveira - 5
-        150:Gustavo Ribeiro - 5
+        167:James Lee - 4
         169:Joana Nunes - 5
-        172:João Silva - 5
         189:Leonor Almeida - 5
+        194:Leonor Sousa - 4
         221:Maria Clara Rodrigues - 5
         323:Tomás Santos - 5
     Spotter 
 Day 3 
     Catalogue Desk Assistant 
     Client Services Assistant 
+        33:António Pereira - 5
         164:Isaiah Hernandez - 5
-        176:José Carvalho - 5
         186:Laura Santos - 5
         207:Luke Collins - 5
         236:Mariana Santos - 5
     Cloak Room Assistant 
         70:Carolina Fernandes - 5
         101:Diogo Oliveira - 5
-        123:Filipe Carvalho - 5
         131:Francisco Ferreira - 5
         136:Francisco Sousa - 5
-        141:Gabriel Turner - 5
         149:Guilherme Sousa - 5
         173:Jonathan King - 5
+        180:Joshua Hill - 4
         235:Mariana Rodrigues - 5
+        238:Mariana Silva - 5
         247:Matilde Pinto - 5
     Currency Board Operator (Saleroom 1) 
     Currency Board Operator (Saleroom 2) 
     Dept A Assistant 
-        17:Ana Gonçalves - 4
-        19:Ana Nunes - 4
-        36:Arianna Peterson - 4
-        170:Joana Silva - 4
-        191:Leonor Mendes - 5
-        222:Maria Ferreira - 4
+        9:Alexandra Campbell - 3
+        25:André Castro - 4
+        48:Beatriz Rodrigues - 4
+        110:Eduardo Sousa - 5
+        144:Gonçalo Martins - 4
+        147:Grace Turner - 5
+        206:Luísa Fernandes - 4
+        252:Michael Lewis - 4
         256:Miguel Pereira - 4
-        282:Rodrigo Castro - 4
         303:Simão Fernandes - 4
-        322:Tomás Rodrigues - 4
     Dept B Packing Assistant 
     Dept B Viewing Assistant 
     Dept C Assistant 
-        16:Ana Ferreira - 5
-        83:Christian Collins - 5
-        110:Eduardo Sousa - 5
-        156:Inês Martins - 5
+        104:Duarte Alves - 5
+        191:Leonor Mendes - 5
+        219:Margarida Sousa - 5
+        242:Matilde Costa - 5
         279:Rita Carvalho - 5
     Dept D Assistant 
-        25:André Castro - 4
-        34:Aria Wright - 4
-        48:Beatriz Rodrigues - 4
-        144:Gonçalo Martins - 4
-        206:Luísa Fernandes - 4
-        252:Michael Lewis - 4
+        19:Ana Nunes - 4
+        208:Madalena Ferreira - 4
+        222:Maria Ferreira - 4
+        254:Miguel Costa - 3
         274:Rafael Vieira - 4
+        282:Rodrigo Castro - 4
         285:Rodrigo Nunes - 4
+        293:Samuel Davis - 3
         305:Sofia Nunes - 3
-        313:Tiago Fernandes - 4
+        322:Tomás Rodrigues - 4
     Dept D Viewing Assistant 
     Dept E Assistant 
     Dept F Packing Assistant 
-        10:Alexandre Martins - 4
+        4:Addison Mitchell - 4
+        17:Ana Gonçalves - 4
+        34:Aria Wright - 4
+        60:Bruna Santos - 3
         71:Carolina Lima - 4
         105:Duarte Martins - 4
-        116:Emma Carter - 5
-        151:Gustavo Silva - 5
-        238:Mariana Silva - 5
-        254:Miguel Costa - 4
+        161:Isabella Jackson - 3
         267:Pedro Oliveira - 4
         291:Ryan Perez - 4
         325:Tyler Martin - 4
     Dept F Viewing Assistant 
-        23:Ana Santos - 4
         24:Ana Sousa - 5
-        68:Carolina Carvalho - 4
+        112:Elijah Campbell - 3
         118:Ethan Jones - 4
+        127:Francisca Nunes - 2
         175:José Carlos Oliveira - 4
-        187:Laura Vieira - 4
         245:Matilde Marques - 4
-        302:Simão Costa - 4
+        257:Natalie Baker - 3
+        275:Rafaela Alves - 4
+        298:Sarah Garcia - 5
         307:Sofia Santos - 5
-        318:Tomás Carvalho - 3
     Dept F Viewing Assistant (VIP)
     Dept G Viewing Assistant 
-        28:André Mendes - 5
         40:Ava Roberts - 5
-        109:Eduardo Silva - 5
-        132:Francisco Lopes - 5
-        251:Mia Cooper - 4
+        58:Brooklyn Lee - 4
+        92:David Pereira - 5
+        123:Filipe Carvalho - 5
+        139:Gabriel Santos - 5
     Dept H Assistant 
-        104:Duarte Alves - 5
-        147:Grace Turner - 5
-        219:Margarida Sousa - 5
-        242:Matilde Costa - 5
+        16:Ana Ferreira - 5
+        49:Beatriz Santos - 4
+        83:Christian Collins - 5
+        156:Inês Martins - 5
         246:Matilde Martins - 5
     Dept I Viewing Assistant 
-        160:Isabela Costa - 5
-        241:Matilde Almeida - 5
-        255:Miguel Lopes - 5
+        113:Elizabeth Adams - 5
+        132:Francisco Lopes - 5
+        134:Francisco Rodrigues - 5
         258:Nathan Price - 4
         308:Sofia Silva - 5
     Dept J Assistant 
     Dept K Packing Assistant 
-        49:Beatriz Santos - 5
-        53:Bernardo Barbosa - 5
+        28:André Mendes - 5
         59:Bruna Oliveira - 5
         73:Carolina Nunes - 5
         126:Francisca Ferreira - 5
+        264:Owen Lee - 5
     Dept K Set Up Assistant 
+        2:Adam Mitchell - 5
+        6:Afonso Pereira - 4
         7:Alexander Anderson - 5
-        12:Amelia Taylor - 5
-        39:Ava Martinez - 5
         63:Caleb Green - 4
-        129:Francisco Alves - 5
+        107:Duarte Pinto - 5
         184:Lara Costa - 5
+        250:Mia Brown - 4
         260:Noah Rodriguez - 5
         281:Rita Matos - 5
-        324:Tomé Martins - 4
-        329:Zachary Garcia - 5
+        292:Samantha Rodriguez - 5
     Dept K Viewing Assistant 
-        92:David Pereira - 5
+        15:Ana Costa - 5
         177:José Rodrigues - 5
-        196:Lídia Sousa - 5
-        262:Nuno Santos - 5
+        225:Maria Silva - 5
+        241:Matilde Almeida - 5
         321:Tomás Oliveira - 4
     Dept L Packing Assistant 
-        4:Addison Mitchell - 4
-        9:Alexandra Campbell - 4
+        10:Alexandre Martins - 4
         26:André Fernandes - 4
-        80:Charlotte Garcia - 5
+        53:Bernardo Barbosa - 5
+        72:Carolina Lourenço - 5
         138:Gabriel Ferreira - 4
         142:Gonçalo Castro - 4
         198:Logan Davis - 4
-        264:Owen Lee - 5
+        265:Pedro Dias - 3
         287:Rodrigo Pereira - 4
         296:Sara Ribeiro - 4
     Dept L Set Up Assistant 
-        2:Adam Mitchell - 5
-        6:Afonso Pereira - 4
+        11:Alexandre Silva - 4
+        12:Amelia Taylor - 5
         29:André Santos - 4
-        58:Brooklyn Lee - 5
-        107:Duarte Pinto - 5
+        39:Ava Martinez - 5
         133:Francisco Pinto - 5
-        250:Mia Brown - 4
-        257:Natalie Baker - 4
+        170:Joana Silva - 4
+        253:Miguel Almeida - 3
         268:Pedro Ribeiro - 4
-        292:Samantha Rodriguez - 5
+        316:Tiago Sousa - 3
+        329:Zachary Garcia - 5
     Dept L Viewing Assistant 
-        113:Elizabeth Adams - 5
-        134:Francisco Rodrigues - 5
-        225:Maria Silva - 5
-        298:Sarah Garcia - 5
-        327:Victoria Clark - 5
+        23:Ana Santos - 4
+        109:Eduardo Silva - 5
+        196:Lídia Sousa - 5
+        255:Miguel Lopes - 5
+        262:Nuno Santos - 5
     Event Assistant 
         37:Aubrey Davis - 5
         43:Bárbara Silva - 5
-        208:Madalena Ferreira - 5
+        248:Matthew Edwards - 5
         317:Tiago Sousa Cruz - 5
     Impressionist painting Viewing Assistant 
     Information Assistant 
-        20:Ana Paula Ferreira - 5
-        88:Daniela Ribeiro - 5
-        148:Guilherme Silva - 5
-        259:Nicholas Walker - 5
-        273:Rafael Teixeira - 5
-    Information Assistant (Hall 3B) 
-        42:Avery Parker - 5
         52:Benjamin Wilson - 5
         174:Jonathan Scott - 5
-        188:Leah Johnson - 5
+        273:Rafael Teixeira - 5
         283:Rodrigo Ferreira - 5
+        284:Rodrigo Mendes - 5
+    Information Assistant (Hall 3B) 
+        88:Daniela Ribeiro - 5
+        148:Guilherme Silva - 5
+        188:Leah Johnson - 5
+        202:Lucas Green - 5
+        259:Nicholas Walker - 5
     London Jewellery Viewing Assistant 
-        72:Carolina Lourenço - 5
+        3:Addison Johnson - 5
+        57:Brandon Brown - 4
         77:Catarina Martins - 5
         97:Diana Rodrigues - 4
         125:Francisca Castro - 5
         163:Isabelle Adams - 5
         230:Mariana Dias - 4
-        243:Matilde Cunha - 5
         266:Pedro Matos - 5
         270:Penelope Flores - 5
         299:Savannah Hall - 5
@@ -562,284 +563,284 @@ Day 3
     Public Relationship Assistant 
     Site Assistant 
         8:Alexander Thompson - 4
+        21:Ana Pires - 4
+        27:André Luís Silva - 4
+        85:Christopher Perez - 4
         114:Ellie Turner - 5
+        116:Emma Carter - 5
         150:Gustavo Ribeiro - 5
         172:João Silva - 5
         178:Joseph Hall - 5
-        202:Lucas Green - 5
-        248:Matthew Edwards - 5
         315:Tiago Rodrigues - 5
-        319:Tomás Costa - 5
-        330:Zoey Nelson - 4
     Spotter 
-        3:Addison Johnson - 5
+        30:Andréia Santos - 4
+        56:Bernardo Soares - 4
         84:Christopher Baker - 5
-        130:Francisco Fernandes - 5
         137:Gabriel Costa - 5
+        143:Gonçalo Ferreira - 4
+        167:James Lee - 4
         192:Leonor Pereira - 5
-        210:Madalena Oliveira - 5
         223:Maria Gonçalves - 5
         249:Maya Thompson - 5
-        294:Samuel Ferreira - 5
-        320:Tomás Martins - 5
+        301:Simão Almeida - 4
 Day 4
     Catalogue Desk Assistant 
         5:Afonso Costa - 5
         23:Ana Santos - 5
         27:André Luís Silva - 5
         31:Andrew Moore - 5
+        62:Bruno Rodrigues - 4
         114:Ellie Turner - 5
         161:Isabella Jackson - 5
         233:Mariana Pereira - 5
         244:Matilde Gomes - 4
         270:Penelope Flores - 5
-        321:Tomás Oliveira - 5
     Client Services Assistant 
         164:Isaiah Hernandez - 5
-        176:José Carvalho - 5
+        165:Jack Edwards - 4
         186:Laura Santos - 5
         209:Madalena Lima - 5
         236:Mariana Santos - 5
     Cloak Room Assistant 
         68:Carolina Carvalho - 5
-        70:Carolina Fernandes - 5
         78:Catarina Oliveira - 5
+        80:Charlotte Garcia - 5
         101:Diogo Oliveira - 5
         131:Francisco Ferreira - 5
+        141:Gabriel Turner - 5
         173:Jonathan King - 5
-        178:Joseph Hall - 5
-        252:Michael Lewis - 5
+        180:Joshua Hill - 4
+        276:Rafaela Ferreira - 5
         280:Rita Fernandes - 5
-        284:Rodrigo Mendes - 5
     Currency Board Operator (Saleroom 1) 
         35:Arianna Hernandez - 5
-        36:Arianna Peterson - 5
-        130:Francisco Fernandes - 5
+        61:Bruno Almeida - 4
         135:Francisco Santos - 4
-        141:Gabriel Turner - 5
         171:João Pedro Almeida - 5
-        240:Mariana Vaz - 5
+        182:Julia Martinez - 4
         247:Matilde Pinto - 5
-        317:Tiago Sousa Cruz - 5
+        293:Samuel Davis - 4
+        304:Simão Rodrigues - 5
+        310:Sophia Anderson - 4
         323:Tomás Santos - 5
     Currency Board Operator (Saleroom 2) 
     Dept A Assistant 
         16:Ana Ferreira - 5
+        17:Ana Gonçalves - 4
         19:Ana Nunes - 4
-        34:Aria Wright - 4
-        108:Dylan Hernandez - 4
+        47:Beatriz Oliveira - 5
+        75:Carolina Rodrigues - 4
+        103:Diogo Ribeiro - 3
         224:Maria Ribeiro - 4
-        227:Mariana Almeida - 5
-        231:Mariana Fernandes - 4
-        272:Rafael Fernandes - 4
-        282:Rodrigo Castro - 4
-        313:Tiago Fernandes - 4
+        252:Michael Lewis - 4
+        256:Miguel Pereira - 4
+        322:Tomás Rodrigues - 4
     Dept B Packing Assistant 
     Dept B Viewing Assistant 
     Dept C Assistant 
-        47:Beatriz Oliveira - 5
         94:David Wilson - 5
-        219:Margarida Sousa - 5
-        246:Matilde Martins - 5
+        104:Duarte Alves - 5
+        242:Matilde Costa - 5
         297:Sara Silva - 5
+        312:Tiago Cunha - 5
     Dept D Assistant 
-        75:Carolina Rodrigues - 4
-        82:Chloe Young - 4
+        108:Dylan Hernandez - 4
         147:Grace Turner - 5
-        190:Leonor Costa - 5
+        211:Madalena Ribeiro - 3
         222:Maria Ferreira - 4
-        256:Miguel Pereira - 4
-        261:Nuno Almeida - 4
-        269:Pedro Sousa - 4
+        227:Mariana Almeida - 5
+        272:Rafael Fernandes - 4
         274:Rafael Vieira - 4
+        282:Rodrigo Castro - 4
+        313:Tiago Fernandes - 4
         314:Tiago Gonçalves - 4
     Dept D Viewing Assistant 
-        185:Lara Silva - 5
-        229:Mariana Costa - 5
-        241:Matilde Almeida - 5
-        245:Matilde Marques - 4
-        308:Sofia Silva - 5
+        102:Diogo Pereira - 4
+        134:Francisco Rodrigues - 5
+        155:Inês Almeida - 5
+        225:Maria Silva - 5
+        258:Nathan Price - 4
     Dept E Assistant 
     Dept F Packing Assistant 
-        10:Alexandre Martins - 4
-        17:Ana Gonçalves - 4
-        26:André Fernandes - 4
-        140:Gabriel Sousa - 5
-        142:Gonçalo Castro - 4
-        216:Mafalda Ribeiro - 5
-        248:Matthew Edwards - 5
+        46:Beatriz Ferreira - 5
+        72:Carolina Lourenço - 5
+        116:Emma Carter - 5
+        138:Gabriel Ferreira - 4
+        239:Mariana Sousa - 5
+        265:Pedro Dias - 3
         287:Rodrigo Pereira - 4
         291:Ryan Perez - 4
         309:Sofia Turner - 4
+        325:Tyler Martin - 4
     Dept F Viewing Assistant 
     Dept F Viewing Assistant (VIP)
     Dept G Viewing Assistant 
-        28:André Mendes - 5
-        40:Ava Roberts - 5
-        99:Diogo Costa - 4
-        109:Eduardo Silva - 5
         196:Lídia Sousa - 5
+        232:Mariana Lopes - 4
+        241:Matilde Almeida - 5
+        251:Mia Cooper - 4
+        262:Nuno Santos - 5
     Dept H Assistant 
         96:Diana Fernandes - 5
-        104:Duarte Alves - 5
+        219:Margarida Sousa - 5
         234:Mariana Rocha - 5
-        242:Matilde Costa - 5
-        312:Tiago Cunha - 5
+        246:Matilde Martins - 5
+        261:Nuno Almeida - 4
     Dept I Viewing Assistant 
-        139:Gabriel Santos - 5
-        155:Inês Almeida - 5
-        187:Laura Vieira - 4
-        251:Mia Cooper - 4
-        258:Nathan Price - 4
+        92:David Pereira - 5
+        109:Eduardo Silva - 5
+        185:Lara Silva - 5
+        245:Matilde Marques - 4
+        321:Tomás Oliveira - 4
     Dept J Assistant 
     Dept K Packing Assistant 
-        53:Bernardo Barbosa - 5
-        80:Charlotte Garcia - 5
+        28:André Mendes - 5
+        59:Bruna Oliveira - 5
         100:Diogo Cunha - 5
-        239:Mariana Sousa - 5
+        140:Gabriel Sousa - 5
         264:Owen Lee - 5
     Dept K Set Up Assistant 
-        18:Ana Martins - 5
+        20:Ana Paula Ferreira - 4
         22:Ana Rodrigues - 5
-        29:André Santos - 4
         39:Ava Martinez - 5
-        193:Leonor Ribeiro - 5
-        260:Noah Rodriguez - 5
-        268:Pedro Ribeiro - 4
-        281:Rita Matos - 5
-        289:Rui Ferreira - 5
-        324:Tomé Martins - 4
-    Dept K Viewing Assistant 
-        66:Candidate Name - 5
-        92:David Pereira - 5
-        159:Isaac Jackson - 5
-        215:Mafalda Ferreira - 5
-        300:Scarlett Rodriguez - 5
-    Dept L Packing Assistant 
-        32:António Costa - 4
-        59:Bruna Oliveira - 5
-        116:Emma Carter - 5
-        138:Gabriel Ferreira - 4
-        254:Miguel Costa - 4
-        267:Pedro Oliveira - 4
-        277:Rafaela Silva - 4
-        296:Sara Ribeiro - 4
-        304:Simão Rodrigues - 5
-        325:Tyler Martin - 4
-    Dept L Set Up Assistant 
-        2:Adam Mitchell - 5
-        38:Autumn Davis - 5
         76:Carolina Teixeira - 5
         129:Francisco Alves - 5
-        184:Lara Costa - 5
         250:Mia Brown - 4
-        257:Natalie Baker - 4
-        271:Peyton Turner - 4
+        260:Noah Rodriguez - 5
         288:Rodrigo Sousa - 4
         292:Samantha Rodriguez - 5
+        316:Tiago Sousa - 3
+    Dept K Viewing Assistant 
+        40:Ava Roberts - 5
+        139:Gabriel Santos - 5
+        229:Mariana Costa - 5
+        257:Natalie Baker - 3
+        308:Sofia Silva - 5
+    Dept L Packing Assistant 
+        10:Alexandre Martins - 4
+        26:André Fernandes - 4
+        32:António Costa - 4
+        53:Bernardo Barbosa - 5
+        87:Daniel Wright - 3
+        122:Filipa Rodrigues - 4
+        142:Gonçalo Castro - 4
+        240:Mariana Vaz - 4
+        254:Miguel Costa - 4
+        296:Sara Ribeiro - 4
+    Dept L Set Up Assistant 
+        2:Adam Mitchell - 5
+        18:Ana Martins - 5
+        29:André Santos - 4
+        176:José Carvalho - 4
+        184:Lara Costa - 5
+        268:Pedro Ribeiro - 4
+        271:Peyton Turner - 4
+        281:Rita Matos - 5
+        289:Rui Ferreira - 5
+        300:Scarlett Rodriguez - 4
     Dept L Viewing Assistant 
-        46:Beatriz Ferreira - 5
-        102:Diogo Pereira - 4
-        134:Francisco Rodrigues - 5
-        160:Isabela Costa - 5
-        255:Miguel Lopes - 5
+        66:Candidate Name - 5
+        99:Diogo Costa - 4
+        215:Mafalda Ferreira - 5
+        320:Tomás Martins - 4
+        326:Vasco Santos - 5
     Event Assistant 
         37:Aubrey Davis - 5
-        72:Carolina Lourenço - 5
-        79:Catarina Silva - 5
+        248:Matthew Edwards - 5
         286:Rodrigo Oliveira - 5
+        317:Tiago Sousa Cruz - 5
     Impressionist painting Viewing Assistant 
     Information Assistant 
-        20:Ana Paula Ferreira - 5
-        88:Daniela Ribeiro - 5
-        259:Nicholas Walker - 5
-        283:Rodrigo Ferreira - 5
-        322:Tomás Rodrigues - 5
-    Information Assistant (Hall 3B) 
-        87:Daniel Wright - 5
-        188:Leah Johnson - 5
-        263:Olivia Smith - 5
+        121:Filipa Carvalho - 4
+        193:Leonor Ribeiro - 5
         273:Rafael Teixeira - 5
+        283:Rodrigo Ferreira - 5
         311:Tiago Costa - 5
+    Information Assistant (Hall 3B) 
+        88:Daniela Ribeiro - 5
+        188:Leah Johnson - 5
+        202:Lucas Green - 5
+        216:Mafalda Ribeiro - 5
+        259:Nicholas Walker - 5
     London Jewellery Viewing Assistant 
+        57:Brandon Brown - 4
         65:Camila Santos - 5
-        122:Filipa Rodrigues - 5
         125:Francisca Castro - 5
-        144:Gonçalo Martins - 5
         200:Lucas Barbosa - 5
         217:Mafalda Santos - 5
         226:Maria Sousa - 5
+        230:Mariana Dias - 4
         266:Pedro Matos - 5
-        285:Rodrigo Nunes - 5
+        267:Pedro Oliveira - 4
         290:Ryan Parker - 5
     Operations & Administration Packer 
-        25:André Castro - 5
+        79:Catarina Silva - 5
         145:Gonçalo Oliveira - 5
         220:Maria Almeida - 5
         295:Samuel Wilson - 5
     Public Relationship Assistant 
     Site Assistant 
         1:Abigail Perez - 5
+        21:Ana Pires - 4
         69:Carolina Costa - 4
         150:Gustavo Ribeiro - 5
+        178:Joseph Hall - 5
+        183:Justin Taylor - 4
         189:Leonor Almeida - 5
-        202:Lucas Green - 5
-        230:Mariana Dias - 4
-        232:Mariana Lopes - 5
+        194:Leonor Sousa - 4
         315:Tiago Rodrigues - 5
-        319:Tomás Costa - 5
         330:Zoey Nelson - 4
     Spotter 
-        48:Beatriz Rodrigues - 5
+        30:Andréia Santos - 4
+        56:Bernardo Soares - 4
         81:Charlotte Turner - 5
         84:Christopher Baker - 5
+        181:Júlia Costa - 4
         210:Madalena Oliveira - 5
+        213:Madison Allen - 4
         223:Maria Gonçalves - 5
         228:Mariana Andrade - 5
-        276:Rafaela Ferreira - 5
-        294:Samuel Ferreira - 5
         301:Simão Almeida - 4
-        320:Tomás Martins - 5
 Day 5
     Catalogue Desk Assistant 
-        23:Ana Santos - 5
         31:Andrew Moore - 5
-        41:Avery Green - 5
+        86:Colton Wright - 4
         114:Ellie Turner - 5
         118:Ethan Jones - 5
+        131:Francisco Ferreira - 4
         153:Harper Scott - 5
-        168:Jéssica Almeida - 5
         198:Logan Davis - 5
-        243:Matilde Cunha - 5
+        244:Matilde Gomes - 4
         270:Penelope Flores - 5
+        310:Sophia Anderson - 4
     Client Services Assistant 
         33:António Pereira - 5
         164:Isaiah Hernandez - 5
-        176:José Carvalho - 5
         209:Madalena Lima - 5
         212:Madelyn Brown - 5
+        248:Matthew Edwards - 5
     Cloak Room Assistant 
-        70:Carolina Fernandes - 5
+        24:Ana Sousa - 5
         78:Catarina Oliveira - 5
-        101:Diogo Oliveira - 5
-        131:Francisco Ferreira - 5
+        103:Diogo Ribeiro - 4
+        152:Harper Johnson - 5
         162:Isabella Mitchell - 5
         173:Jonathan King - 5
+        180:Joshua Hill - 4
         205:Luís Ferreira - 5
-        235:Mariana Rodrigues - 5
-        252:Michael Lewis - 5
+        276:Rafaela Ferreira - 5
         280:Rita Fernandes - 5
     Currency Board Operator (Saleroom 1) 
-        9:Alexandra Campbell - 4
-        35:Arianna Hernandez - 5
         89:David Fernandes - 4
         106:Duarte Pereira - 5
         111:Eli Wright - 5
-        124:Filipe Ramos - 5
+        135:Francisco Santos - 4
         141:Gabriel Turner - 5
+        175:José Carlos Oliveira - 5
         206:Luísa Fernandes - 5
         240:Mariana Vaz - 5
         247:Matilde Pinto - 5
+        328:William Hernandez - 4
     Currency Board Operator (Saleroom 2) 
         49:Beatriz Santos - 5
         130:Francisco Fernandes - 5
@@ -848,153 +849,153 @@ Day 5
         304:Simão Rodrigues - 5
         317:Tiago Sousa Cruz - 5
     Dept A Assistant 
-        145:Gonçalo Oliveira - 4
-        147:Grace Turner - 5
-        156:Inês Martins - 5
-        170:Joana Silva - 4
-        191:Leonor Mendes - 5
+        25:André Castro - 4
+        115:Emily Martin - 4
+        211:Madalena Ribeiro - 3
         224:Maria Ribeiro - 4
-        234:Mariana Rocha - 5
         272:Rafael Fernandes - 4
-        274:Rafael Vieira - 4
+        285:Rodrigo Nunes - 4
+        297:Sara Silva - 5
+        303:Simão Fernandes - 4
+        306:Sofia Ribeiro - 4
         314:Tiago Gonçalves - 4
     Dept B Packing Assistant 
     Dept B Viewing Assistant 
     Dept C Assistant 
         94:David Wilson - 5
         104:Duarte Alves - 5
-        117:Ethan Flores - 5
+        234:Mariana Rocha - 5
         242:Matilde Costa - 5
-        297:Sara Silva - 5
+        246:Matilde Martins - 5
     Dept D Assistant 
-        82:Chloe Young - 4
-        110:Eduardo Sousa - 5
+        48:Beatriz Rodrigues - 4
+        117:Ethan Flores - 5
+        147:Grace Turner - 5
+        156:Inês Martins - 5
+        179:Joseph Wright - 4
+        191:Leonor Mendes - 5
         219:Margarida Sousa - 5
-        220:Maria Almeida - 4
         227:Mariana Almeida - 5
-        261:Nuno Almeida - 4
-        269:Pedro Sousa - 4
-        303:Simão Fernandes - 4
-        306:Sofia Ribeiro - 4
+        254:Miguel Costa - 3
         322:Tomás Rodrigues - 4
     Dept D Viewing Assistant 
-        15:Ana Costa - 5
-        66:Candidate Name - 5
-        139:Gabriel Santos - 5
+        99:Diogo Costa - 4
+        102:Diogo Pereira - 4
+        196:Lídia Sousa - 5
         258:Nathan Price - 4
-        298:Sarah Garcia - 5
+        320:Tomás Martins - 4
     Dept E Assistant 
     Dept F Packing Assistant 
     Dept F Viewing Assistant 
     Dept F Viewing Assistant (VIP)
+        1:Abigail Perez - 4
         14:Ana Carvalho - 5
-        24:Ana Sousa - 5
         51:Benjamin Nelson - 5
-        102:Diogo Pereira - 4
-        159:Isaac Jackson - 5
-        187:Laura Vieira - 4
-        286:Rodrigo Oliveira - 4
+        127:Francisca Nunes - 2
+        157:Inês Pinto - 5
+        214:Mafalda Cruz - 5
+        245:Matilde Marques - 4
         300:Scarlett Rodriguez - 5
-        309:Sofia Turner - 5
         318:Tomás Carvalho - 3
+        324:Tomé Martins - 4
     Dept G Viewing Assistant 
-        28:André Mendes - 5
-        109:Eduardo Silva - 5
-        132:Francisco Lopes - 5
-        284:Rodrigo Mendes - 5
+        58:Brooklyn Lee - 4
+        139:Gabriel Santos - 5
+        185:Lara Silva - 5
+        307:Sofia Santos - 5
         326:Vasco Santos - 5
     Dept H Assistant 
     Dept I Viewing Assistant 
+        159:Isaac Jackson - 5
         160:Isabela Costa - 5
-        185:Lara Silva - 5
-        196:Lídia Sousa - 5
+        187:Laura Vieira - 4
+        225:Maria Silva - 5
         241:Matilde Almeida - 5
-        279:Rita Carvalho - 5
     Dept J Assistant 
     Dept K Packing Assistant 
         59:Bruna Oliveira - 5
         73:Carolina Nunes - 5
-        116:Emma Carter - 5
         126:Francisca Ferreira - 5
-        239:Mariana Sousa - 5
+        140:Gabriel Sousa - 5
+        218:Margarida Oliveira - 5
     Dept K Set Up Assistant 
+        6:Afonso Pereira - 4
+        11:Alexandre Silva - 4
         12:Amelia Taylor - 5
-        58:Brooklyn Lee - 5
-        64:Caleb Turner - 5
+        20:Ana Paula Ferreira - 4
+        39:Ava Martinez - 5
         67:Carolina Alves - 5
-        76:Carolina Teixeira - 5
-        129:Francisco Alves - 5
-        197:Lily Taylor - 5
+        170:Joana Silva - 4
         268:Pedro Ribeiro - 4
+        271:Peyton Turner - 4
         288:Rodrigo Sousa - 4
-        292:Samantha Rodriguez - 5
     Dept K Viewing Assistant 
-        134:Francisco Rodrigues - 5
-        157:Inês Pinto - 5
+        28:André Mendes - 5
+        113:Elizabeth Adams - 5
+        195:Liam Davis - 5
         215:Mafalda Ferreira - 5
         251:Mia Cooper - 4
-        307:Sofia Santos - 5
     Dept L Packing Assistant 
         4:Addison Mitchell - 4
-        10:Alexandre Martins - 4
-        86:Colton Wright - 5
-        115:Emily Martin - 5
-        218:Margarida Oliveira - 5
-        277:Rafaela Silva - 4
+        26:André Fernandes - 4
+        71:Carolina Lima - 4
+        105:Duarte Martins - 4
+        122:Filipa Rodrigues - 4
+        239:Mariana Sousa - 5
         287:Rodrigo Pereira - 4
         291:Ryan Perez - 4
         296:Sara Ribeiro - 4
-        325:Tyler Martin - 4
+        309:Sofia Turner - 4
     Dept L Set Up Assistant 
-        6:Afonso Pereira - 4
         22:Ana Rodrigues - 5
-        39:Ava Martinez - 5
         63:Caleb Green - 4
+        64:Caleb Turner - 5
+        76:Carolina Teixeira - 5
         95:Diana Costa - 5
-        140:Gabriel Sousa - 5
-        193:Leonor Ribeiro - 5
+        129:Francisco Alves - 5
+        197:Lily Taylor - 5
         237:Mariana Santos - 4
-        271:Peyton Turner - 4
         281:Rita Matos - 5
+        292:Samantha Rodriguez - 5
     Dept L Viewing Assistant 
-        99:Diogo Costa - 4
-        113:Elizabeth Adams - 5
-        195:Liam Davis - 5
-        225:Maria Silva - 5
-        245:Matilde Marques - 4
+        66:Candidate Name - 5
+        109:Eduardo Silva - 5
+        132:Francisco Lopes - 5
+        134:Francisco Rodrigues - 5
+        279:Rita Carvalho - 5
     Event Assistant 
         37:Aubrey Davis - 5
         43:Bárbara Silva - 5
-        175:José Carlos Oliveira - 5
         208:Madalena Ferreira - 5
+        286:Rodrigo Oliveira - 5
     Impressionist painting Viewing Assistant 
     Information Assistant 
-        42:Avery Parker - 5
         50:Beatriz Sousa - 5
-        87:Daniel Wright - 5
+        188:Leah Johnson - 5
         259:Nicholas Walker - 5
         273:Rafael Teixeira - 5
-    Information Assistant (Hall 3B) 
-        20:Ana Paula Ferreira - 5
-        88:Daniela Ribeiro - 5
-        179:Joseph Wright - 5
-        188:Leah Johnson - 5
         283:Rodrigo Ferreira - 5
+    Information Assistant (Hall 3B) 
+        87:Daniel Wright - 5
+        88:Daniela Ribeiro - 5
+        193:Leonor Ribeiro - 5
+        202:Lucas Green - 5
+        284:Rodrigo Mendes - 5
     London Jewellery Viewing Assistant 
         3:Addison Johnson - 5
         65:Camila Santos - 5
         91:David Mitchell - 5
-        122:Filipa Rodrigues - 5
         138:Gabriel Ferreira - 4
+        144:Gonçalo Martins - 5
         217:Mafalda Santos - 5
         226:Maria Sousa - 5
-        285:Rodrigo Nunes - 5
+        235:Mariana Rodrigues - 5
         290:Ryan Parker - 5
         299:Savannah Hall - 5
     Operations & Administration Packer 
         13:Ana Beatriz Ferreira - 5
-        55:Bernardo Martins - 5
         201:Lucas Carvalho - 5
+        220:Maria Almeida - 5
         295:Samuel Wilson - 5
     Public Relationship Assistant 
         30:Andréia Santos - 5
@@ -1006,62 +1007,62 @@ Day 5
         222:Maria Ferreira - 5
         253:Miguel Almeida - 5
     Site Assistant 
-        1:Abigail Perez - 5
-        8:Alexander Thompson - 4
+        61:Bruno Almeida - 4
         85:Christopher Perez - 4
+        116:Emma Carter - 5
         169:Joana Nunes - 5
         172:João Silva - 5
-        202:Lucas Green - 5
+        183:Justin Taylor - 4
+        194:Leonor Sousa - 4
         221:Maria Clara Rodrigues - 5
-        248:Matthew Edwards - 5
         315:Tiago Rodrigues - 5
         330:Zoey Nelson - 4
     Spotter 
+        56:Bernardo Soares - 4
         81:Charlotte Turner - 5
         84:Christopher Baker - 5
         137:Gabriel Costa - 5
-        152:Harper Johnson - 5
+        143:Gonçalo Ferreira - 4
+        181:Júlia Costa - 4
         210:Madalena Oliveira - 5
-        214:Mafalda Cruz - 5
+        213:Madison Allen - 4
         223:Maria Gonçalves - 5
         228:Mariana Andrade - 5
-        276:Rafaela Ferreira - 5
-        320:Tomás Martins - 5
 Day 6
     Catalogue Desk Assistant 
         27:André Luís Silva - 5
-        41:Avery Green - 5
         118:Ethan Jones - 5
         153:Harper Scott - 5
+        233:Mariana Pereira - 5
         321:Tomás Oliveira - 5
     Client Services Assistant 
+        33:António Pereira - 5
         164:Isaiah Hernandez - 5
         186:Laura Santos - 5
-        198:Logan Davis - 5
         212:Madelyn Brown - 5
         236:Mariana Santos - 5
     Cloak Room Assistant 
         70:Carolina Fernandes - 5
         78:Catarina Oliveira - 5
         80:Charlotte Garcia - 5
-        131:Francisco Ferreira - 5
         149:Guilherme Sousa - 5
         162:Isabella Mitchell - 5
+        180:Joshua Hill - 4
         205:Luís Ferreira - 5
-        230:Mariana Dias - 4
         238:Mariana Silva - 5
+        247:Matilde Pinto - 5
         280:Rita Fernandes - 5
     Currency Board Operator (Saleroom 1) 
-        9:Alexandra Campbell - 4
         35:Arianna Hernandez - 5
         106:Duarte Pereira - 5
         111:Eli Wright - 5
+        135:Francisco Santos - 4
         141:Gabriel Turner - 5
         175:José Carlos Oliveira - 5
+        192:Leonor Pereira - 5
         206:Luísa Fernandes - 5
-        240:Mariana Vaz - 5
-        247:Matilde Pinto - 5
-        328:William Hernandez - 4
+        293:Samuel Davis - 4
+        310:Sophia Anderson - 4
     Currency Board Operator (Saleroom 2) 
         130:Francisco Fernandes - 5
         154:Henrique Pereira - 5
@@ -1070,230 +1071,230 @@ Day 6
         317:Tiago Sousa Cruz - 5
         323:Tomás Santos - 5
     Dept A Assistant 
+        9:Alexandra Campbell - 3
         16:Ana Ferreira - 5
-        47:Beatriz Oliveira - 5
-        83:Christian Collins - 5
-        110:Eduardo Sousa - 5
-        144:Gonçalo Martins - 4
-        170:Joana Silva - 4
+        48:Beatriz Rodrigues - 4
+        108:Dylan Hernandez - 4
+        121:Filipa Carvalho - 2
+        227:Mariana Almeida - 5
         256:Miguel Pereira - 4
         272:Rafael Fernandes - 4
-        303:Simão Fernandes - 4
-        306:Sofia Ribeiro - 4
+        274:Rafael Vieira - 4
+        314:Tiago Gonçalves - 4
     Dept B Packing Assistant 
     Dept B Viewing Assistant 
     Dept C Assistant 
         104:Duarte Alves - 5
-        117:Ethan Flores - 5
+        156:Inês Martins - 5
         242:Matilde Costa - 5
         246:Matilde Martins - 5
         312:Tiago Cunha - 5
     Dept D Assistant 
+        19:Ana Nunes - 4
         25:André Castro - 4
-        48:Beatriz Rodrigues - 4
-        145:Gonçalo Oliveira - 4
-        156:Inês Martins - 5
+        47:Beatriz Oliveira - 5
+        83:Christian Collins - 5
+        110:Eduardo Sousa - 5
+        211:Madalena Ribeiro - 3
         224:Maria Ribeiro - 4
         234:Mariana Rocha - 5
-        282:Rodrigo Castro - 4
-        285:Rodrigo Nunes - 4
-        313:Tiago Fernandes - 4
-        314:Tiago Gonçalves - 4
+        261:Nuno Almeida - 4
+        303:Simão Fernandes - 4
     Dept D Viewing Assistant 
         14:Ana Carvalho - 5
-        32:António Costa - 5
-        62:Bruno Rodrigues - 4
+        15:Ana Costa - 5
+        34:Aria Wright - 4
+        51:Benjamin Nelson - 5
         68:Carolina Carvalho - 4
         157:Inês Pinto - 5
-        187:Laura Vieira - 4
-        275:Rafaela Alves - 4
+        161:Isabella Jackson - 4
+        215:Mafalda Ferreira - 5
         298:Sarah Garcia - 5
-        309:Sofia Turner - 5
-        324:Tomé Martins - 4
+        318:Tomás Carvalho - 3
     Dept E Assistant 
-        19:Ana Nunes - 4
         75:Carolina Rodrigues - 4
-        108:Dylan Hernandez - 4
-        220:Maria Almeida - 4
-        227:Mariana Almeida - 5
-        261:Nuno Almeida - 4
-        274:Rafael Vieira - 4
+        115:Emily Martin - 4
+        117:Ethan Flores - 5
+        144:Gonçalo Martins - 4
+        282:Rodrigo Castro - 4
+        285:Rodrigo Nunes - 4
         297:Sara Silva - 5
         305:Sofia Nunes - 3
-        322:Tomás Rodrigues - 4
+        306:Sofia Ribeiro - 4
+        313:Tiago Fernandes - 4
     Dept F Packing Assistant 
     Dept F Viewing Assistant 
     Dept F Viewing Assistant (VIP)
-        31:Andrew Moore - 4
-        34:Aria Wright - 4
-        102:Diogo Pereira - 4
-        142:Gonçalo Castro - 4
-        159:Isaac Jackson - 5
+        62:Bruno Rodrigues - 4
+        69:Carolina Costa - 4
+        127:Francisca Nunes - 2
+        160:Isabela Costa - 5
         241:Matilde Almeida - 5
         245:Matilde Marques - 4
-        284:Rodrigo Mendes - 5
+        275:Rafaela Alves - 4
         300:Scarlett Rodriguez - 5
-        318:Tomás Carvalho - 3
+        324:Tomé Martins - 4
+        328:William Hernandez - 3
     Dept G Viewing Assistant 
-        15:Ana Costa - 5
-        28:André Mendes - 5
-        46:Beatriz Ferreira - 5
-        177:José Rodrigues - 5
-        251:Mia Cooper - 4
+        40:Ava Roberts - 5
+        66:Candidate Name - 5
+        187:Laura Vieira - 4
+        255:Miguel Lopes - 5
+        326:Vasco Santos - 5
     Dept H Assistant 
     Dept I Viewing Assistant 
-        99:Diogo Costa - 4
-        160:Isabela Costa - 5
-        195:Liam Davis - 5
-        196:Lídia Sousa - 5
+        139:Gabriel Santos - 5
+        159:Isaac Jackson - 5
+        177:José Rodrigues - 5
+        225:Maria Silva - 5
         279:Rita Carvalho - 5
     Dept J Assistant 
     Dept K Packing Assistant 
-        45:Beatriz Costa - 5
-        86:Colton Wright - 5
+        28:André Mendes - 5
+        72:Carolina Lourenço - 5
         100:Diogo Cunha - 5
-        126:Francisca Ferreira - 5
+        140:Gabriel Sousa - 5
         264:Owen Lee - 5
     Dept K Set Up Assistant 
         2:Adam Mitchell - 5
-        12:Amelia Taylor - 5
-        64:Caleb Turner - 5
-        67:Carolina Alves - 5
-        129:Francisco Alves - 5
-        133:Francisco Pinto - 5
-        140:Gabriel Sousa - 5
-        184:Lara Costa - 5
-        260:Noah Rodriguez - 5
-        292:Samantha Rodriguez - 5
-    Dept K Viewing Assistant 
-        139:Gabriel Santos - 5
-        225:Maria Silva - 5
-        262:Nuno Santos - 5
-        308:Sofia Silva - 5
-        326:Vasco Santos - 5
-    Dept L Packing Assistant 
-        10:Alexandre Martins - 4
-        71:Carolina Lima - 4
-        73:Carolina Nunes - 5
-        115:Emily Martin - 5
-        116:Emma Carter - 5
-        138:Gabriel Ferreira - 4
-        287:Rodrigo Pereira - 4
-        291:Ryan Perez - 4
-        296:Sara Ribeiro - 4
-        325:Tyler Martin - 4
-    Dept L Set Up Assistant 
-        6:Afonso Pereira - 4
         7:Alexander Anderson - 5
-        22:Ana Rodrigues - 5
+        12:Amelia Taylor - 5
         90:David Lopes - 4
         95:Diana Costa - 5
-        107:Duarte Pinto - 5
-        193:Leonor Ribeiro - 5
+        176:José Carvalho - 4
         197:Lily Taylor - 5
+        260:Noah Rodriguez - 5
+        288:Rodrigo Sousa - 4
         289:Rui Ferreira - 5
+    Dept K Viewing Assistant 
+        1:Abigail Perez - 4
+        46:Beatriz Ferreira - 5
+        155:Inês Almeida - 5
+        196:Lídia Sousa - 5
+        251:Mia Cooper - 4
+    Dept L Packing Assistant 
+        32:António Costa - 4
+        60:Bruna Santos - 3
+        71:Carolina Lima - 4
+        73:Carolina Nunes - 5
+        86:Colton Wright - 5
+        122:Filipa Rodrigues - 4
+        198:Logan Davis - 4
+        278:Raquel Alves - 4
+        291:Ryan Perez - 4
+        309:Sofia Turner - 4
+    Dept L Set Up Assistant 
+        22:Ana Rodrigues - 5
+        63:Caleb Green - 4
+        64:Caleb Turner - 5
+        67:Carolina Alves - 5
+        107:Duarte Pinto - 5
+        133:Francisco Pinto - 5
+        170:Joana Silva - 4
+        184:Lara Costa - 5
+        250:Mia Brown - 4
         329:Zachary Garcia - 5
     Dept L Viewing Assistant 
-        40:Ava Roberts - 5
-        66:Candidate Name - 5
-        155:Inês Almeida - 5
-        215:Mafalda Ferreira - 5
-        255:Miguel Lopes - 5
+        99:Diogo Costa - 4
+        102:Diogo Pereira - 4
+        195:Liam Davis - 5
+        308:Sofia Silva - 5
+        320:Tomás Martins - 4
     Event Assistant 
         37:Aubrey Davis - 5
-        72:Carolina Lourenço - 5
         79:Catarina Silva - 5
         208:Madalena Ferreira - 5
+        248:Matthew Edwards - 5
     Impressionist painting Viewing Assistant 
     Information Assistant 
     Information Assistant (Hall 3B) 
-        20:Ana Paula Ferreira - 5
         174:Jonathan Scott - 5
-        278:Raquel Alves - 5
+        188:Leah Johnson - 5
+        193:Leonor Ribeiro - 5
         283:Rodrigo Ferreira - 5
         311:Tiago Costa - 5
     London Jewellery Viewing Assistant 
         65:Camila Santos - 5
+        77:Catarina Martins - 5
         91:David Mitchell - 5
-        122:Filipa Rodrigues - 5
         163:Isabelle Adams - 5
         200:Lucas Barbosa - 5
         226:Maria Sousa - 5
+        230:Mariana Dias - 4
         266:Pedro Matos - 5
         273:Rafael Teixeira - 5
-        290:Ryan Parker - 5
         299:Savannah Hall - 5
     Operations & Administration Packer 
         5:Afonso Costa - 5
-        13:Ana Beatriz Ferreira - 5
         201:Lucas Carvalho - 5
+        220:Maria Almeida - 5
         295:Samuel Wilson - 5
     Public Relationship Assistant 
-        77:Catarina Martins - 5
         101:Diogo Oliveira - 5
         158:Inês Ribeiro - 5
+        165:Jack Edwards - 4
         173:Jonathan King - 5
-        204:Luís Costa - 5
         253:Miguel Almeida - 5
         267:Pedro Oliveira - 5
         286:Rodrigo Oliveira - 5
+        316:Tiago Sousa - 4
     Site Assistant 
-        1:Abigail Perez - 5
         8:Alexander Thompson - 4
+        61:Bruno Almeida - 4
+        116:Emma Carter - 5
         128:Francisca Oliveira - 5
         169:Joana Nunes - 5
         172:João Silva - 5
+        183:Justin Taylor - 4
         189:Leonor Almeida - 5
-        202:Lucas Green - 5
-        248:Matthew Edwards - 5
         315:Tiago Rodrigues - 5
         330:Zoey Nelson - 4
     Spotter 
-        51:Benjamin Nelson - 5
+        56:Bernardo Soares - 4
         81:Charlotte Turner - 5
+        143:Gonçalo Ferreira - 4
+        167:James Lee - 4
         181:Júlia Costa - 4
-        192:Leonor Pereira - 5
         210:Madalena Oliveira - 5
+        213:Madison Allen - 4
         214:Mafalda Cruz - 5
         223:Maria Gonçalves - 5
         228:Mariana Andrade - 5
-        233:Mariana Pereira - 5
-        320:Tomás Martins - 5
 Day 7
     Catalogue Desk Assistant 
         23:Ana Santos - 5
         31:Andrew Moore - 5
-        114:Ellie Turner - 5
+        59:Bruna Oliveira - 5
         233:Mariana Pereira - 5
         321:Tomás Oliveira - 5
     Client Services Assistant 
-        164:Isaiah Hernandez - 5
-        186:Laura Santos - 5
+        43:Bárbara Silva - 5
+        176:José Carvalho - 5
         198:Logan Davis - 5
         212:Madelyn Brown - 5
         236:Mariana Santos - 5
     Cloak Room Assistant 
-        43:Bárbara Silva - 5
+        60:Bruna Santos - 4
         70:Carolina Fernandes - 5
         78:Catarina Oliveira - 5
         80:Charlotte Garcia - 5
         101:Diogo Oliveira - 5
-        131:Francisco Ferreira - 5
+        119:Eva Nelson - 5
         162:Isabella Mitchell - 5
-        173:Jonathan King - 5
+        218:Margarida Oliveira - 5
         238:Mariana Silva - 5
         280:Rita Fernandes - 5
     Currency Board Operator (Saleroom 1) 
-        9:Alexandra Campbell - 4
+        10:Alexandre Martins - 4
+        11:Alexandre Silva - 4
+        33:António Pereira - 4
         35:Arianna Hernandez - 5
-        124:Filipe Ramos - 5
-        126:Francisca Ferreira - 5
+        89:David Fernandes - 4
         135:Francisco Santos - 4
         141:Gabriel Turner - 5
         192:Leonor Pereira - 5
         206:Luísa Fernandes - 5
         240:Mariana Vaz - 5
-        328:William Hernandez - 4
     Currency Board Operator (Saleroom 2) 
         130:Francisco Fernandes - 5
         154:Henrique Pereira - 5
@@ -1302,16 +1303,16 @@ Day 7
         317:Tiago Sousa Cruz - 5
         323:Tomás Santos - 5
     Dept A Assistant 
-        17:Ana Gonçalves - 4
-        108:Dylan Hernandez - 4
-        145:Gonçalo Oliveira - 4
+        9:Alexandra Campbell - 3
+        25:André Castro - 4
         147:Grace Turner - 5
-        174:Jonathan Scott - 4
-        217:Mafalda Santos - 4
+        202:Lucas Green - 4
         224:Maria Ribeiro - 4
-        234:Mariana Rocha - 5
-        272:Rafael Fernandes - 4
-        282:Rodrigo Castro - 4
+        252:Michael Lewis - 4
+        256:Miguel Pereira - 4
+        265:Pedro Dias - 2
+        293:Samuel Davis - 3
+        297:Sara Silva - 5
     Dept B Packing Assistant 
     Dept B Viewing Assistant 
     Dept C Assistant 
@@ -1321,106 +1322,106 @@ Day 7
         242:Matilde Costa - 5
         312:Tiago Cunha - 5
     Dept D Assistant 
-        48:Beatriz Rodrigues - 4
-        83:Christian Collins - 5
-        156:Inês Martins - 5
-        202:Lucas Green - 4
-        231:Mariana Fernandes - 4
-        254:Miguel Costa - 3
-        256:Miguel Pereira - 4
-        285:Rodrigo Nunes - 4
-        297:Sara Silva - 5
-        306:Sofia Ribeiro - 4
-    Dept D Viewing Assistant 
-        32:António Costa - 5
-        34:Aria Wright - 4
-        44:Beatriz Andrade - 4
-        62:Bruno Rodrigues - 4
-        68:Carolina Carvalho - 4
-        123:Filipe Carvalho - 5
-        182:Julia Martinez - 4
-        187:Laura Vieira - 4
-        275:Rafaela Alves - 4
-        307:Sofia Santos - 5
-    Dept E Assistant 
         16:Ana Ferreira - 5
-        25:André Castro - 4
-        75:Carolina Rodrigues - 4
+        63:Caleb Green - 3
+        83:Christian Collins - 5
         110:Eduardo Sousa - 5
         144:Gonçalo Martins - 4
         219:Margarida Sousa - 5
-        252:Michael Lewis - 4
-        261:Nuno Almeida - 4
+        234:Mariana Rocha - 5
+        259:Nicholas Walker - 4
         274:Rafael Vieira - 4
         305:Sofia Nunes - 3
+    Dept D Viewing Assistant 
+        32:António Costa - 5
+        68:Carolina Carvalho - 4
+        105:Duarte Martins - 4
+        157:Inês Pinto - 5
+        165:Jack Edwards - 3
+        187:Laura Vieira - 4
+        214:Mafalda Cruz - 5
+        275:Rafaela Alves - 4
+        284:Rodrigo Mendes - 5
+        324:Tomé Martins - 4
+    Dept E Assistant 
+        17:Ana Gonçalves - 4
+        48:Beatriz Rodrigues - 4
+        75:Carolina Rodrigues - 4
+        108:Dylan Hernandez - 4
+        121:Filipa Carvalho - 2
+        156:Inês Martins - 5
+        254:Miguel Costa - 3
+        261:Nuno Almeida - 4
+        285:Rodrigo Nunes - 4
+        306:Sofia Ribeiro - 4
     Dept F Packing Assistant 
     Dept F Viewing Assistant 
     Dept F Viewing Assistant (VIP)
         14:Ana Carvalho - 5
-        67:Carolina Alves - 4
-        69:Carolina Costa - 4
-        142:Gonçalo Castro - 4
-        175:José Carlos Oliveira - 4
+        15:Ana Costa - 5
+        34:Aria Wright - 4
+        62:Bruno Rodrigues - 4
+        182:Julia Martinez - 4
         257:Natalie Baker - 3
-        268:Pedro Ribeiro - 4
+        298:Sarah Garcia - 5
         300:Scarlett Rodriguez - 5
         318:Tomás Carvalho - 3
-        324:Tomé Martins - 4
+        328:William Hernandez - 3
     Dept G Viewing Assistant 
-        15:Ana Costa - 5
-        139:Gabriel Santos - 5
-        160:Isabela Costa - 5
-        232:Mariana Lopes - 4
-        262:Nuno Santos - 5
+        40:Ava Roberts - 5
+        58:Brooklyn Lee - 4
+        99:Diogo Costa - 4
+        159:Isaac Jackson - 5
+        251:Mia Cooper - 4
     Dept H Assistant 
     Dept I Viewing Assistant 
         92:David Pereira - 5
+        139:Gabriel Santos - 5
         177:José Rodrigues - 5
         255:Miguel Lopes - 5
-        298:Sarah Garcia - 5
-        308:Sofia Silva - 5
+        262:Nuno Santos - 5
     Dept J Assistant 
     Dept K Packing Assistant 
-        59:Bruna Oliveira - 5
+        71:Carolina Lima - 4
         86:Colton Wright - 5
         100:Diogo Cunha - 5
-        218:Margarida Oliveira - 5
+        126:Francisca Ferreira - 5
         239:Mariana Sousa - 5
     Dept K Set Up Assistant 
-        7:Alexander Anderson - 5
+        6:Afonso Pereira - 4
         18:Ana Martins - 5
-        39:Ava Martinez - 5
-        63:Caleb Green - 4
-        64:Caleb Turner - 5
-        119:Eva Nelson - 5
-        146:Gonçalo Pereira - 4
-        260:Noah Rodriguez - 5
+        20:Ana Paula Ferreira - 4
+        95:Diana Costa - 5
+        133:Francisco Pinto - 5
+        142:Gonçalo Castro - 4
+        197:Lily Taylor - 5
+        237:Mariana Santos - 4
         288:Rodrigo Sousa - 4
         292:Samantha Rodriguez - 5
     Dept K Viewing Assistant 
-        66:Candidate Name - 5
-        159:Isaac Jackson - 5
+        123:Filipe Carvalho - 5
         185:Lara Silva - 5
-        251:Mia Cooper - 4
+        225:Maria Silva - 5
+        320:Tomás Martins - 4
         326:Vasco Santos - 5
     Dept L Packing Assistant 
     Dept L Set Up Assistant 
-        6:Afonso Pereira - 4
-        12:Amelia Taylor - 5
+        7:Alexander Anderson - 5
         22:Ana Rodrigues - 5
-        58:Brooklyn Lee - 5
-        95:Diana Costa - 5
-        133:Francisco Pinto - 5
-        197:Lily Taylor - 5
-        237:Mariana Santos - 4
-        281:Rita Matos - 5
+        39:Ava Martinez - 5
+        64:Caleb Turner - 5
+        67:Carolina Alves - 5
+        129:Francisco Alves - 5
+        250:Mia Brown - 4
+        260:Noah Rodriguez - 5
         289:Rui Ferreira - 5
+        316:Tiago Sousa - 3
     Dept L Viewing Assistant 
-        40:Ava Roberts - 5
-        99:Diogo Costa - 4
-        157:Inês Pinto - 5
-        225:Maria Silva - 5
-        284:Rodrigo Mendes - 5
+        66:Candidate Name - 5
+        160:Isabela Costa - 5
+        232:Mariana Lopes - 4
+        307:Sofia Santos - 5
+        308:Sofia Silva - 5
     Event Assistant 
     Impressionist painting Viewing Assistant 
         208:Madalena Ferreira - 5
@@ -1431,28 +1432,28 @@ Day 7
     Information Assistant 
     Information Assistant (Hall 3B) 
         52:Benjamin Wilson - 5
+        174:Jonathan Scott - 5
+        188:Leah Johnson - 5
         216:Mafalda Ribeiro - 5
-        278:Raquel Alves - 5
-        283:Rodrigo Ferreira - 5
         311:Tiago Costa - 5
     London Jewellery Viewing Assistant 
         91:David Mitchell - 5
         97:Diana Rodrigues - 4
-        98:Diogo Andrade - 5
-        138:Gabriel Ferreira - 4
+        131:Francisco Ferreira - 4
         163:Isabelle Adams - 5
         200:Lucas Barbosa - 5
+        217:Mafalda Santos - 5
         226:Maria Sousa - 5
-        250:Mia Brown - 4
+        287:Rodrigo Pereira - 4
         290:Ryan Parker - 5
         299:Savannah Hall - 5
     Operations & Administration Packer 
         13:Ana Beatriz Ferreira - 5
+        145:Gonçalo Oliveira - 5
         201:Lucas Carvalho - 5
         220:Maria Almeida - 5
-        295:Samuel Wilson - 5
     Public Relationship Assistant 
-        30:Andréia Santos - 5
+        21:Ana Pires - 4
         112:Elijah Campbell - 5
         136:Francisco Sousa - 5
         158:Inês Ribeiro - 5
@@ -1462,50 +1463,50 @@ Day 7
         267:Pedro Oliveira - 5
     Site Assistant 
         8:Alexander Thompson - 4
+        69:Carolina Costa - 4
         85:Christopher Perez - 4
-        89:David Fernandes - 4
+        114:Ellie Turner - 5
         172:João Silva - 5
-        188:Leah Johnson - 5
+        183:Justin Taylor - 4
         193:Leonor Ribeiro - 5
+        194:Leonor Sousa - 4
         221:Maria Clara Rodrigues - 5
-        248:Matthew Edwards - 5
-        259:Nicholas Walker - 5
         330:Zoey Nelson - 4
     Spotter 
+        26:André Fernandes - 4
         81:Charlotte Turner - 5
         84:Christopher Baker - 5
-        151:Gustavo Silva - 5
         152:Harper Johnson - 5
+        181:Júlia Costa - 4
         210:Madalena Oliveira - 5
-        214:Mafalda Cruz - 5
-        223:Maria Gonçalves - 5
         228:Mariana Andrade - 5
         249:Maya Thompson - 5
-        320:Tomás Martins - 5
+        278:Raquel Alves - 4
+        301:Simão Almeida - 4
 Day 8
     Catalogue Desk Assistant 
+        5:Afonso Costa - 5
         23:Ana Santos - 5
         27:André Luís Silva - 5
         31:Andrew Moore - 5
-        148:Guilherme Silva - 5
         153:Harper Scott - 5
     Client Services Assistant 
+        43:Bárbara Silva - 5
+        165:Jack Edwards - 4
         176:José Carvalho - 5
         186:Laura Santos - 5
         212:Madelyn Brown - 5
-        236:Mariana Santos - 5
-        291:Ryan Perez - 5
     Cloak Room Assistant 
-        43:Bárbara Silva - 5
+        70:Carolina Fernandes - 5
+        80:Charlotte Garcia - 5
+        87:Daniel Wright - 4
         106:Duarte Pereira - 5
         137:Gabriel Costa - 5
-        141:Gabriel Turner - 5
         152:Harper Johnson - 5
         162:Isabella Mitchell - 5
-        218:Margarida Oliveira - 5
+        213:Madison Allen - 3
         238:Mariana Silva - 5
-        252:Michael Lewis - 5
-        280:Rita Fernandes - 5
+        276:Rafaela Ferreira - 5
     Currency Board Operator (Saleroom 1) 
     Currency Board Operator (Saleroom 2) 
         35:Arianna Hernandez - 5
@@ -1513,118 +1514,119 @@ Day 8
         111:Eli Wright - 5
         130:Francisco Fernandes - 5
         304:Simão Rodrigues - 5
-        317:Tiago Sousa Cruz - 5
+        310:Sophia Anderson - 4
     Dept A Assistant 
         19:Ana Nunes - 4
-        25:André Castro - 4
-        47:Beatriz Oliveira - 5
+        83:Christian Collins - 5
         110:Eduardo Sousa - 5
-        144:Gonçalo Martins - 4
-        145:Gonçalo Oliveira - 4
-        206:Luísa Fernandes - 4
-        274:Rafael Vieira - 4
+        115:Emily Martin - 4
+        148:Guilherme Silva - 4
+        179:Joseph Wright - 4
+        191:Leonor Mendes - 5
+        252:Michael Lewis - 4
         282:Rodrigo Castro - 4
-        303:Simão Fernandes - 4
+        305:Sofia Nunes - 3
     Dept B Packing Assistant 
     Dept B Viewing Assistant 
     Dept C Assistant 
-        16:Ana Ferreira - 5
+        47:Beatriz Oliveira - 5
         96:Diana Fernandes - 5
         117:Ethan Flores - 5
-        242:Matilde Costa - 5
         246:Matilde Martins - 5
+        279:Rita Carvalho - 5
     Dept D Assistant 
     Dept D Viewing Assistant 
         14:Ana Carvalho - 5
         24:Ana Sousa - 5
-        44:Beatriz Andrade - 4
-        51:Benjamin Nelson - 5
+        62:Bruno Rodrigues - 4
+        157:Inês Pinto - 5
+        161:Isabella Jackson - 4
         175:José Carlos Oliveira - 4
         257:Natalie Baker - 3
-        268:Pedro Ribeiro - 4
-        276:Rafaela Ferreira - 4
-        300:Scarlett Rodriguez - 5
+        296:Sara Ribeiro - 3
         309:Sofia Turner - 5
+        328:William Hernandez - 3
     Dept E Assistant 
+        9:Alexandra Campbell - 3
         17:Ana Gonçalves - 4
-        48:Beatriz Rodrigues - 4
-        83:Christian Collins - 5
-        115:Emily Martin - 4
-        179:Joseph Wright - 4
-        191:Leonor Mendes - 5
-        256:Miguel Pereira - 4
+        51:Benjamin Nelson - 4
+        90:David Lopes - 3
+        121:Filipa Carvalho - 2
+        211:Madalena Ribeiro - 3
         272:Rafael Fernandes - 4
+        303:Simão Fernandes - 4
         306:Sofia Ribeiro - 4
         322:Tomás Rodrigues - 4
     Dept F Packing Assistant 
     Dept F Viewing Assistant 
     Dept F Viewing Assistant (VIP)
     Dept G Viewing Assistant 
-        28:André Mendes - 5
-        139:Gabriel Santos - 5
-        177:José Rodrigues - 5
-        255:Miguel Lopes - 5
-        326:Vasco Santos - 5
+        58:Brooklyn Lee - 4
+        92:David Pereira - 5
+        215:Mafalda Ferreira - 5
+        262:Nuno Santos - 5
+        286:Rodrigo Oliveira - 4
     Dept H Assistant 
     Dept I Viewing Assistant 
         109:Eduardo Silva - 5
-        157:Inês Pinto - 5
-        195:Liam Davis - 5
-        262:Nuno Santos - 5
-        307:Sofia Santos - 5
+        139:Gabriel Santos - 5
+        177:José Rodrigues - 5
+        225:Maria Silva - 5
+        232:Mariana Lopes - 4
     Dept J Assistant 
     Dept K Packing Assistant 
         53:Bernardo Barbosa - 5
-        59:Bruna Oliveira - 5
-        73:Carolina Nunes - 5
         100:Diogo Cunha - 5
+        126:Francisca Ferreira - 5
+        218:Margarida Oliveira - 5
         239:Mariana Sousa - 5
     Dept K Set Up Assistant 
         2:Adam Mitchell - 5
-        12:Amelia Taylor - 5
-        18:Ana Martins - 5
-        58:Brooklyn Lee - 5
+        6:Afonso Pereira - 4
+        7:Alexander Anderson - 5
+        20:Ana Paula Ferreira - 4
+        29:André Santos - 4
         67:Carolina Alves - 5
         76:Carolina Teixeira - 5
-        90:David Lopes - 4
-        140:Gabriel Sousa - 5
+        129:Francisco Alves - 5
         197:Lily Taylor - 5
-        281:Rita Matos - 5
+        240:Mariana Vaz - 4
     Dept K Viewing Assistant 
     Dept L Packing Assistant 
     Dept L Set Up Assistant 
-        6:Afonso Pereira - 4
-        7:Alexander Anderson - 5
-        22:Ana Rodrigues - 5
-        29:André Santos - 4
-        74:Carolina Pires - 5
+        12:Amelia Taylor - 5
+        18:Ana Martins - 5
         107:Duarte Pinto - 5
-        119:Eva Nelson - 5
-        129:Francisco Alves - 5
+        140:Gabriel Sousa - 5
+        142:Gonçalo Castro - 4
         184:Lara Costa - 5
+        268:Pedro Ribeiro - 4
+        281:Rita Matos - 5
         289:Rui Ferreira - 5
+        311:Tiago Costa - 4
     Dept L Viewing Assistant 
         15:Ana Costa - 5
-        92:David Pereira - 5
-        215:Mafalda Ferreira - 5
-        225:Maria Silva - 5
-        279:Rita Carvalho - 5
+        195:Liam Davis - 5
+        255:Miguel Lopes - 5
+        307:Sofia Santos - 5
+        326:Vasco Santos - 5
     Event Assistant 
     Impressionist painting Viewing Assistant 
-        62:Bruno Rodrigues - 5
+        11:Alexandre Silva - 4
         103:Diogo Ribeiro - 5
         222:Maria Ferreira - 5
         313:Tiago Fernandes - 5
         325:Tyler Martin - 5
     Information Assistant 
     Information Assistant (Hall 3B) 
+        88:Daniela Ribeiro - 5
         174:Jonathan Scott - 5
+        188:Leah Johnson - 5
         216:Mafalda Ribeiro - 5
-        263:Olivia Smith - 5
         278:Raquel Alves - 5
-        311:Tiago Costa - 5
     London Jewellery Viewing Assistant 
         3:Addison Johnson - 5
+        4:Addison Mitchell - 4
         65:Camila Santos - 5
         91:David Mitchell - 5
         97:Diana Rodrigues - 4
@@ -1633,110 +1635,109 @@ Day 8
         235:Mariana Rodrigues - 5
         266:Pedro Matos - 5
         290:Ryan Parker - 5
-        299:Savannah Hall - 5
     Operations & Administration Packer 
-        5:Afonso Costa - 5
-        55:Bernardo Martins - 5
+        13:Ana Beatriz Ferreira - 5
         79:Catarina Silva - 5
+        145:Gonçalo Oliveira - 5
         201:Lucas Carvalho - 5
     Public Relationship Assistant 
         21:Ana Pires - 4
         30:Andréia Santos - 5
         112:Elijah Campbell - 5
+        119:Eva Nelson - 5
         136:Francisco Sousa - 5
+        143:Gonçalo Ferreira - 4
         158:Inês Ribeiro - 5
         207:Luke Collins - 5
-        267:Pedro Oliveira - 5
-        286:Rodrigo Oliveira - 5
     Site Assistant 
         1:Abigail Perez - 5
         8:Alexander Thompson - 4
+        61:Bruno Almeida - 4
+        73:Carolina Nunes - 4
         89:David Fernandes - 4
         128:Francisca Oliveira - 5
-        188:Leah Johnson - 5
-        193:Leonor Ribeiro - 5
-        232:Mariana Lopes - 5
-        248:Matthew Edwards - 5
+        167:James Lee - 4
+        194:Leonor Sousa - 4
         249:Maya Thompson - 5
-        315:Tiago Rodrigues - 5
+        265:Pedro Dias - 3
     Spotter 
 Day 9
     Catalogue Desk Assistant 
         23:Ana Santos - 5
-        41:Avery Green - 5
         118:Ethan Jones - 5
         153:Harper Scott - 5
         233:Mariana Pereira - 5
+        321:Tomás Oliveira - 5
     Client Services Assistant 
         43:Bárbara Silva - 5
-        198:Logan Davis - 5
+        186:Laura Santos - 5
         209:Madalena Lima - 5
         236:Mariana Santos - 5
-        260:Noah Rodriguez - 5
+        317:Tiago Sousa Cruz - 4
     Cloak Room Assistant 
         24:Ana Sousa - 5
         68:Carolina Carvalho - 5
+        70:Carolina Fernandes - 5
         123:Filipe Carvalho - 5
-        131:Francisco Ferreira - 5
         149:Guilherme Sousa - 5
         152:Harper Johnson - 5
         154:Henrique Pereira - 5
         205:Luís Ferreira - 5
+        245:Matilde Marques - 5
         276:Rafaela Ferreira - 5
-        280:Rita Fernandes - 5
     Currency Board Operator (Saleroom 1) 
     Currency Board Operator (Saleroom 2) 
     Dept A Assistant 
-        34:Aria Wright - 4
+        17:Ana Gonçalves - 4
+        19:Ana Nunes - 4
         47:Beatriz Oliveira - 5
         83:Christian Collins - 5
-        108:Dylan Hernandez - 4
-        147:Grace Turner - 5
-        190:Leonor Costa - 5
-        191:Leonor Mendes - 5
+        110:Eduardo Sousa - 5
+        115:Emily Martin - 4
+        144:Gonçalo Martins - 4
         256:Miguel Pereira - 4
-        303:Simão Fernandes - 4
-        306:Sofia Ribeiro - 4
+        261:Nuno Almeida - 4
+        314:Tiago Gonçalves - 4
     Dept B Packing Assistant 
     Dept B Viewing Assistant 
     Dept C Assistant 
+        49:Beatriz Santos - 4
         94:David Wilson - 5
         96:Diana Fernandes - 5
-        156:Inês Martins - 5
         219:Margarida Sousa - 5
         279:Rita Carvalho - 5
     Dept D Assistant 
     Dept D Viewing Assistant 
     Dept E Assistant 
-        17:Ana Gonçalves - 4
         25:André Castro - 4
-        49:Beatriz Santos - 4
+        34:Aria Wright - 4
         51:Benjamin Nelson - 4
-        82:Chloe Young - 4
-        115:Emily Martin - 4
-        231:Mariana Fernandes - 4
-        261:Nuno Almeida - 4
-        269:Pedro Sousa - 4
-        289:Rui Ferreira - 4
+        108:Dylan Hernandez - 4
+        147:Grace Turner - 5
+        191:Leonor Mendes - 5
+        274:Rafael Vieira - 4
+        285:Rodrigo Nunes - 4
+        303:Simão Fernandes - 4
+        322:Tomás Rodrigues - 4
     Dept F Packing Assistant 
     Dept F Viewing Assistant 
     Dept F Viewing Assistant (VIP)
     Dept G Viewing Assistant 
-        28:André Mendes - 5
-        66:Candidate Name - 5
         134:Francisco Rodrigues - 5
-        225:Maria Silva - 5
-        327:Victoria Clark - 5
+        166:Jacob Campbell - 4
+        185:Lara Silva - 5
+        262:Nuno Santos - 5
+        308:Sofia Silva - 5
     Dept H Assistant 
     Dept I Viewing Assistant 
         46:Beatriz Ferreira - 5
-        109:Eduardo Silva - 5
-        262:Nuno Santos - 5
-        298:Sarah Garcia - 5
-        308:Sofia Silva - 5
+        58:Brooklyn Lee - 4
+        159:Isaac Jackson - 5
+        257:Natalie Baker - 3
+        307:Sofia Santos - 5
     Dept J Assistant 
     Dept K Packing Assistant 
-        45:Beatriz Costa - 5
+        28:André Mendes - 5
         59:Bruna Oliveira - 5
         73:Carolina Nunes - 5
         264:Owen Lee - 5
@@ -1747,58 +1748,58 @@ Day 9
     Dept L Set Up Assistant 
     Dept L Viewing Assistant 
         15:Ana Costa - 5
+        109:Eduardo Silva - 5
         132:Francisco Lopes - 5
-        157:Inês Pinto - 5
-        185:Lara Silva - 5
-        326:Vasco Santos - 5
+        225:Maria Silva - 5
+        318:Tomás Carvalho - 3
     Event Assistant 
     Impressionist painting Viewing Assistant 
-        62:Bruno Rodrigues - 5
-        76:Carolina Teixeira - 5
+        11:Alexandre Silva - 4
+        222:Maria Ferreira - 5
         258:Nathan Price - 5
-        314:Tiago Gonçalves - 5
-        321:Tomás Oliveira - 5
+        273:Rafael Teixeira - 5
+        325:Tyler Martin - 5
     Information Assistant 
     Information Assistant (Hall 3B) 
+        148:Guilherme Silva - 5
+        175:José Carlos Oliveira - 5
         188:Leah Johnson - 5
         259:Nicholas Walker - 5
-        263:Olivia Smith - 5
         284:Rodrigo Mendes - 5
-        311:Tiago Costa - 5
     London Jewellery Viewing Assistant 
-        65:Camila Santos - 5
         95:Diana Costa - 5
-        144:Gonçalo Martins - 5
-        148:Guilherme Silva - 5
+        131:Francisco Ferreira - 4
+        138:Gabriel Ferreira - 4
+        217:Mafalda Santos - 5
         235:Mariana Rodrigues - 5
         266:Pedro Matos - 5
         270:Penelope Flores - 5
-        273:Rafael Teixeira - 5
-        285:Rodrigo Nunes - 5
+        295:Samuel Wilson - 4
+        298:Sarah Garcia - 5
         299:Savannah Hall - 5
     Operations & Administration Packer 
-        5:Afonso Costa - 5
-        55:Bernardo Martins - 5
         64:Caleb Turner - 5
-        201:Lucas Carvalho - 5
+        76:Carolina Teixeira - 5
+        145:Gonçalo Oliveira - 5
+        281:Rita Matos - 5
     Public Relationship Assistant 
+        21:Ana Pires - 4
+        101:Diogo Oliveira - 5
         119:Eva Nelson - 5
         136:Francisco Sousa - 5
-        204:Luís Costa - 5
-        217:Mafalda Santos - 5
-        222:Maria Ferreira - 5
+        156:Inês Martins - 5
         253:Miguel Almeida - 5
         267:Pedro Oliveira - 5
         282:Rodrigo Castro - 5
     Site Assistant 
-        1:Abigail Perez - 5
+        85:Christopher Perez - 4
+        89:David Fernandes - 4
         114:Ellie Turner - 5
         116:Emma Carter - 5
+        133:Francisco Pinto - 4
         150:Gustavo Ribeiro - 5
         172:João Silva - 5
         202:Lucas Green - 5
         221:Maria Clara Rodrigues - 5
-        249:Maya Thompson - 5
         315:Tiago Rodrigues - 5
-        319:Tomás Costa - 5
     Spotter 
