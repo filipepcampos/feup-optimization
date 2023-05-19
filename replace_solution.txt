@@ -1,10 +1,10 @@
 Objective Function = 1.950153439
 Average Availability = 5.490909091 days
-Average Experience = 4.592911384 / 5
+Average Experience = 4.591368175 / 5
 Average Language Skills (for positions that require it) = 2.805166997 / 5
 Average Presentation Skills (for positions that require it) = 3.114441138 / 5
-Average Capability of Replacements = 2.5
-Average Travel time of Replacements = 4.5
+Average Capability of Replacements = 1.333333333
+Average Travel time of Replacements = 2.166666667
 
 Allocations:
 
@@ -22,6 +22,7 @@ Day 1
     Dept A Assistant 
     Dept B Packing Assistant 
         26:André Fernandes - 4
+        27:André Luís Silva - 2
         32:António Costa - 4
         59:Bruna Oliveira - 5
         115:Emily Martin - 5
@@ -29,7 +30,6 @@ Day 1
         198:Logan Davis - 4
         233:Mariana Pereira - 4
         254:Miguel Costa - 4
-        287:Rodrigo Pereira - 4
         321:Tomás Oliveira - 5
     Dept B Viewing Assistant 
         15:Ana Costa - 5
@@ -101,31 +101,31 @@ Day 1
     Dept K Packing Assistant 
         46:Beatriz Ferreira - 5
         80:Charlotte Garcia - 5
-        87:Daniel Wright - 3
+        100:Diogo Cunha - 5
         216:Mafalda Ribeiro - 5
         218:Margarida Oliveira - 5
     Dept K Set Up Assistant 
         6:Afonso Pereira - 4
-        39:Ava Martinez - 5
         64:Caleb Turner - 5
         67:Carolina Alves - 5
         70:Carolina Fernandes - 4
         90:David Lopes - 4
         133:Francisco Pinto - 5
         155:Inês Almeida - 5
+        167:James Lee - 3
         176:José Carvalho - 4
         271:Peyton Turner - 4
     Dept K Viewing Assistant 
     Dept L Packing Assistant 
         10:Alexandre Martins - 4
         17:Ana Gonçalves - 4
-        27:André Luís Silva - 2
+        87:Daniel Wright - 3
+        105:Duarte Martins - 4
         131:Francisco Ferreira - 4
         142:Gonçalo Castro - 4
         238:Mariana Silva - 5
         240:Mariana Vaz - 4
         262:Nuno Santos - 5
-        304:Simão Rodrigues - 5
         313:Tiago Fernandes - 4
     Dept L Set Up Assistant 
         2:Adam Mitchell - 5

@@ -4,16 +4,16 @@
  * Creation Date: 2 May 2023 at 05:15:22
  *********************************************/
 
-ExperienceWeigth = 0.60;
-PresentationSkillsWeigth = 0.20;
-LanguageSkillsWeigth = 0.20;
+ExperienceWeigth = 0.20;
+PresentationSkillsWeigth = 0.40;
+LanguageSkillsWeigth = 0.40;
 
 WaitingListCapabilityWeigth = 0.65;
 WaitingListTravelWeigth = 0.35;
 
 AcceptableConsecutiveDays = 5;
 MaximumConsecutiveDays = 7;
-PenaltyPerExtraConsecutiveDay = 0.02;
+PenaltyPerExtraConsecutiveDay = 0.005;
 
 TargetNumberOfWorkers = 250;
 MaximumNumberOfWorkers = 300;
