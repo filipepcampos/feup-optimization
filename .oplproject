@@ -23,6 +23,13 @@
 			</ref>
             		
         </config>
+        		
+        <config default="false" name="test-replace" category="opl">
+            			
+            <ref name="main.mod" type="model">
+			</ref>
+            		
+        </config>
         	
     </configs>
     	

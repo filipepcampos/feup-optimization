@@ -63,7 +63,10 @@ dexpr float capabilitiesArray[position in Positions][candidate in CandidateIds] 
 		(
 				ExperienceWeigth * Experience[candidate][PositionMatch[position]] + 
 					PresentationSkillsWeigth * Skills[candidate]["Presentation skills"] * PresentationSkillsMatch[position] +
-					LanguageSkillsWeigth * Skills[candidate]["Language skills"] * LanguageSkillsMatch[position]
+					LanguageSkillsWeigth * Skills[candidate]["Language skills"] * LanguageSkillsMatch[position] +
+					// If presentation or language skills are not required, then experience should have their weight
+					(1-LanguageSkillsMatch[position]) * LanguageSkillsWeigth * Experience[candidate][PositionMatch[position]] +
+					(1-PresentationSkillsMatch[position]) * PresentationSkillsWeigth * Experience[candidate][PositionMatch[position]]
 		);
 
 dexpr float capabilitiesPerAllocation[day in Days][position in Positions] =
@@ -74,7 +77,7 @@ dexpr float capabilitiesPerAllocation[day in Days][position in Positions] =
 dexpr float capabilitiesPerDay[day in Days] = (
 	sum(position in Positions : Requirements[position][day] > 0)
 		capabilitiesPerAllocation[day][position] / Requirements[position][day]
-	) / card(PositionsWithWaitingList);
+	) / card(Positions);
 
 dexpr float capabilities = ( 
 	sum(day in Days)

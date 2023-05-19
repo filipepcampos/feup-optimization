@@ -66,7 +66,10 @@ dexpr float capabilitiesArray[position in Positions][candidate in CandidateIds] 
 		(
 				ExperienceWeigth * Experience[candidate][PositionMatch[position]] + 
 					PresentationSkillsWeigth * Skills[candidate]["Presentation skills"] * PresentationSkillsMatch[position] +
-					LanguageSkillsWeigth * Skills[candidate]["Language skills"] * LanguageSkillsMatch[position]
+					LanguageSkillsWeigth * Skills[candidate]["Language skills"] * LanguageSkillsMatch[position] +
+					// If presentation or language skills are not required, then experience should have their weight
+					(1-LanguageSkillsMatch[position]) * LanguageSkillsWeigth * Experience[candidate][PositionMatch[position]] +
+					(1-PresentationSkillsMatch[position]) * PresentationSkillsWeigth * Experience[candidate][PositionMatch[position]]
 		);
 
 dexpr float capabilitiesPerAllocation[day in Days][position in Positions] =
@@ -89,6 +92,15 @@ dexpr float regularAllocations =
 	- slack_number_of_workers * PenaltyPerExtraWorker
 	- (sum(candidate in CandidateIds) slack_consecutive_days[candidate]) * PenaltyPerExtraConsecutiveDay;
 	
+dexpr float capabilitiesOfReplacements =
+	sum(candidate in CandidateIds : PreviousAssignments[CurrentDay][candidate]["Waiting List "] == 1)(
+		(sum(position in Positions) x[CurrentDay][candidate][position]*capabilitiesArray[position][candidate])
+	) / card(MissingStaff);
+	
+dexpr float travelTimeOfReplacements =
+	sum(candidate in CandidateIds : PreviousAssignments[CurrentDay][candidate]["Waiting List "] == 1)(
+		(sum(position in Positions) x[CurrentDay][candidate][position])*Skills[candidate]["Travel time&distance"]
+	) / card(MissingStaff);
 // ==========================================================================================
 
 maximize regularAllocations; 
@@ -202,8 +214,8 @@ execute OUTPUT_RESULTS_LOG {
 	file.writeln("Average Experience = ", experience_percentage, " / 5");
 	file.writeln("Average Language Skills (for positions that require it) = ", language_skills_percentage, " / 5");
 	file.writeln("Average Presentation Skills (for positions that require it) = ", presentation_skills_percentage, " / 5");
-	
-	file.writeln(number_of_workers);
+	file.writeln("Average Capability of Replacements = ", capabilitiesOfReplacements);
+	file.writeln("Average Travel time of Replacements = ", travelTimeOfReplacements);
 	
 	file.writeln("\nAllocations:\n");
 	
@@ -223,4 +235,3 @@ execute OUTPUT_RESULTS_LOG {
 	  }
  	}
 }
- 
