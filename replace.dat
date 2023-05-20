@@ -12,9 +12,7 @@ ExperienceWeigth = 0.60;
 PresentationSkillsWeigth = 0.20;
 LanguageSkillsWeigth = 0.20;
 
-AcceptableConsecutiveDays = 5;
 MaximumConsecutiveDays = 7;
-PenaltyPerExtraConsecutiveDay = 0.02;
 
 TargetNumberOfWorkers = 250;
 MaximumNumberOfWorkers = 310;
