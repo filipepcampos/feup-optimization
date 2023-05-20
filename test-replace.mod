@@ -8,7 +8,7 @@
 
 string CurrentDay = ...;
 int CurrentIteration = ...;
-{int} MissingStaffSet[1..900] = ...;
+{int} MissingStaffSet[1..270] = ...;
 {int} MissingStaff = MissingStaffSet[CurrentIteration];
 
 float ExperienceWeigth = ...;
